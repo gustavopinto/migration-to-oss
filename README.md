@@ -4,8 +4,8 @@ This document presents the steps needed in order to reproduce the data used in o
 
 # Survey
 
-|Project | Replied | Answered?|
-|-----------------------------|
+|Project|Replied|Answered?|
+|-------------------------|
 |[jquery](https://github.com/jquery/jquery/issues/3138) | |
 |[roslyn](https://github.com/dotnet/roslyn/issues/11714) | |
 |[hhvm](https://github.com/facebook/hhvm/issues/7122) | |
