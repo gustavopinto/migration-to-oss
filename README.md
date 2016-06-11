@@ -12,7 +12,7 @@ Projects that became open-source.
 |[hhvm](https://github.com/facebook/hhvm/issues/7122) | :thumbsup: | PARTITALLY |
 |[swift](http://permalink.gmane.org/gmane.comp.lang.swift.evolution/19859) | :thumbsdown: | --- |
 |[roslyn](https://github.com/dotnet/roslyn/issues/11714) | :thumbsup: | PARTITALLY |
-|[storm](#) | :thumbsdown: | --- |
+|[storm](https://mail-archives.apache.org/mod_mbox/storm-user/201606.mbox/browser) | :thumbsdown: | --- |
 
 Projects that moved to Github.
 
