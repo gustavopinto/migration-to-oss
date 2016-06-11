@@ -40,8 +40,8 @@ Projects that did not keep the software history.
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[caravel](https://github.com/twitter/flockdb/issues/103) | Airbnb | :thumbsup: | :thumbsup: | Became OSS shortly after its bootstrap |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Did not use git before |
-|[Tensorflow](tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS |
-|[card.io](cardio.io.txt) | --- | :thumbsup: | :thumbsup: | --- |
+|[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS |
+|[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | --- | :thumbsup: | :thumbsup: | --- |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: | --- |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: | --- |
 |[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | :thumbsdown: | --- |
