@@ -38,7 +38,7 @@ Projects that did not keep the software history.
 |[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsup: | No info. |
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
-|[caravel](https://github.com/twitter/flockdb/issues/103) | Airbnb | :thumbsup: | :thumbsup: | Became OSS shortly after its bootstrap. |
+|[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
 |[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS. |
 |[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | --- |
