@@ -41,7 +41,7 @@ Projects that did not keep the software history.
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
 |[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS. |
-|[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | --- |
+|[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | Refactoring. Legal reasons. |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: | --- |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: | --- |
 |[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | :thumbsdown: | --- |
