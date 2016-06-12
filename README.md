@@ -39,13 +39,13 @@ Projects that did not keep the software history.
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[caravel](https://github.com/twitter/flockdb/issues/103) | Airbnb | :thumbsup: | :thumbsup: | Became OSS shortly after its bootstrap. |
-|[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Did not use git before |
+|[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
 |[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS. |
 |[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | --- |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: | --- |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: | --- |
 |[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | :thumbsdown: | --- |
-|[openwebrtc](https://github.com/EricssonResearch/openwebrtc/issues/611) | Ericsson Research | :thumbsup: | :thumbsup: | --- |
+|[openwebrtc](https://github.com/EricssonResearch/openwebrtc/issues/611) | Ericsson Research | :thumbsup: | :thumbsup: | Part of the project should remaing proprietary. |
 |[manta](https://github.com/joyent/manta/issues/14) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
 |[triton](https://github.com/joyent/triton/issues/202) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
-|[Dshell](https://github.com/USArmyResearchLab/Dshell/issues/87) | USArmyResearchLab |  :thumbsup: | :thumbsup: | Small project. Didn't need VCS. |
+|[Dshell](https://github.com/USArmyResearchLab/Dshell/issues/87) | USArmyResearchLab |  :thumbsup: | :thumbsup: | Didn't need VCS. |
