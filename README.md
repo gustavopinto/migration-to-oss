@@ -38,7 +38,7 @@ Projects that did not keep the software history.
 |[gizzard](https://github.com/twitter/gizzard/issues/105) | Twitter | :thumbsup: | :thumbsup: | Does not apply. |
 |[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsup: | No info. |
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | :thumbsdown: | --- |
-|[heron](https://github.com/twitter/heron/issues/1018) | Twitter | | :thumbsup: | :thumbsup: | Confidential reasons |
+|[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: | Confidential reasons |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
@@ -54,4 +54,4 @@ Projects that did not keep the software history.
 |[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsdown: |  :thumbsdown: | --- |
 |[django-knowledge](https://github.com/zapier/django-knowledge/issues/70) | zapier | :thumbsup: | :thumbsup: | monolith app |
 |[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsdown:  | :thumbsdown: | --- |
-|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | | :thumbsdown:  | :thumbsdown: | --- |
+|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsdown:  | :thumbsdown: | --- |
