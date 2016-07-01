@@ -23,6 +23,7 @@ Projects that moved to Github.
 |[rails](https://github.com/rails/rails/issues/25255) | :thumbsup: | PARTIALLY |
 |[jquery](https://github.com/jquery/jquery/issues/3138) | :thumbsup: | TOTALLY |
 |[mongodb](https://groups.google.com/forum/#!topic/mongodb-dev/CAJWOT4ldh0) | :thumbsup: | NO |
+|[joomla!](https://groups.google.com/forum/#!topic/joomla-dev-cms/ceLvOA09BLM) | :thumbsup: | NO |
 
 
 Projects that did not keep the software history.
@@ -49,3 +50,4 @@ Projects that did not keep the software history.
 |[manta](https://github.com/joyent/manta/issues/14) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
 |[triton](https://github.com/joyent/triton/issues/202) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
 |[Dshell](https://github.com/USArmyResearchLab/Dshell/issues/87) | USArmyResearchLab |  :thumbsup: | :thumbsup: | Didn't need VCS. |
+|[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsdown: |  :thumbsdown: | --- |
