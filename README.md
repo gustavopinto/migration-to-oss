@@ -54,4 +54,6 @@ Projects that did not keep the software history.
 |[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsdown: |  :thumbsdown: | --- |
 |[django-knowledge](https://github.com/zapier/django-knowledge/issues/70) | zapier | :thumbsup: | :thumbsup: | monolith app |
 |[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsdown:  | :thumbsdown: | --- |
-|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsdown:  | :thumbsdown: | --- |
+|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsup:  | :thumbsup: | --- |
+|[djinni](https://github.com/dropbox/djinni/issues/253) | dropbox | :thumbsup:  | :thumbsup: | --- |
+|[acat](https://github.com/01org/acat/issues/33) | Itel labs | :thumbsdown: | :thumbsdown: | --- |
