@@ -66,3 +66,4 @@ Projects that did not keep the software history.
 |[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsdown: | --- | --- |
 |[decoda](https://github.com/unknownworlds/decoda/issues/33) | unkownworlds | :thumbsdown: | --- | --- |
 |[mrjob](https://github.com/Yelp/mrjob/issues/1356) | Yelp | :thumbsup: | :thumbsup: | --- |
+|[mamute](https://github.com/caelum/mamute/issues/278) | Caelum | :thumbsup: | :thumbsup: | --- |
