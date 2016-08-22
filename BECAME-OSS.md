@@ -33,6 +33,8 @@ Projects that did not keep the software history.
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
 |[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS. |
+|[jsaction](hhttps://github.com/google/jsaction/issues/11) | Google | :thumbsup: | :thumbsup: | lack of tools |
+
 |[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | Refactoring. Legal reasons. |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: | --- |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: | --- |
@@ -60,3 +62,7 @@ Projects that did not keep the software history.
 |[torchnet](https://github.com/torchnet/torchnet/issues/28) | Facebook | :thumbsdown: | --- | --- |
 |[torch](https://github.com/facebook/fb.resnet.torch/issues/86) | Facebook | :thumbsdown: | --- | --- |
 |[draft-js](https://github.com/facebook/draft-js/issues/555) | Facebook | :thumbsdown: | --- | --- |
+|[pinball](https://github.com/pinterest/pinball/issues/74) | Pinterest | :thumbsdown: | --- | --- |
+|[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsdown: | --- | --- |
+|[decoda](https://github.com/unknownworlds/decoda/issues/33) | unkownworlds | :thumbsdown: | --- | --- |
+|[mrjob](https://github.com/Yelp/mrjob/issues/1356) | Yelp | :thumbsup: | :thumbsup: | --- |
