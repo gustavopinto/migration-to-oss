@@ -44,25 +44,25 @@ Projects that did not keep the software history.
 |[Dshell](https://github.com/USArmyResearchLab/Dshell/issues/87) | USArmyResearchLab |  :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsdown: |  --- | --- |
 |[django-knowledge](https://github.com/zapier/django-knowledge/issues/70) | zapier | :thumbsup: | :thumbsup: | monolith app |
-|[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsup:  | :thumbsup: | --- |
-|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsup:  | :thumbsup: | --- |
-|[djinni](https://github.com/dropbox/djinni/issues/253) | dropbox | :thumbsup:  | :thumbsup: | --- |
+|[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsup:  | :thumbsup: | too much work |
+|[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsup:  | :thumbsup: | small repo & legal reasons |
+|[djinni](https://github.com/dropbox/djinni/issues/253) | dropbox | :thumbsup:  | :thumbsup: | Sensitive data |
 |[acat](https://github.com/01org/acat/issues/33) | Itel labs | :thumbsdown: | --- | --- |
-|[superpowers-core](https://github.com/superpowers/superpowers-core/issues/143) | SuperPowers | :thumbsup: | :thumbsup: | --- |
-|[GameMaker](https://github.com/gandrewstone/GameMaker/issues/2) | GameMaker | :thumbsup: | :thumbsup: | --- |
-|[opentoonz](https://github.com/opentoonz/opentoonz/issues/640) | opentoonz | :thumbsdown: | --- | --- |
-|[magento2](https://github.com/magento/magento2/issues/5654) | magento | :thumbsup: | :thumbsup: | --- |
-|[IndexTank](https://github.com/linkedin/indextank-engine/issues/43) | LinkedIn | :thumbsup: | :thumbsup: | --- |
-|[ShareLatex](https://github.com/sharelatex/web-sharelatex/issues/282) | ShareLatex | :thumbsup: | :thumbsup: | --- |
-|[petitions](https://github.com/WhiteHouse/petitions/issues/108) | WhiteHouse | :thumbsdown: | --- | --- |
-|[Haxl](https://github.com/facebook/Haxl/issues/52) | Facebook | :thumbsup: | :thumbsup: | --- |
-|[reason](https://github.com/facebook/reason/issues/651) | Facebook | :thumbsdown: | --- | --- |
-|[redex](https://github.com/facebook/redex/issues/164) | Facebook | :thumbsdown: | --- | --- |
-|[torchnet](https://github.com/torchnet/torchnet/issues/28) | Facebook | :thumbsdown: | --- | --- |
-|[torch](https://github.com/facebook/fb.resnet.torch/issues/86) | Facebook | :thumbsdown: | --- | --- |
-|[draft-js](https://github.com/facebook/draft-js/issues/555) | Facebook | :thumbsdown: | --- | --- |
-|[pinball](https://github.com/pinterest/pinball/issues/74) | Pinterest | :thumbsdown: | --- | --- |
-|[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsdown: | --- | --- |
-|[decoda](https://github.com/unknownworlds/decoda/issues/33) | unkownworlds | :thumbsdown: | --- | --- |
-|[mrjob](https://github.com/Yelp/mrjob/issues/1356) | Yelp | :thumbsup: | :thumbsup: | --- |
-|[mamute](https://github.com/caelum/mamute/issues/278) | Caelum | :thumbsup: | :thumbsup: | --- |
+|[superpowers-core](https://github.com/superpowers/superpowers-core/issues/143) | SuperPowers | :thumbsup: | :thumbsup: | Major refactoring |
+|[GameMaker](https://github.com/gandrewstone/GameMaker/issues/2) | GameMaker | :thumbsup: | :thumbsup: | No info. |
+|[opentoonz](https://github.com/opentoonz/opentoonz/issues/640) | opentoonz | :thumbsup: | :thumbsup: | Copyright issues |
+|[magento2](https://github.com/magento/magento2/issues/5654) | magento | :thumbsup: | :thumbsup: | Used other VCS. |
+|[IndexTank](https://github.com/linkedin/indextank-engine/issues/43) | LinkedIn | :thumbsup: | :thumbsup: | Not a priority. |
+|[ShareLatex](https://github.com/sharelatex/web-sharelatex/issues/282) | ShareLatex | :thumbsup: | :thumbsup: | Private keys in the history. |
+|[petitions](https://github.com/WhiteHouse/petitions/issues/108) | WhiteHouse | :thumbsdown: | --- | Not authorized to comment. |
+|[Haxl](https://github.com/facebook/Haxl/issues/52) | Facebook | :thumbsup: | :thumbsup: | Sensitive info. |
+|[reason](https://github.com/facebook/reason/issues/651) | Facebook | :thumbsup: | :thumbsup: | Sensitive info. |
+|[redex](https://github.com/facebook/redex/issues/164) | Facebook | :thumbsup: | :thumbsup: | Lack of tool support |
+|[torchnet](https://github.com/torchnet/torchnet/issues/28) | Facebook | :thumbsup: | :thumbsup: | ?? |
+|[torch](https://github.com/facebook/fb.resnet.torch/issues/86) | Facebook | :thumbsup: | :thumbsup: | Poluted history |
+|[draft-js](https://github.com/facebook/draft-js/issues/555) | Facebook | :thumbsup: | :thumbsup: | Hard to keep |
+|[pinball](https://github.com/pinterest/pinball/issues/74) | Pinterest | :thumbsup: | :thumbsup: | Entangled with proprietary code. |
+|[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsup: | --- | --- |
+|[decoda](https://github.com/unknownworlds/decoda/issues/33) | unkownworlds | :thumbsup: | :thumbsup: | Used other VCS. |
+|[mrjob](https://github.com/Yelp/mrjob/issues/1356) | Yelp | :thumbsup: | :thumbsup: | Entangled with proprietary code. |
+|[mamute](https://github.com/caelum/mamute/issues/278) | Caelum | :thumbsdown: | :thumbsdown: | --- |
