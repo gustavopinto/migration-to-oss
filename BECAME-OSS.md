@@ -20,8 +20,8 @@ Projects that did not keep the software history.
 |Project|Company|Replied|Answered?|Why?|
 |-------|-------|-------|---------|----|
 |[scratch](https://github.com/LLK/scratch-flash/issues/1112) | MIT | :thumbsup: | :thumbsdown: | ---|
-|[msbuild](https://github.com/Microsoft/msbuild/issues/621) | Microsoft | :thumbsup: | :thumbsup: | --- |
-|[ChakraCore](https://github.com/Microsoft/ChakraCore/issues/1280) | Microsoft | :thumbsup: | :thumbsup: | --- |
+|[msbuild](https://github.com/Microsoft/msbuild/issues/621) | Microsoft | :thumbsup: | :thumbsup: | Entangled with proprietary code & sensitive data. |
+|[ChakraCore](https://github.com/Microsoft/ChakraCore/issues/1280) | Microsoft | :thumbsup: | :thumbsup: | Entangled with proprietary code |
 |[fido](https://github.com/Netflix/Fido/issues/23) | Netfix | :thumbsdown: | --- | --- |
 |[ResearchKit](https://github.com/ResearchKit/ResearchKit/issues/682) | Apple | :thumbsdown: | --- | --- |
 |[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | --- | --- |
