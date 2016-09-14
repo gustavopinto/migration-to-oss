@@ -33,7 +33,7 @@ Projects that did not keep the software history.
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
 |[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: | Used other VCS. |
-|[jsaction](hhttps://github.com/google/jsaction/issues/11) | Google | :thumbsup: | :thumbsup: | lack of tools |
+|[jsaction](https://github.com/google/jsaction/issues/11) | Google | :thumbsup: | :thumbsup: | lack of tools for exporting the history & Entangled with proprietary code|
 |[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: | Refactoring. Legal reasons. |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: | --- |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: | --- |
