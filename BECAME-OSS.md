@@ -42,7 +42,7 @@ Projects that did not keep the software history.
 |[manta](https://github.com/joyent/manta/issues/14) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
 |[triton](https://github.com/joyent/triton/issues/202) | Joyent | :thumbsup: | :thumbsup: | Private keys in the history. |
 |[Dshell](https://github.com/USArmyResearchLab/Dshell/issues/87) | USArmyResearchLab |  :thumbsup: | :thumbsup: | Didn't need VCS. |
-|[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsdown: |  --- | --- |
+|[buffer-ios-image-viewer](https://github.com/bufferapp/buffer-ios-image-viewer/issues/42) | bufferapp | :thumbsup: |  :thumbsup: | get it leaner |
 |[django-knowledge](https://github.com/zapier/django-knowledge/issues/70) | zapier | :thumbsup: | :thumbsup: | monolith app |
 |[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsup:  | :thumbsup: | too much work |
 |[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsup:  | :thumbsup: | small repo & legal reasons |
@@ -58,7 +58,7 @@ Projects that did not keep the software history.
 |[Haxl](https://github.com/facebook/Haxl/issues/52) | Facebook | :thumbsup: | :thumbsup: | Sensitive info. |
 |[reason](https://github.com/facebook/reason/issues/651) | Facebook | :thumbsup: | :thumbsup: | Sensitive info. |
 |[redex](https://github.com/facebook/redex/issues/164) | Facebook | :thumbsup: | :thumbsup: | Lack of tool support |
-|[torchnet](https://github.com/torchnet/torchnet/issues/28) | Facebook | :thumbsup: | :thumbsup: | ?? |
+|[torchnet](https://github.com/torchnet/torchnet/issues/28) | Facebook | :thumbsup: | :thumbsup: | History if of less importance |
 |[torch](https://github.com/facebook/fb.resnet.torch/issues/86) | Facebook | :thumbsup: | :thumbsup: | Poluted history |
 |[draft-js](https://github.com/facebook/draft-js/issues/555) | Facebook | :thumbsup: | :thumbsup: | Hard to keep |
 |[pinball](https://github.com/pinterest/pinball/issues/74) | Pinterest | :thumbsup: | :thumbsup: | Entangled with proprietary code. |
