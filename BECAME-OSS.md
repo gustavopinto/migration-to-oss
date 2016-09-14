@@ -27,7 +27,7 @@ Projects that did not keep the software history.
 |[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | --- | --- |
 |[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsdown: | --- |
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | --- | --- |
-|[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: | Confidential reasons |
+|[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: | sensitive data |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: | Didn't need VCS. |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: | Didn't need VCS |
