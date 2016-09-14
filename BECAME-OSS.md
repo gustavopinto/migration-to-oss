@@ -49,7 +49,7 @@ Projects that did not keep the software history.
 |[djinni](https://github.com/dropbox/djinni/issues/253) | dropbox | :thumbsup:  | :thumbsup: | Sensitive data |
 |[acat](https://github.com/01org/acat/issues/33) | Itel labs | :thumbsdown: | --- | --- |
 |[superpowers-core](https://github.com/superpowers/superpowers-core/issues/143) | SuperPowers | :thumbsup: | :thumbsup: | Major refactoring |
-|[GameMaker](https://github.com/gandrewstone/GameMaker/issues/2) | GameMaker | :thumbsup: | :thumbsup: | No info. |
+|[GameMaker](https://github.com/gandrewstone/GameMaker/issues/2) | GameMaker | :thumbsup: | :thumbsup: | Very old project. historical codebases have not been preserved well. |
 |[opentoonz](https://github.com/opentoonz/opentoonz/issues/640) | opentoonz | :thumbsup: | :thumbsup: | Copyright issues |
 |[magento2](https://github.com/magento/magento2/issues/5654) | magento | :thumbsup: | :thumbsup: | Used other VCS. |
 |[IndexTank](https://github.com/linkedin/indextank-engine/issues/43) | LinkedIn | :thumbsup: | :thumbsup: | Not a priority. |
