@@ -25,8 +25,7 @@ Projects that did not keep the software history.
 |[fido](https://github.com/Netflix/Fido/issues/23) | Netfix | :thumbsdown: | --- | --- |
 |[ResearchKit](https://github.com/ResearchKit/ResearchKit/issues/682) | Apple | :thumbsdown: | --- | --- |
 |[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | --- | --- |
-|[gizzard](https://github.com/twitter/gizzard/issues/105) | Twitter | :thumbsup: | :thumbsup: | Does not apply. |
-|[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsup: | No info. |
+|[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsdown: | --- |
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | --- | --- |
 |[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: | Confidential reasons |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: | --- |
