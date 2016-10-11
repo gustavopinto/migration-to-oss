@@ -13,7 +13,9 @@ Projects that became open-source.
 |[swift](http://permalink.gmane.org/gmane.comp.lang.swift.evolution/19859) | :thumbsdown: | --- |
 |[roslyn](https://github.com/dotnet/roslyn/issues/11714) | :thumbsup: | PARTITALLY |
 |[storm](https://mail-archives.apache.org/mod_mbox/storm-user/201606.mbox/browser) | :thumbsdown: | --- |
-|[plotly](https://github.com/plotly/plotly.js/issues/712he) | :thumbsdown: | --- |
+|[plotly](https://github.com/plotly/plotly.js/issues/712) | :thumbsup: | --- |
+|[hubot](https://github.com/github/hubot/issues/1244) | :thumbsdown: | --- |
+|[zulip](https://github.com/zulip/zulip/issues/1968) | :thumbsdown: | --- |
 
 Projects that did not keep the software history.
 
