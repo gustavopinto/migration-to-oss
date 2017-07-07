@@ -33,9 +33,9 @@ Projects that did not keep the software history.
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: |
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: |
 |[fbctf](https://github.com/facebook/fbctf/issues/49) | Facebook | :thumbsup: | :thumbsup: |
-|[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.txt) | Google | :thumbsup: | :thumbsup: |
+|[Tensorflow](https://github.com/gustavopinto/migration-to-oss/blob/master/tensorflow.md) | Google | :thumbsup: | :thumbsup: |
 |[jsaction](https://github.com/google/jsaction/issues/11) | Google | :thumbsup: | :thumbsup: |
-|[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.txt) | card.io | :thumbsup: | :thumbsup: |
+|[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.md) | card.io | :thumbsup: | :thumbsup: |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: |
 |[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | --- |
