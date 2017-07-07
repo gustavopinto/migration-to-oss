@@ -1,6 +1,6 @@
 # About
 
-This document presents the steps needed in order to reproduce the data used in our ICSME'16 study. Read on for the guidelines.
+This document presents the steps needed in order to reproduce the data used in our EMSE study. Read on for the guidelines.
 
 ## Survey
 
@@ -8,14 +8,14 @@ Projects that became open-source.
 
 |Project|Replied|Answered?|
 |-------|-------|---------|
-|[atom](https://discuss.atom.io/t/studying-the-evolution-of-atoms-project/29581) | :thumbsup: | TOTALLY |
-|[hhvm](https://github.com/facebook/hhvm/issues/7122) | :thumbsup: | PARTITALLY |
+|[atom](https://discuss.atom.io/t/studying-the-evolution-of-atoms-project/29581) | :thumbsup: | :thumbsup: |
+|[hhvm](https://github.com/facebook/hhvm/issues/7122) | :thumbsup: | :thumbsup: |
 |[swift](http://permalink.gmane.org/gmane.comp.lang.swift.evolution/19859) | :thumbsdown: | --- |
-|[roslyn](https://github.com/dotnet/roslyn/issues/11714) | :thumbsup: | PARTITALLY |
+|[roslyn](https://github.com/dotnet/roslyn/issues/11714) | :thumbsup: | :thumbsup: |
 |[storm](https://mail-archives.apache.org/mod_mbox/storm-user/201606.mbox/browser) | :thumbsdown: | --- |
-|[plotly](https://github.com/plotly/plotly.js/issues/712) | :thumbsup: | --- |
-|[hubot](https://github.com/github/hubot/issues/1244) | :thumbsup: | --- |
-|[zulip](https://github.com/zulip/zulip/issues/1968) | :thumbsup: | --- |
+|[plotly](https://github.com/plotly/plotly.js/issues/712) | :thumbsup: | :thumbsup: |
+|[hubot](https://github.com/github/hubot/issues/1244) | :thumbsup: | :thumbsup: |
+|[zulip](https://github.com/zulip/zulip/issues/1968) | :thumbsup: | :thumbsup: |
 
 Projects that did not keep the software history.
 
@@ -24,9 +24,9 @@ Projects that did not keep the software history.
 |[scratch](https://github.com/LLK/scratch-flash/issues/1112) | MIT | :thumbsup: | :thumbsdown: |
 |[msbuild](https://github.com/Microsoft/msbuild/issues/621) | Microsoft | :thumbsup: | :thumbsup: |
 |[ChakraCore](https://github.com/Microsoft/ChakraCore/issues/1280) | Microsoft | :thumbsup: | :thumbsup: |
-|[fido](https://github.com/Netflix/Fido/issues/23) | Netfix | :thumbsdown: | --- |
-|[ResearchKit](https://github.com/ResearchKit/ResearchKit/issues/682) | Apple | :thumbsdown: | --- |
-|[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | --- |
+|[fido](https://github.com/Netflix/Fido/issues/23) | Netfix | :thumbsdown: | :thumbsdown: |
+|[ResearchKit](https://github.com/ResearchKit/ResearchKit/issues/682) | Apple | :thumbsdown: | :thumbsdown: |
+|[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | :thumbsdown: |
 |[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsdown: |
 |[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | --- |
 |[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: |
@@ -38,7 +38,7 @@ Projects that did not keep the software history.
 |[card.io](https://github.com/gustavopinto/migration-to-oss/blob/master/card.io.md) | card.io | :thumbsup: | :thumbsup: |
 |[Aviator](https://github.com/WhiteHatSecurity/Aviator/issues/80) | WhiteHatSecurity | :thumbsdown: | :thumbsdown: |
 |[lastpass-cli](https://github.com/lastpass/lastpass-cli/issues/174) | Lastpass | :thumbsup: | :thumbsdown: |
-|[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | --- |
+|[bowser](https://github.com/EricssonResearch/bowser/issues/86) | Ericsson Research | :thumbsdown: | :thumbsdown: |
 |[openwebrtc](https://github.com/EricssonResearch/openwebrtc/issues/611) | Ericsson Research | :thumbsup: | :thumbsup: |
 |[manta](https://github.com/joyent/manta/issues/14) | Joyent | :thumbsup: | :thumbsup: |
 |[triton](https://github.com/joyent/triton/issues/202) | Joyent | :thumbsup: | :thumbsup: |
@@ -55,7 +55,7 @@ Projects that did not keep the software history.
 |[magento2](https://github.com/magento/magento2/issues/5654) | magento | :thumbsup: | :thumbsup: |
 |[IndexTank](https://github.com/linkedin/indextank-engine/issues/43) | LinkedIn | :thumbsup: | :thumbsup: |
 |[ShareLatex](https://github.com/sharelatex/web-sharelatex/issues/282) | ShareLatex | :thumbsup: | :thumbsup: |
-|[petitions](https://github.com/WhiteHouse/petitions/issues/108) | WhiteHouse | :thumbsdown: | --- |
+|[petitions](https://github.com/WhiteHouse/petitions/issues/108) | WhiteHouse | :thumbsdown: | :thumbsdown: |
 |[Haxl](https://github.com/facebook/Haxl/issues/52) | Facebook | :thumbsup: | :thumbsup: |
 |[reason](https://github.com/facebook/reason/issues/651) | Facebook | :thumbsup: | :thumbsup: |
 |[redex](https://github.com/facebook/redex/issues/164) | Facebook | :thumbsup: | :thumbsup: |
@@ -63,7 +63,7 @@ Projects that did not keep the software history.
 |[torch](https://github.com/facebook/fb.resnet.torch/issues/86) | Facebook | :thumbsup: | :thumbsup: |
 |[draft-js](https://github.com/facebook/draft-js/issues/555) | Facebook | :thumbsup: | :thumbsup: |
 |[pinball](https://github.com/pinterest/pinball/issues/74) | Pinterest | :thumbsup: | :thumbsup: |
-|[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsup: | --- |
+|[flanker](https://github.com/mailgun/flanker/issues/119) | mailgun | :thumbsup: | :thumbsdown: |
 |[decoda](https://github.com/unknownworlds/decoda/issues/33) | unkownworlds | :thumbsup: | :thumbsup: |
 |[mrjob](https://github.com/Yelp/mrjob/issues/1356) | Yelp | :thumbsup: | :thumbsup: |
 |[mamute](https://github.com/caelum/mamute/issues/278) | Caelum | :thumbsdown: | :thumbsdown: |

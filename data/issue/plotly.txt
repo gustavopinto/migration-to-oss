@@ -1,0 +1,384 @@
+#710, scottwittenburg, Null, 2, 30/06/2016, [30/06/2016]
+#708, elv1s42, Null, 3, 30/06/2016, Null
+#707, yniknafs, Null, 0, 30/06/2016, Null
+#706, yankev, Null, 2, 30/06/2016, [30/06/2016]
+#705, brian428, Null, 1, 29/06/2016, Null
+#704, scottwittenburg, Null, 2, 29/06/2016, Null
+#703, brjewell, Null, 4, 29/06/2016, Null
+#702, nielsenb-jf, Null, 1, 28/06/2016, Null
+#700, brian428, Null, 1, 28/06/2016, [28/06/2016]
+#699, fixxxr, Null, 6, 28/06/2016, Null
+#698, juni-green, Null, 1, 28/06/2016, Null
+#695, rreusser, Null, 1, 27/06/2016, [30/06/2016]
+#692, VeraZab, Null, 1, 27/06/2016, [28/06/2016]
+#691, monfera, Null, 0, 25/06/2016, Null
+#689, alexander-alvarez, Null, 1, 24/06/2016, Null
+#686, etpinard, Plotly member, 0, 23/06/2016, Null
+#685, joshua-gould, Null, 2, 23/06/2016, [23/06/2016]
+#684, etpinard, Plotly member, 1, 23/06/2016, Null
+#683, etpinard, Plotly member, 0, 23/06/2016, Null
+#682, etpinard, Plotly member, 0, 23/06/2016, Null
+#679, etpinard, Plotly member, 0, 22/06/2016, Null
+#678, john-soklaski, Null, 2, 22/06/2016, Null
+#677, Rudresh-Ajgaonkar, Null, 4, 21/06/2016, Null
+#676, Rudresh-Ajgaonkar, Null, 2, 21/06/2016, [22/06/2016]
+#674, fixxxr, Null, 0, 21/06/2016, Null
+#671, etpinard, Plotly member, 0, 20/06/2016, Null
+#670, etpinard, Plotly member, 0, 20/06/2016, [22/06/2016]
+#669, ryanlin1986, Null, 1, 20/06/2016, [20/06/2016]
+#668, kennyxiegao, Null, 1, 20/06/2016, [20/06/2016]
+#666, etpinard, Plotly member, 3, 20/06/2016, Null
+#665, etpinard, Plotly member, 0, 20/06/2016, Null
+#664, abalter, Null, 3, 20/06/2016, [20/06/2016 - 20/06/2016]
+#663, danielsamuels, Null, 3, 19/06/2016, [19/06/2016]
+#659, yankev, Null, 3, 17/06/2016, [20/06/2016]
+#657, joshua-gould, Null, 1, 17/06/2016, Null
+#654, VeraZab, Null, 3, 16/06/2016, [16/06/2016]
+#653, chaitu2chowdary, Null, 3, 16/06/2016, [16/06/2016]
+#650, yankev, Null, 1, 15/06/2016, Null
+#649, chriddyp, Plotly member, 1, 15/06/2016, [20/06/2016]
+#648, monfera, Null, 1, 15/06/2016, Null
+#647, monfera, Null, 6, 15/06/2016, [18/06/2016]
+#646, ryanlin1986, Null, 4, 15/06/2016, [15/06/2016]
+#642, etpinard, Plotly member, 0, 14/06/2016, Null
+#641, etpinard, Plotly member, 0, 14/06/2016, Null
+#640, mdtusz, Plotly member, 1, 14/06/2016, [20/06/2016]
+#639, etpinard, Plotly member, 4, 14/06/2016, Null
+#638, mwho, Null, 3, 13/06/2016, [13/06/2016]
+#636, VeraZab, Null, 2, 13/06/2016, Null
+#634, etpinard, Plotly member, 0, 13/06/2016, Null
+#632, charlespwd, Null, 1, 13/06/2016, [13/06/2016]
+#628, blokhin, Null, 2, 11/06/2016, [15/06/2016]
+#627, timecrust, Null, 3, 11/06/2016, Null
+#622, scottstanfield, Null, 3, 9/06/2016, [9/06/2016]
+#621, etpinard, Plotly member, 0, 9/06/2016, Null
+#620, john-soklaski, Null, 1, 9/06/2016, [9/06/2016]
+#619, phx-mkoninckx, Null, 1, 8/06/2016, [8/06/2016]
+#618, VeraZab, Null, 1, 8/06/2016, [8/06/2016]
+#615, ArminTaheri, Null, 1, 8/06/2016, Null
+#614, yankev, Null, 2, 7/06/2016, [10/06/2016]
+#611, KenCoder, Null, 1, 7/06/2016, [7/06/2016]
+#608, yankev, Null, 1, 6/06/2016, Null
+#606, john-soklaski, Null, 5, 6/06/2016, [13/06/2016]
+#605, ArminTaheri, Null, 1, 6/06/2016, [20/06/2016]
+#603, mrok, Null, 1, 5/06/2016, [6/06/2016]
+#601, mdfederici, Null, 6, 3/06/2016, [20/06/2016]
+#600, mdtusz, Plotly member, 5, 2/06/2016, [6/06/2016]
+#598, etpinard, Plotly member, 6, 2/06/2016, Null
+#596, ncammarata, Null, 2, 2/06/2016, [8/06/2016]
+#595, delfick, Null, 2, 2/06/2016, [2/06/2016]
+#594, bg23, Null, 1, 1/06/2016, Null
+#592, romain-fontugne, Null, 1, 1/06/2016, Null
+#591, cpsievert, Null, 0, 1/06/2016, Null
+#588, etpinard, Plotly member, 0, 31/05/2016, [15/06/2016]
+#587, arogozhnikov, Null, 2, 31/05/2016, [31/05/2016]
+#586, cpsievert, Null, 2, 31/05/2016, [1/06/2016]
+#585, cpsievert, Null, 1, 31/05/2016, [1/06/2016]
+#582, dineshu07, Null, 2, 30/05/2016, [30/05/2016]
+#581, MonsieurV, Null, 10, 30/05/2016, Null
+#580, blokhin, Null, 2, 28/05/2016, [2/06/2016]
+#579, jec99, Null, 1, 28/05/2016, Null
+#578, john-soklaski, Null, 1, 27/05/2016, [6/06/2016]
+#574, Jeff-Clark, Null, 1, 27/05/2016, Null
+#573, dineshu07, Null, 4, 27/05/2016, Null
+#567, etpinard, Plotly member, 1, 25/05/2016, Null
+#566, brian428, Null, 10, 25/05/2016, Null
+#565, coopy, Null, 6, 24/05/2016, [2/06/2016]
+#562, johnpauls, Null, 4, 24/05/2016, Null
+#560, djk447, Null, 2, 24/05/2016, Null
+#559, nibage, Null, 3, 22/05/2016, Null
+#558, alexander-alvarez, Null, 6, 22/05/2016, Null
+#557, jdugge, Null, 1, 21/05/2016, [25/05/2016]
+#555, diggydetroit, Null, 2, 19/05/2016, [20/05/2016]
+#553, saadbinabid786, Null, 1, 19/05/2016, [19/05/2016]
+#552, monfera, Null, 5, 19/05/2016, [20/05/2016 - 27/05/2016]
+#551, etpinard, Plotly member, 5, 18/05/2016, Null
+#545, etpinard, Plotly member, 0, 17/05/2016, Null
+#541, alexcastillo, Null, 0, 16/05/2016, Null
+#539, etpinard, Plotly member, 1, 16/05/2016, [17/05/2016]
+#538, kcf-jackson, Null, 1, 15/05/2016, [16/05/2016]
+#537, cpsievert, Null, 3, 15/05/2016, [9/06/2016]
+#534, n-riesco, Null, 1, 13/05/2016, [13/05/2016]
+#530, lomereiter, Null, 1, 13/05/2016, [18/05/2016]
+#529, etpinard, Plotly member, 2, 13/05/2016, Null
+#528, etpinard, Plotly member, 1, 13/05/2016, [25/05/2016]
+#527, abalter, Null, 3, 12/05/2016, Null
+#526, VeraZab, Null, 3, 12/05/2016, [12/05/2016 - 17/05/2016]
+#524, abalter, Null, 3, 11/05/2016, [13/05/2016]
+#523, abalter, Null, 4, 11/05/2016, [11/05/2016]
+#519, etpinard, Plotly member, 0, 9/05/2016, [13/05/2016]
+#518, bg23, Null, 1, 8/05/2016, [9/05/2016]
+#515, etpinard, Plotly member, 0, 5/05/2016, Null
+#513, benjeffery, Null, 5, 5/05/2016, Null
+#512, etpinard, Plotly member, 0, 5/05/2016, [17/05/2016]
+#511, etpinard, Plotly member, 0, 5/05/2016, Null
+#504, Legiew, Null, 3, 4/05/2016, [20/06/2016]
+#503, ubershmekel, Null, 3, 4/05/2016, [5/05/2016]
+#501, cambridgemike, Null, 4, 3/05/2016, [4/05/2016]
+#500, ensight, Null, 3, 3/05/2016, Null
+#498, chaffra, Null, 1, 3/05/2016, [3/05/2016]
+#496, mdtusz, Plotly member, 4, 2/05/2016, [13/05/2016]
+#493, empet, Null, 2, 1/05/2016, [2/05/2016]
+#488, etpinard, Plotly member, 1, 28/04/2016, [28/04/2016]
+#486, n-riesco, Null, 3, 28/04/2016, [13/05/2016]
+#485, etpinard, Plotly member, 0, 28/04/2016, Null
+#484, etpinard, Plotly member, 0, 28/04/2016, Null
+#483, cpsievert, Null, 0, 28/04/2016, Null
+#482, meglio, Null, 7, 28/04/2016, Null
+#480, etpinard, Plotly member, 0, 27/04/2016, Null
+#475, etpinard, Plotly member, 9, 26/04/2016, Null
+#472, mdtusz, Plotly member, 0, 25/04/2016, Null
+#469, vicatcu, Null, 1, 24/04/2016, Null
+#464, aaliddell, Null, 4, 22/04/2016, [22/04/2016]
+#460, AMarthaller, Null, 1, 21/04/2016, [26/04/2016]
+#457, etpinard, Plotly member, 0, 21/04/2016, Null
+#456, etpinard, Plotly member, 0, 21/04/2016, Null
+#453, JordanBallew, Null, 3, 20/04/2016, [21/04/2016]
+#452, meglio, Null, 3, 20/04/2016, Null
+#451, comger, Null, 1, 20/04/2016, [20/04/2016]
+#450, sdx0112, Null, 1, 20/04/2016, Null
+#444, monfera, Null, 2, 19/04/2016, [20/04/2016]
+#440, ahetawal-p, Null, 4, 18/04/2016, [18/04/2016]
+#437, BryanARivera, Null, 1, 17/04/2016, [18/04/2016]
+#435, mdtusz, Plotly member, 0, 15/04/2016, [19/04/2016]
+#431, etpinard, Plotly member, 2, 15/04/2016, Null
+#430, mdtusz, Plotly member, 0, 15/04/2016, Null
+#428, cpsievert, Null, 8, 15/04/2016, [18/04/2016]
+#426, chickendinosaur, Null, 2, 14/04/2016, Null
+#424, etpinard, Plotly member, 4, 13/04/2016, Null
+#423, CarlCui, Null, 4, 13/04/2016, [13/04/2016]
+#420, etpinard, Plotly member, 10, 13/04/2016, Null
+#413, cpsievert, Null, 1, 11/04/2016, Null
+#412, cchrysostomou, Null, 1, 11/04/2016, [11/04/2016]
+#411, chickendinosaur, Null, 3, 10/04/2016, [19/04/2016]
+#409, sieste, Null, 1, 9/04/2016, [15/04/2016]
+#404, mdtusz, Plotly member, 0, 7/04/2016, [11/04/2016]
+#403, KenCoder, Null, 2, 6/04/2016, Null
+#400, Shimwell, Null, 2, 6/04/2016, Null
+#399, etpinard, Plotly member, 0, 6/04/2016, [7/04/2016]
+#397, pmpbar, Null, 1, 5/04/2016, [6/04/2016]
+#394, aburato, Null, 4, 5/04/2016, [5/04/2016]
+#393, jmsunseri, Null, 10, 5/04/2016, [20/04/2016]
+#392, abalter, Null, 4, 4/04/2016, [4/04/2016]
+#391, alexcjohnson, Null, 0, 4/04/2016, Null
+#387, alexcjohnson, Null, 0, 1/04/2016, Null
+#384, ChristinaTech, Null, 1, 1/04/2016, [18/04/2016]
+#383, mdtusz, Plotly member, 0, 1/04/2016, [6/04/2016]
+#382, eugenesvk, Null, 2, 1/04/2016, Null
+#381, eugenesvk, Null, 2, 1/04/2016, Null
+#380, gnepud, Null, 0, 1/04/2016, Null
+#379, cailiang9, Null, 3, 1/04/2016, [5/04/2016]
+#375, wmnnd, Null, 0, 31/03/2016, [31/03/2016]
+#374, bxlxux, Null, 1, 31/03/2016, [31/03/2016]
+#372, aburato, Null, 3, 31/03/2016, [17/05/2016]
+#370, mfkenson, Null, 1, 31/03/2016, [31/03/2016]
+#364, tarzzz, Null, 1, 30/03/2016, [30/03/2016]
+#363, jlecoeur, Null, 1, 29/03/2016, [29/03/2016]
+#362, eugenesvk, Null, 5, 28/03/2016, [28/03/2016]
+#360, brovercleveland, Null, 0, 25/03/2016, Null
+#359, mdtusz, Plotly member, 0, 25/03/2016, [7/04/2016]
+#358, aburato, Null, 1, 25/03/2016, Null
+#357, aburato, Null, 3, 25/03/2016, Null
+#354, amellnik, Null, 3, 23/03/2016, [24/03/2016]
+#350, nemchik, Null, 8, 22/03/2016, [23/03/2016]
+#348, timelyportfolio, Null, 10, 22/03/2016, [30/03/2016]
+#346, Jodana, Null, 2, 21/03/2016, [23/03/2016]
+#345, gramster, Null, 6, 19/03/2016, [21/03/2016]
+#344, pscanlon1, Null, 6, 18/03/2016, [18/03/2016]
+#342, CarlCui, Null, 2, 17/03/2016, [18/03/2016]
+#341, JordanBallew, Null, 6, 17/03/2016, [18/03/2016]
+#340, fixxxr, Null, 4, 17/03/2016, [17/03/2016]
+#339, Jodana, Null, 1, 17/03/2016, [17/03/2016]
+#338, cpsievert, Null, 1, 17/03/2016, [21/03/2016]
+#337, xzmagic, Null, 2, 17/03/2016, [18/03/2016]
+#335, gramster, Null, 3, 16/03/2016, [16/03/2016]
+#334, Jodana, Null, 1, 16/03/2016, [16/03/2016]
+#333, Jodana, Null, 3, 16/03/2016, [29/03/2016]
+#332, cpsievert, Null, 7, 14/03/2016, Null
+#331, CarlCui, Null, 2, 14/03/2016, [30/03/2016]
+#330, tbreloff, Null, 7, 14/03/2016, [16/05/2016]
+#327, GaborSzalai, Null, 0, 14/03/2016, Null
+#326, TheLeonKing, Null, 1, 12/03/2016, [14/03/2016]
+#325, timelyportfolio, Null, 1, 11/03/2016, [14/03/2016]
+#323, tbreloff, Null, 4, 9/03/2016, [18/04/2016]
+#322, etpinard, Plotly member, 12, 9/03/2016, [18/04/2016]
+#320, cpsievert, Null, 2, 8/03/2016, Null
+#319, th0ma5w, Null, 0, 5/03/2016, [7/03/2016]
+#318, th0ma5w, Null, 0, 5/03/2016, [7/03/2016]
+#317, th0ma5w, Null, 0, 5/03/2016, [7/03/2016]
+#316, th0ma5w, Null, 5, 4/03/2016, Null
+#315, fixxxr, Null, 9, 4/03/2016, [8/03/2016]
+#313, etpinard, Plotly member, 9, 3/03/2016, [18/04/2016]
+#308, gevero, Null, 2, 2/03/2016, [22/03/2016]
+#302, etpinard, Plotly member, 0, 1/03/2016, [3/03/2016]
+#299, jdittrich, Null, 0, 1/03/2016, Null
+#298, blankclemens, Null, 1, 1/03/2016, Null
+#297, cpsievert, Null, 2, 1/03/2016, [1/03/2016]
+#296, mnoble01, Null, 2, 29/02/2016, Null
+#292, etpinard, Plotly member, 0, 29/02/2016, Null
+#291, etpinard, Plotly member, 0, 29/02/2016, Null
+#290, Abildtoft, Null, 9, 28/02/2016, [8/03/2016]
+#288, booleanbetrayal, Null, 3, 26/02/2016, Null
+#284, john-soklaski, Null, 4, 25/02/2016, [29/02/2016]
+#283, john-soklaski, Null, 6, 24/02/2016, Null
+#282, gramster, Null, 2, 24/02/2016, Null
+#281, etpinard, Plotly member, 0, 24/02/2016, [4/04/2016]
+#280, mattpolicastro, Null, 3, 24/02/2016, Null
+#279, etpinard, Plotly member, 10, 24/02/2016, [11/04/2016]
+#278, aburato, Null, 2, 24/02/2016, [25/02/2016]
+#277, jdittrich, Null, 2, 24/02/2016, Null
+#276, cpsievert, Null, 1, 23/02/2016, Null
+#275, etpinard, Plotly member, 0, 22/02/2016, Null
+#274, alexander-daniel, Plotly member, 6, 22/02/2016, [23/02/2016]
+#273, ischurov, Null, 0, 22/02/2016, Null
+#272, jackparmer, Null, 7, 22/02/2016, Null
+#271, etpinard, Plotly member, 2, 22/02/2016, [26/02/2016]
+#270, b-pos465, Null, 0, 22/02/2016, Null
+#269, alexcjohnson, Null, 0, 21/02/2016, [1/03/2016]
+#265, etpinard, Plotly member, 4, 19/02/2016, Null
+#264, mldangelo, Null, 4, 19/02/2016, [19/02/2016]
+#261, yankev, Null, 4, 17/02/2016, [24/02/2016]
+#260, ifll, Null, 1, 17/02/2016, Null
+#259, buremba, Null, 9, 17/02/2016, [17/02/2016 - 17/02/2016]
+#257, ifll, Null, 1, 16/02/2016, Null
+#254, arikfr, Null, 3, 12/02/2016, [12/02/2016]
+#252, rgeos, Null, 1, 11/02/2016, [11/02/2016]
+#251, mdtusz, Plotly member, 1, 11/02/2016, [24/02/2016]
+#250, parsonsk, Null, 6, 11/02/2016, [14/06/2016]
+#249, icaromedeiros, Null, 3, 10/02/2016, [10/02/2016]
+#248, joshua-gould, Null, 3, 10/02/2016, Null
+#247, andrey-zakharov, Null, 5, 10/02/2016, [10/02/2016]
+#244, etpinard, Plotly member, 0, 9/02/2016, [9/02/2016]
+#242, nehalecky, Null, 5, 8/02/2016, Null
+#241, etpinard, Plotly member, 1, 8/02/2016, Null
+#238, gramster, Null, 3, 4/02/2016, [4/02/2016]
+#236, etpinard, Plotly member, 0, 3/02/2016, Null
+#234, mbonaci, Null, 2, 2/02/2016, [2/02/2016]
+#233, ifll, Null, 3, 2/02/2016, Null
+#227, Phasedd, Null, 2, 31/01/2016, [1/02/2016]
+#222, totherik, Null, 1, 28/01/2016, [28/01/2016]
+#221, liuyigh, Null, 1, 27/01/2016, Null
+#220, alexander-alvarez, Null, 5, 27/01/2016, Null
+#218, dakotakg, Null, 2, 26/01/2016, [26/01/2016]
+#217, ifll, Null, 12, 26/01/2016, [28/03/2016]
+#216, pascalpas, Null, 2, 26/01/2016, [26/01/2016]
+#212, cailiang9, Null, 1, 23/01/2016, [26/01/2016]
+#209, mdtusz, Plotly member, 1, 22/01/2016, [16/05/2016]
+#207, mdtusz, Plotly member, 8, 22/01/2016, [4/04/2016]
+#205, t0mm13b, Null, 3, 21/01/2016, [26/01/2016]
+#204, mbonaci, Null, 7, 21/01/2016, [30/03/2016]
+#201, HungryGeneral, Null, 2, 20/01/2016, [21/01/2016]
+#200, rminnett, Null, 2, 20/01/2016, [20/01/2016]
+#199, b-pos465, Null, 2, 20/01/2016, [20/01/2016]
+#198, chriddyp, Plotly member, 1, 20/01/2016, Null
+#197, mbande, Null, 5, 20/01/2016, [19/02/2016]
+#196, mbande, Null, 6, 20/01/2016, Null
+#192, joshua-gould, Null, 5, 19/01/2016, Null
+#191, mdtusz, Plotly member, 1, 18/01/2016, [18/01/2016]
+#190, aft-luke, Null, 2, 18/01/2016, [18/01/2016]
+#189, cpsievert, Null, 15, 18/01/2016, [25/04/2016]
+#185, pmpbar, Null, 4, 15/01/2016, [15/01/2016]
+#182, micwc, Null, 2, 14/01/2016, [26/01/2016]
+#181, aderidder, Null, 2, 14/01/2016, Null
+#179, etpinard, Plotly member, 0, 13/01/2016, Null
+#178, etpinard, Plotly member, 0, 12/01/2016, [18/01/2016]
+#177, etpinard, Plotly member, 0, 12/01/2016, [18/01/2016]
+#173, arnaudcol, Null, 9, 11/01/2016, [11/01/2016]
+#171, eddified, Null, 9, 8/01/2016, Null
+#170, etpinard, Plotly member, 0, 7/01/2016, Null
+#168, aderidder, Null, 1, 7/01/2016, Null
+#167, harshjv, Null, 5, 7/01/2016, Null
+#166, micwc, Null, 15, 7/01/2016, Null
+#163, etpinard, Plotly member, 0, 6/01/2016, Null
+#162, c19, Null, 1, 6/01/2016, [26/01/2016]
+#157, mdtusz, Plotly member, 14, 4/01/2016, [15/01/2016]
+#156, yichaoS, Null, 2, 4/01/2016, [26/01/2016]
+#155, DilipRajkumar, Null, 2, 4/01/2016, [4/01/2016]
+#152, etpinard, Plotly member, 3, 30/12/2015, [29/01/2016]
+#151, aft-luke, Null, 3, 30/12/2015, [30/12/2015]
+#148, zerweck, Null, 1, 25/12/2015, [7/04/2016 - 19/04/2016]
+#147, cpsievert, Null, 6, 24/12/2015, Null
+#146, aderidder, Null, 2, 24/12/2015, Null
+#145, aderidder, Null, 5, 24/12/2015, Null
+#144, aderidder, Null, 1, 24/12/2015, Null
+#143, bpostlethwaite, Plotly member, 5, 23/12/2015, Null
+#142, DilipRajkumar, Null, 1, 23/12/2015, Null
+#141, GauthamGoli, Null, 2, 23/12/2015, [6/01/2016]
+#135, tlrdstd, Null, 9, 18/12/2015, [28/12/2015]
+#134, halfs13, Null, 4, 18/12/2015, [16/05/2016]
+#133, Phasedd, Null, 2, 18/12/2015, [23/12/2015]
+#130, etpinard, Plotly member, 0, 17/12/2015, Null
+#129, GauthamGoli, Null, 1, 17/12/2015, [17/12/2015]
+#128, halfs13, Null, 2, 17/12/2015, Null
+#127, halfs13, Null, 2, 17/12/2015, Null
+#126, emackey, Null, 10, 16/12/2015, [11/03/2016]
+#123, mdtusz, Plotly member, 1, 16/12/2015, [16/12/2015]
+#122, mewalig, Null, 7, 16/12/2015, [13/04/2016]
+#121, etpinard, Plotly member, 7, 16/12/2015, Null
+#120, emackey, Null, 5, 16/12/2015, [17/12/2015 - 17/12/2015]
+#119, emackey, Null, 2, 16/12/2015, [17/12/2015]
+#118, etpinard, Plotly member, 2, 16/12/2015, [7/01/2016]
+#113, iustin, Null, 5, 14/12/2015, Null
+#109, chrisjcameron, Null, 2, 14/12/2015, Null
+#108, eulerreich, Null, 10, 13/12/2015, [6/04/2016]
+#107, caalberts, Null, 7, 13/12/2015, [17/12/2015 - 17/12/2015]
+#106, caalberts, Null, 2, 12/12/2015, Null
+#105, DilipRajkumar, Null, 0, 11/12/2015, [16/12/2015]
+#102, mheilman, Null, 3, 10/12/2015, Null
+#101, cldougl, Plotly member, 1, 10/12/2015, [16/12/2015]
+#99, prog8, Null, 12, 10/12/2015, Null
+#98, jackgolding, Null, 1, 10/12/2015, Null
+#97, djkashtan, Null, 2, 9/12/2015, Null
+#96, djkashtan, Null, 3, 9/12/2015, [9/12/2015]
+#95, djkashtan, Null, 1, 9/12/2015, Null
+#94, djkashtan, Null, 4, 9/12/2015, Null
+#90, djchou, Null, 6, 8/12/2015, [2/02/2016]
+#89, spencerlyon2, Plotly member, 7, 8/12/2015, [26/01/2016]
+#86, filipinascimento, Null, 2, 8/12/2015, [5/01/2016]
+#85, tlrdstd, Null, 0, 8/12/2015, Null
+#84, mdtusz, Plotly member, 4, 7/12/2015, [7/12/2015]
+#83, etpinard, Plotly member, 15, 7/12/2015, [16/05/2016]
+#82, mewalig, Null, 5, 7/12/2015, [7/12/2015]
+#80, alexcjohnson, Null, 5, 7/12/2015, Null
+#79, iustin, Null, 9, 5/12/2015, Null
+#78, iustin, Null, 12, 5/12/2015, Null
+#76, alexcjohnson, Null, 9, 4/12/2015, Null
+#75, tlrdstd, Null, 1, 4/12/2015, Null
+#72, ni-hil, Null, 2, 3/12/2015, Null
+#69, mewalig, Null, 2, 3/12/2015, Null
+#66, alexcjohnson, Null, 1, 3/12/2015, Null
+#65, tlrdstd, Null, 3, 3/12/2015, Null
+#62, etpinard, Plotly member, 0, 2/12/2015, [8/12/2015]
+#60, cailiang9, Null, 4, 2/12/2015, Null
+#59, buremba, Null, 3, 1/12/2015, [1/12/2015]
+#56, mheilman, Null, 2, 1/12/2015, [1/12/2015]
+#55, prog8, Null, 5, 1/12/2015, [8/01/2016]
+#54, prog8, Null, 3, 1/12/2015, [1/12/2015]
+#53, prog8, Null, 7, 1/12/2015, [17/05/2016]
+#51, ni-hil, Null, 2, 30/11/2015, [30/11/2015]
+#50, ni-hil, Null, 3, 30/11/2015, Null
+#49, prog8, Null, 3, 30/11/2015, [1/12/2015]
+#45, VishvajitP, Null, 2, 28/11/2015, [30/11/2015]
+#43, etpinard, Plotly member, 1, 27/11/2015, [4/12/2015]
+#42, ni-hil, Null, 10, 27/11/2015, [10/12/2015]
+#41, eoinmurray, Null, 17, 27/11/2015, [8/12/2015 - 25/01/2016]
+#40, xuyang2, Null, 2, 26/11/2015, [11/12/2015]
+#39, robz, Null, 1, 25/11/2015, [26/01/2016]
+#38, chriddyp, Plotly member, 0, 25/11/2015, [30/11/2015]
+#36, ryanlin1986, Null, 1, 25/11/2015, [26/11/2015]
+#34, jackparmer, Null, 8, 24/11/2015, Null
+#30, alexcjohnson, Null, 0, 24/11/2015, [24/11/2015]
+#29, Hypercubed, Null, 3, 24/11/2015, [25/11/2015 - 30/11/2015]
+#28, david-bouyssie, Null, 5, 23/11/2015, Null
+#26, napengam, Null, 2, 23/11/2015, [23/11/2015]
+#25, tbrennanw0rk, Null, 2, 23/11/2015, [5/12/2015]
+#24, rasmusab, Null, 4, 22/11/2015, Null
+#22, lyschoening, Null, 30, 20/11/2015, Null
+#21, adoveil, Null, 4, 20/11/2015, [20/11/2015]
+#20, piranna, Null, 3, 19/11/2015, [4/12/2015]
+#17, MarkEdmondson1234, Null, 0, 18/11/2015, Null
+#16, awesomebytes, Null, 12, 18/11/2015, [18/11/2015]
+#15, lyschoening, Null, 3, 18/11/2015, [18/11/2015]
+#14, Hypercubed, Null, 3, 18/11/2015, [20/11/2015]
+#13, justinwoo, Null, 8, 18/11/2015, [7/12/2015]
+#11, birdsarah, Null, 0, 17/11/2015, [17/11/2015]

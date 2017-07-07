@@ -1,0 +1,2181 @@
+#2183, sotozaki, Null, Null, 14/04/2016, Null, 14/04/2016
+#2182, practicalswift, Null, Null, 14/04/2016, [14/04/2016], Null
+#2181, practicalswift, Null, Null, 14/04/2016, Null, 14/04/2016
+#2180, jrose-apple, Apple member, Null, 14/04/2016, Null, 14/04/2016
+#2179, slavapestov, Apple member, Null, 14/04/2016, Null, 14/04/2016
+#2178, gparker42, Apple member, Null, 14/04/2016, Null, Null
+#2177, trentxintong, Apple member, Null, 13/04/2016, Null, Null
+#2176, swiftix, Apple member, Null, 13/04/2016, Null, 14/04/2016
+#2175, AnnaZaks, Null, Null, 13/04/2016, Null, 14/04/2016
+#2174, swiftix, Apple member, Null, 13/04/2016, Null, 13/04/2016
+#2173, practicalswift, Null, Null, 13/04/2016, Null, 14/04/2016
+#2172, bitjammer, Apple member, Null, 13/04/2016, Null, 13/04/2016
+#2171, eeckstein, Apple member, Null, 13/04/2016, Null, 13/04/2016
+#2170, milseman, Null, Null, 13/04/2016, Null, Null
+#2169, AnnaZaks, Null, Null, 13/04/2016, Null, Null
+#2168, danra, Null, Null, 13/04/2016, Null, 13/04/2016
+#2167, danra, Null, Null, 13/04/2016, Null, Null
+#2166, practicalswift, Null, Null, 13/04/2016, Null, 13/04/2016
+#2165, practicalswift, Null, Null, 13/04/2016, Null, 13/04/2016
+#2164, jckarter, Apple member, Null, 13/04/2016, Null, 13/04/2016
+#2163, MichaelBuckley, Null, Null, 13/04/2016, Null, Null
+#2162, modocache, Null, Null, 12/04/2016, Null, 13/04/2016
+#2161, rudkx, Apple member, Null, 12/04/2016, Null, 13/04/2016
+#2160, joewillsher, Null, Null, 12/04/2016, Null, Null
+#2159, practicalswift, Null, Null, 12/04/2016, Null, 13/04/2016
+#2158, trentxintong, Apple member, Null, 12/04/2016, Null, 13/04/2016
+#2157, natecook1000, Null, Null, 12/04/2016, Null, Null
+#2156, jckarter, Apple member, Null, 12/04/2016, Null, 12/04/2016
+#2155, tkremenek, Apple member, Null, 12/04/2016, Null, 12/04/2016
+#2154, antonvmironov, Null, Null, 12/04/2016, Null, Null
+#2153, slavapestov, Apple member, Null, 12/04/2016, Null, Null
+#2152, practicalswift, Null, Null, 12/04/2016, Null, 12/04/2016
+#2151, bitjammer, Apple member, Null, 12/04/2016, Null, 12/04/2016
+#2150, shahmishal, Apple member, Null, 12/04/2016, Null, Null
+#2149, jckarter, Apple member, Null, 12/04/2016, Null, 12/04/2016
+#2148, harlanhaskins, Apple member, Null, 12/04/2016, Null, 12/04/2016
+#2147, atrick, Apple member, Null, 11/04/2016, Null, Null
+#2146, akyrtzi, Apple member, Null, 11/04/2016, Null, 12/04/2016
+#2145, rudkx, Apple member, Null, 11/04/2016, Null, 14/04/2016
+#2144, tfiala, Apple member, Null, 11/04/2016, Null, 12/04/2016
+#2143, practicalswift, Null, Null, 11/04/2016, Null, 12/04/2016
+#2142, practicalswift, Null, Null, 11/04/2016, Null, 12/04/2016
+#2141, briancroom, Null, Null, 11/04/2016, Null, 12/04/2016
+#2140, milseman, Null, Null, 11/04/2016, Null, 11/04/2016
+#2139, rgarrett, Null, Null, 11/04/2016, [11/04/2016], Null
+#2138, briancroom, Null, Null, 11/04/2016, Null, 11/04/2016
+#2137, briancroom, Null, Null, 11/04/2016, Null, 11/04/2016
+#2136, practicalswift, Null, Null, 11/04/2016, Null, 11/04/2016
+#2134, modocache, Null, Null, 11/04/2016, Null, 11/04/2016
+#2133, bitjammer, Apple member, Null, 11/04/2016, Null, 11/04/2016
+#2132, bitjammer, Apple member, Null, 10/04/2016, Null, 11/04/2016
+#2131, KrishMunot, Null, Null, 10/04/2016, Null, 10/04/2016
+#2130, harlanhaskins, Apple member, Null, 10/04/2016, [10/04/2016], Null
+#2129, jdhealy, Null, Null, 10/04/2016, Null, 10/04/2016
+#2128, bitjammer, Apple member, Null, 10/04/2016, Null, 10/04/2016
+#2127, joewillsher, Null, Null, 10/04/2016, Null, 11/04/2016
+#2126, ghost, Null, Null, 10/04/2016, Null, 10/04/2016
+#2125, danielgindi, Null, Null, 10/04/2016, [11/04/2016], Null
+#2124, manavgabhawala, Null, Null, 10/04/2016, Null, Null
+#2123, manavgabhawala, Null, Null, 10/04/2016, Null, Null
+#2122, ahyattdev, Null, Null, 10/04/2016, Null, Null
+#2121, rintaro, Null, Null, 9/04/2016, [11/04/2016], Null
+#2120, practicalswift, Null, Null, 9/04/2016, Null, 10/04/2016
+#2119, KrishMunot, Null, Null, 9/04/2016, Null, 9/04/2016
+#2118, KrishMunot, Null, Null, 9/04/2016, Null, Null
+#2117, ceyhuno, Null, Null, 9/04/2016, Null, 11/04/2016
+#2116, practicalswift, Null, Null, 9/04/2016, Null, 9/04/2016
+#2115, practicalswift, Null, Null, 9/04/2016, Null, 9/04/2016
+#2114, harlanhaskins, Apple member, Null, 9/04/2016, Null, Null
+#2113, tkremenek, Apple member, Null, 9/04/2016, Null, 9/04/2016
+#2112, rudkx, Apple member, Null, 9/04/2016, Null, 9/04/2016
+#2111, harlanhaskins, Apple member, Null, 9/04/2016, Null, 9/04/2016
+#2110, tkremenek, Apple member, Null, 9/04/2016, Null, 9/04/2016
+#2109, swiftix, Apple member, Null, 9/04/2016, Null, Null
+#2108, dabrahams, Apple member, Null, 8/04/2016, Null, Null
+#2107, milseman, Null, Null, 8/04/2016, Null, 9/04/2016
+#2106, practicalswift, Null, Null, 8/04/2016, Null, 8/04/2016
+#2105, jrose-apple, Apple member, Null, 8/04/2016, [8/04/2016], Null
+#2104, practicalswift, Null, Null, 8/04/2016, Null, 8/04/2016
+#2103, tanadeau, Null, Null, 8/04/2016, Null, 13/04/2016
+#2102, gribozavr, Apple member, Null, 8/04/2016, Null, 8/04/2016
+#2101, harlanhaskins, Apple member, Null, 8/04/2016, Null, 8/04/2016
+#2100, practicalswift, Null, Null, 8/04/2016, Null, 8/04/2016
+#2099, eeckstein, Apple member, Null, 8/04/2016, Null, 8/04/2016
+#2098, hitstergtd, Null, Null, 8/04/2016, Null, 9/04/2016
+#2097, slavapestov, Apple member, Null, 8/04/2016, [11/04/2016], Null
+#2096, akyrtzi, Apple member, Null, 8/04/2016, Null, 8/04/2016
+#2095, slavapestov, Apple member, Null, 8/04/2016, [8/04/2016], Null
+#2094, akyrtzi, Apple member, Null, 8/04/2016, [8/04/2016], Null
+#2093, cwillmor, Apple member, Null, 8/04/2016, Null, 8/04/2016
+#2092, harlanhaskins, Apple member, Null, 8/04/2016, Null, Null
+#2091, tkremenek, Apple member, Null, 7/04/2016, Null, Null
+#2090, harlanhaskins, Apple member, Null, 7/04/2016, Null, 7/04/2016
+#2089, compnerd, Null, Null, 7/04/2016, Null, 7/04/2016
+#2088, harlanhaskins, Apple member, Null, 7/04/2016, [7/04/2016], Null
+#2087, dduan, Null, Null, 7/04/2016, Null, 9/04/2016
+#2086, jckarter, Apple member, Null, 7/04/2016, Null, 7/04/2016
+#2085, nkcsgexi, Null, Null, 7/04/2016, Null, 7/04/2016
+#2084, eeckstein, Apple member, Null, 6/04/2016, Null, 6/04/2016
+#2083, practicalswift, Null, Null, 6/04/2016, Null, 7/04/2016
+#2082, practicalswift, Null, Null, 6/04/2016, Null, 6/04/2016
+#2081, modocache, Null, Null, 6/04/2016, Null, 7/04/2016
+#2080, compnerd, Null, Null, 6/04/2016, Null, Null
+#2079, eeckstein, Apple member, Null, 6/04/2016, Null, 6/04/2016
+#2078, slavapestov, Apple member, Null, 6/04/2016, [8/04/2016], Null
+#2077, trentxintong, Apple member, Null, 6/04/2016, Null, Null
+#2076, AnnaZaks, Null, Null, 6/04/2016, Null, 6/04/2016
+#2075, jckarter, Apple member, Null, 6/04/2016, Null, 6/04/2016
+#2074, trentxintong, Apple member, Null, 6/04/2016, Null, Null
+#2073, atrick, Apple member, Null, 5/04/2016, Null, 6/04/2016
+#2072, bitjammer, Apple member, Null, 5/04/2016, Null, 8/04/2016
+#2071, milseman, Null, Null, 5/04/2016, Null, 6/04/2016
+#2070, natecook1000, Null, Null, 5/04/2016, Null, 7/04/2016
+#2069, akyrtzi, Apple member, Null, 5/04/2016, Null, 6/04/2016
+#2068, practicalswift, Null, Null, 5/04/2016, Null, 6/04/2016
+#2067, swiftix, Apple member, Null, 5/04/2016, Null, 7/04/2016
+#2066, jrose-apple, Apple member, Null, 5/04/2016, [5/04/2016], Null
+#2065, rintaro, Null, Null, 5/04/2016, Null, Null
+#2064, trentxintong, Apple member, Null, 5/04/2016, Null, Null
+#2063, jckarter, Apple member, Null, 5/04/2016, Null, 5/04/2016
+#2062, slavapestov, Apple member, Null, 4/04/2016, Null, Null
+#2061, slavapestov, Apple member, Null, 4/04/2016, [6/04/2016], Null
+#2060, bitjammer, Apple member, Null, 4/04/2016, Null, 4/04/2016
+#2059, natecook1000, Null, Null, 4/04/2016, Null, 5/04/2016
+#2058, jckarter, Apple member, Null, 4/04/2016, Null, 5/04/2016
+#2057, gribozavr, Apple member, Null, 4/04/2016, Null, 4/04/2016
+#2056, compnerd, Null, Null, 4/04/2016, Null, Null
+#2055, jckarter, Apple member, Null, 4/04/2016, Null, 4/04/2016
+#2054, modocache, Null, Null, 4/04/2016, Null, 4/04/2016
+#2053, practicalswift, Null, Null, 4/04/2016, Null, 4/04/2016
+#2052, johnno1962, Null, Null, 4/04/2016, [10/04/2016], Null
+#2051, rintaro, Null, Null, 4/04/2016, [9/04/2016], Null
+#2050, johnno1962, Null, Null, 4/04/2016, Null, Null
+#2049, slavapestov, Apple member, Null, 4/04/2016, [4/04/2016], Null
+#2048, slavapestov, Apple member, Null, 4/04/2016, [4/04/2016], Null
+#2047, manavgabhawala, Null, Null, 4/04/2016, Null, 7/04/2016
+#2046, danra, Null, Null, 3/04/2016, Null, 4/04/2016
+#2045, PiersonBro, Null, Null, 3/04/2016, Null, 4/04/2016
+#2044, tanadeau, Null, Null, 3/04/2016, Null, 8/04/2016
+#2043, practicalswift, Null, Null, 3/04/2016, Null, 3/04/2016
+#2042, jder, Null, Null, 3/04/2016, Null, 3/04/2016
+#2041, practicalswift, Null, Null, 3/04/2016, Null, 3/04/2016
+#2040, Kametrixom, Null, Null, 3/04/2016, Null, Null
+#2039, modocache, Null, Null, 3/04/2016, Null, 11/04/2016
+#2038, frootloops, Null, Null, 2/04/2016, [11/04/2016], Null
+#2037, modocache, Null, Null, 2/04/2016, Null, 8/04/2016
+#2036, modocache, Null, Null, 2/04/2016, Null, 7/04/2016
+#2035, practicalswift, Null, Null, 2/04/2016, Null, 3/04/2016
+#2034, mike-ferris-apple, Apple member, Null, 2/04/2016, Null, 2/04/2016
+#2033, danra, Null, Null, 2/04/2016, Null, 3/04/2016
+#2032, danra, Null, Null, 2/04/2016, Null, 3/04/2016
+#2031, danra, Null, Null, 2/04/2016, [13/04/2016], Null
+#2030, danra, Null, Null, 2/04/2016, Null, 3/04/2016
+#2029, danra, Null, Null, 2/04/2016, Null, 3/04/2016
+#2028, danra, Null, Null, 2/04/2016, Null, 3/04/2016
+#2027, practicalswift, Null, Null, 2/04/2016, Null, 2/04/2016
+#2026, practicalswift, Null, Null, 2/04/2016, Null, 2/04/2016
+#2025, wxxsw, Null, Null, 2/04/2016, Null, 2/04/2016
+#2024, gottesmm, Apple member, Null, 2/04/2016, Null, 2/04/2016
+#2023, gottesmm, Apple member, Null, 2/04/2016, Null, 2/04/2016
+#2022, slavapestov, Apple member, Null, 2/04/2016, [5/04/2016], Null
+#2021, cwillmor, Apple member, Null, 1/04/2016, Null, 2/04/2016
+#2020, eeckstein, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2019, danra, Null, Null, 1/04/2016, Null, 2/04/2016
+#2018, practicalswift, Null, Null, 1/04/2016, Null, 2/04/2016
+#2017, danra, Null, Null, 1/04/2016, Null, 3/04/2016
+#2016, danra, Null, Null, 1/04/2016, Null, 4/04/2016
+#2015, practicalswift, Null, Null, 1/04/2016, Null, 2/04/2016
+#2014, tkremenek, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2013, tkremenek, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2012, RLovelett, Null, Null, 1/04/2016, Null, Null
+#2011, jrose-apple, Apple member, Null, 1/04/2016, Null, 5/04/2016
+#2010, nadavrot, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2009, mrmrs, Null, Null, 1/04/2016, [1/04/2016], Null
+#2008, slavapestov, Apple member, Null, 1/04/2016, [4/04/2016], Null
+#2007, wxxsw, Null, Null, 1/04/2016, Null, 2/04/2016
+#2006, compnerd, Null, Null, 1/04/2016, Null, Null
+#2005, slavapestov, Apple member, Null, 1/04/2016, [1/04/2016], Null
+#2004, slavapestov, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2003, tkremenek, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#2002, dabrahams, Apple member, Null, 1/04/2016, Null, Null
+#2001, harlanhaskins, Apple member, Null, 1/04/2016, [4/04/2016], Null
+#2000, nadavrot, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#1999, jckarter, Apple member, Null, 1/04/2016, Null, 1/04/2016
+#1998, nadavrot, Apple member, Null, 31/03/2016, Null, 1/04/2016
+#1997, danra, Null, Null, 31/03/2016, Null, 31/03/2016
+#1996, milseman, Null, Null, 31/03/2016, Null, 1/04/2016
+#1995, practicalswift, Null, Null, 31/03/2016, Null, 1/04/2016
+#1994, dgrove-oss, Null, Null, 31/03/2016, Null, Null
+#1993, practicalswift, Null, Null, 31/03/2016, Null, 31/03/2016
+#1992, eeckstein, Apple member, Null, 31/03/2016, Null, 1/04/2016
+#1991, slavapestov, Apple member, Null, 31/03/2016, [1/04/2016], Null
+#1990, slavapestov, Apple member, Null, 31/03/2016, Null, 1/04/2016
+#1989, slavapestov, Apple member, Null, 31/03/2016, [31/03/2016], Null
+#1988, practicalswift, Null, Null, 31/03/2016, Null, 31/03/2016
+#1987, danra, Null, Null, 31/03/2016, Null, 1/04/2016
+#1986, danra, Null, Null, 31/03/2016, Null, 1/04/2016
+#1985, tkremenek, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1984, eeckstein, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1983, gribozavr, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1982, swiftix, Apple member, Null, 31/03/2016, Null, 1/04/2016
+#1981, eeckstein, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1980, practicalswift, Null, Null, 31/03/2016, Null, 31/03/2016
+#1979, gribozavr, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1978, gribozavr, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1977, nadavrot, Apple member, Null, 31/03/2016, [1/04/2016], Null
+#1976, trentxintong, Apple member, Null, 31/03/2016, Null, 1/04/2016
+#1975, rudkx, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1974, compnerd, Null, Null, 31/03/2016, Null, 2/04/2016
+#1973, gribozavr, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1972, gribozavr, Apple member, Null, 31/03/2016, Null, 4/04/2016
+#1971, trentxintong, Apple member, Null, 31/03/2016, Null, Null
+#1970, gribozavr, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1969, jpsim, Null, Null, 31/03/2016, Null, 9/04/2016
+#1968, nadavrot, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1967, slavapestov, Apple member, Null, 31/03/2016, Null, 31/03/2016
+#1966, slavapestov, Apple member, Null, 31/03/2016, [31/03/2016], Null
+#1965, gribozavr, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1964, bitjammer, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1963, jckarter, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1962, eeckstein, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1961, jckarter, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1960, practicalswift, Null, Null, 30/03/2016, Null, 2/04/2016
+#1959, tkremenek, Apple member, Null, 30/03/2016, [30/03/2016], Null
+#1958, gribozavr, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1957, rudkx, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1956, compnerd, Null, Null, 30/03/2016, Null, 30/03/2016
+#1955, nadavrot, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1954, jckarter, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1953, milseman, Null, Null, 30/03/2016, Null, 31/03/2016
+#1952, practicalswift, Null, Null, 30/03/2016, Null, 30/03/2016
+#1951, benlangmuir, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1950, shawnce, Null, Null, 30/03/2016, Null, Null
+#1949, slavapestov, Apple member, Null, 30/03/2016, [30/03/2016], Null
+#1948, slavapestov, Apple member, Null, 30/03/2016, Null, 31/03/2016
+#1947, modocache, Null, Null, 30/03/2016, Null, 30/03/2016
+#1946, trentxintong, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1945, jrose-apple, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1944, jrose-apple, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1943, nadavrot, Apple member, Null, 30/03/2016, Null, 30/03/2016
+#1942, jrose-apple, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1941, gonzoua, Null, Null, 29/03/2016, Null, 30/03/2016
+#1940, eeckstein, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1939, tinysun212, Null, Null, 29/03/2016, Null, 30/03/2016
+#1938, jckarter, Apple member, Null, 29/03/2016, Null, 31/03/2016
+#1937, eeckstein, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1936, aschwaighofer, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1935, danra, Null, Null, 29/03/2016, Null, 1/04/2016
+#1934, tkremenek, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1933, nkcsgexi, Null, Null, 29/03/2016, Null, 30/03/2016
+#1932, aschwaighofer, Apple member, Null, 29/03/2016, Null, 29/03/2016
+#1931, danra, Null, Null, 29/03/2016, Null, 29/03/2016
+#1930, manavgabhawala, Null, Null, 29/03/2016, Null, 29/03/2016
+#1929, danra, Null, Null, 29/03/2016, Null, 30/03/2016
+#1928, nadavrot, Apple member, Null, 29/03/2016, Null, 30/03/2016
+#1927, gonzoua, Null, Null, 29/03/2016, Null, 29/03/2016
+#1926, danra, Null, Null, 29/03/2016, Null, 30/03/2016
+#1925, nkcsgexi, Null, Null, 29/03/2016, Null, 30/03/2016
+#1924, natecook1000, Null, Null, 29/03/2016, Null, 29/03/2016
+#1923, jckarter, Apple member, Null, 29/03/2016, Null, 29/03/2016
+#1922, rintaro, Null, Null, 29/03/2016, Null, 4/04/2016
+#1921, jckarter, Apple member, Null, 29/03/2016, Null, 29/03/2016
+#1920, frootloops, Null, Null, 29/03/2016, [29/03/2016], Null
+#1919, tkremenek, Apple member, Null, 29/03/2016, Null, 29/03/2016
+#1918, tinysun212, Null, Null, 29/03/2016, Null, Null
+#1917, tinysun212, Null, Null, 29/03/2016, Null, Null
+#1916, eeckstein, Apple member, Null, 28/03/2016, Null, 29/03/2016
+#1915, nadavrot, Apple member, Null, 28/03/2016, [30/03/2016], Null
+#1914, jckarter, Apple member, Null, 28/03/2016, Null, 29/03/2016
+#1913, jrose-apple, Apple member, Null, 28/03/2016, Null, 29/03/2016
+#1912, jckarter, Apple member, Null, 28/03/2016, Null, 28/03/2016
+#1911, jckarter, Apple member, Null, 28/03/2016, Null, 29/03/2016
+#1910, bitjammer, Apple member, Null, 28/03/2016, Null, 28/03/2016
+#1909, swiftix, Apple member, Null, 28/03/2016, Null, 31/03/2016
+#1908, modocache, Null, Null, 28/03/2016, Null, 6/04/2016
+#1907, ahoppen, Null, Null, 28/03/2016, Null, 28/03/2016
+#1906, practicalswift, Null, Null, 28/03/2016, Null, 28/03/2016
+#1905, practicalswift, Null, Null, 28/03/2016, Null, 28/03/2016
+#1904, practicalswift, Null, Null, 28/03/2016, Null, 30/03/2016
+#1903, rintaro, Null, Null, 28/03/2016, Null, 28/03/2016
+#1902, rintaro, Null, Null, 28/03/2016, Null, 28/03/2016
+#1901, tinysun212, Null, Null, 28/03/2016, Null, 28/03/2016
+#1900, gregomni, Null, Null, 28/03/2016, Null, Null
+#1899, practicalswift, Null, Null, 27/03/2016, Null, 28/03/2016
+#1898, practicalswift, Null, Null, 27/03/2016, Null, 28/03/2016
+#1897, trentxintong, Apple member, Null, 27/03/2016, [31/03/2016], Null
+#1896, trentxintong, Apple member, Null, 27/03/2016, [27/03/2016], Null
+#1895, trentxintong, Apple member, Null, 27/03/2016, [30/03/2016 - 31/03/2016], Null
+#1894, eeckstein, Apple member, Null, 27/03/2016, Null, 28/03/2016
+#1893, spevans, Null, Null, 27/03/2016, [29/03/2016], Null
+#1892, frootloops, Null, Null, 27/03/2016, Null, 30/03/2016
+#1891, drewcrawford, Null, Null, 27/03/2016, Null, Null
+#1890, aschwaighofer, Apple member, Null, 27/03/2016, Null, 27/03/2016
+#1889, natecook1000, Null, Null, 27/03/2016, Null, 27/03/2016
+#1888, trentxintong, Apple member, Null, 27/03/2016, Null, 1/04/2016
+#1887, tanadeau, Null, Null, 26/03/2016, Null, 3/04/2016
+#1886, Reflejo, Null, Null, 26/03/2016, Null, 30/03/2016
+#1885, danra, Null, Null, 26/03/2016, Null, 27/03/2016
+#1884, danra, Null, Null, 26/03/2016, Null, 26/03/2016
+#1883, danra, Null, Null, 26/03/2016, [27/03/2016], Null
+#1882, tkremenek, Apple member, Null, 26/03/2016, [26/03/2016], Null
+#1881, danra, Null, Null, 26/03/2016, Null, 26/03/2016
+#1880, danra, Null, Null, 26/03/2016, Null, 26/03/2016
+#1879, slavapestov, Apple member, Null, 26/03/2016, [1/04/2016], Null
+#1878, jrose-apple, Apple member, Null, 25/03/2016, Null, 12/04/2016
+#1877, practicalswift, Null, Null, 25/03/2016, Null, 28/03/2016
+#1876, swiftix, Apple member, Null, 25/03/2016, Null, 26/03/2016
+#1875, nkcsgexi, Null, Null, 25/03/2016, Null, 25/03/2016
+#1874, danra, Null, Null, 25/03/2016, Null, 25/03/2016
+#1873, hitstergtd, Null, Null, 25/03/2016, Null, 25/03/2016
+#1872, danra, Null, Null, 25/03/2016, Null, 26/03/2016
+#1871, aschwaighofer, Apple member, Null, 25/03/2016, [25/03/2016], Null
+#1870, aschwaighofer, Apple member, Null, 25/03/2016, [25/03/2016], Null
+#1869, danra, Null, Null, 25/03/2016, Null, 25/03/2016
+#1868, danra, Null, Null, 25/03/2016, Null, 26/03/2016
+#1867, slavapestov, Apple member, Null, 25/03/2016, [26/03/2016], Null
+#1866, frootloops, Null, Null, 25/03/2016, Null, 27/03/2016
+#1865, dduan, Null, Null, 25/03/2016, Null, 27/03/2016
+#1864, vedantk, Apple member, Null, 24/03/2016, Null, 25/03/2016
+#1863, danra, Null, Null, 24/03/2016, Null, 26/03/2016
+#1862, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1861, practicalswift, Null, Null, 24/03/2016, Null, 25/03/2016
+#1860, hitstergtd, Null, Null, 24/03/2016, [25/03/2016 - 25/03/2016], Null
+#1859, dduan, Null, Null, 24/03/2016, [24/03/2016], Null
+#1858, practicalswift, Null, Null, 24/03/2016, Null, 26/03/2016
+#1858, practicalswift, Null, Null, 24/03/2016, Null, 26/03/2016
+#1857, trentxintong, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1856, milseman, Null, Null, 24/03/2016, Null, 25/03/2016
+#1855, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1854, danra, Null, Null, 24/03/2016, [25/03/2016], Null
+#1853, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1852, trentxintong, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1851, vedantk, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1850, aschwaighofer, Apple member, Null, 24/03/2016, Null, 25/03/2016
+#1849, compnerd, Null, Null, 24/03/2016, Null, 25/03/2016
+#1848, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1847, trentxintong, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1846, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1845, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1844, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1843, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1842, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1841, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1840, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1839, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1838, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1837, danra, Null, Null, 24/03/2016, [24/03/2016], Null
+#1836, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1835, stephentyrone, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1834, ahoppen, Null, Null, 24/03/2016, Null, 24/03/2016
+#1833, danra, Null, Null, 24/03/2016, Null, 25/03/2016
+#1832, danra, Null, Null, 24/03/2016, [25/03/2016], Null
+#1831, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1830, danra, Null, Null, 24/03/2016, [25/03/2016], Null
+#1829, danra, Null, Null, 24/03/2016, [29/03/2016], Null
+#1828, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1827, trentxintong, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1826, swiftix, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1825, trentxintong, Apple member, Null, 24/03/2016, [24/03/2016], Null
+#1824, trentxintong, Apple member, Null, 24/03/2016, Null, 24/03/2016
+#1823, compnerd, Null, Null, 24/03/2016, Null, Null
+#1822, gregomni, Null, Null, 24/03/2016, Null, 24/03/2016
+#1821, gregomni, Null, Null, 24/03/2016, Null, 24/03/2016
+#1820, jrose-apple, Apple member, Null, 24/03/2016, Null, 28/03/2016
+#1819, trentxintong, Apple member, Null, 24/03/2016, [24/03/2016], Null
+#1818, danra, Null, Null, 24/03/2016, Null, 24/03/2016
+#1817, drewcrawford, Null, Null, 23/03/2016, Null, Null
+#1816, jckarter, Apple member, Null, 23/03/2016, Null, 28/03/2016
+#1815, danra, Null, Null, 23/03/2016, Null, 23/03/2016
+#1814, slavapestov, Apple member, Null, 23/03/2016, [26/03/2016], Null
+#1813, danra, Null, Null, 23/03/2016, Null, 24/03/2016
+#1812, manavgabhawala, Null, Null, 23/03/2016, Null, 29/03/2016
+#1811, danra, Null, Null, 23/03/2016, Null, 25/03/2016
+#1810, danra, Null, Null, 23/03/2016, Null, 24/03/2016
+#1809, danra, Null, Null, 23/03/2016, Null, 23/03/2016
+#1808, danra, Null, Null, 23/03/2016, Null, 24/03/2016
+#1807, Togira, Null, Null, 23/03/2016, Null, 13/04/2016
+#1806, drewcrawford, Null, Null, 23/03/2016, Null, 29/03/2016
+#1805, danra, Null, Null, 23/03/2016, Null, 23/03/2016
+#1804, glessard, Null, Null, 23/03/2016, Null, 23/03/2016
+#1803, modocache, Null, Null, 23/03/2016, Null, 23/03/2016
+#1802, trentxintong, Apple member, Null, 23/03/2016, [24/03/2016], Null
+#1801, trentxintong, Apple member, Null, 23/03/2016, [24/03/2016], Null
+#1800, modocache, Null, Null, 23/03/2016, Null, 23/03/2016
+#1799, atrick, Apple member, Null, 23/03/2016, Null, 23/03/2016
+#1798, DougGregor, Apple member, Null, 22/03/2016, Null, 29/03/2016
+#1797, aschwaighofer, Apple member, Null, 22/03/2016, Null, 24/03/2016
+#1796, danra, Null, Null, 22/03/2016, Null, 30/03/2016
+#1795, compnerd, Null, Null, 22/03/2016, Null, 28/03/2016
+#1794, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1793, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1792, RF-Nelson, Null, Null, 22/03/2016, [25/03/2016], Null
+#1791, practicalswift, Null, Null, 22/03/2016, Null, 22/03/2016
+#1790, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1789, practicalswift, Null, Null, 22/03/2016, Null, 22/03/2016
+#1788, practicalswift, Null, Null, 22/03/2016, Null, 23/03/2016
+#1787, danra, Null, Null, 22/03/2016, Null, 25/03/2016
+#1786, danra, Null, Null, 22/03/2016, [22/03/2016], Null
+#1785, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1784, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1783, danra, Null, Null, 22/03/2016, [22/03/2016], Null
+#1782, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1781, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1780, danra, Null, Null, 22/03/2016, [23/03/2016], Null
+#1779, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1778, danra, Null, Null, 22/03/2016, [22/03/2016], Null
+#1777, practicalswift, Null, Null, 22/03/2016, Null, 22/03/2016
+#1776, rintaro, Null, Null, 22/03/2016, [22/03/2016], Null
+#1775, harlanhaskins, Apple member, Null, 22/03/2016, Null, 7/04/2016
+#1774, gribozavr, Apple member, Null, 22/03/2016, Null, 22/03/2016
+#1773, froody, Null, Null, 22/03/2016, Null, 30/03/2016
+#1772, modocache, Null, Null, 22/03/2016, [22/03/2016], Null
+#1771, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1770, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1769, danra, Null, Null, 22/03/2016, Null, 22/03/2016
+#1768, chittunoo, Null, Null, 22/03/2016, [22/03/2016], Null
+#1767, jrose-apple, Apple member, Null, 22/03/2016, Null, 22/03/2016
+#1766, modocache, Null, Null, 22/03/2016, Null, 24/03/2016
+#1765, modocache, Null, Null, 22/03/2016, Null, 24/03/2016
+#1764, modocache, Null, Null, 22/03/2016, Null, 23/03/2016
+#1763, slavapestov, Apple member, Null, 22/03/2016, [8/04/2016], Null
+#1762, compnerd, Null, Null, 21/03/2016, Null, 6/04/2016
+#1761, frootloops, Null, Null, 21/03/2016, Null, 21/03/2016
+#1760, eeckstein, Apple member, Null, 21/03/2016, Null, 21/03/2016
+#1759, vedantk, Apple member, Null, 21/03/2016, Null, 21/03/2016
+#1758, frootloops, Null, Null, 21/03/2016, Null, 21/03/2016
+#1757, rintaro, Null, Null, 21/03/2016, Null, 22/03/2016
+#1756, trentxintong, Apple member, Null, 21/03/2016, Null, 21/03/2016
+#1755, marcusrossel, Null, Null, 21/03/2016, Null, 21/03/2016
+#1754, trentxintong, Apple member, Null, 20/03/2016, Null, 20/03/2016
+#1753, Moximillian, Null, Null, 20/03/2016, [20/03/2016], Null
+#1752, tjw, Null, Null, 20/03/2016, [22/03/2016], Null
+#1751, shaansharma, Null, Null, 20/03/2016, Null, Null
+#1750, practicalswift, Null, Null, 20/03/2016, Null, 21/03/2016
+#1749, practicalswift, Null, Null, 20/03/2016, Null, 20/03/2016
+#1748, modocache, Null, Null, 19/03/2016, Null, 22/03/2016
+#1747, modocache, Null, Null, 19/03/2016, [22/03/2016], Null
+#1746, modocache, Null, Null, 19/03/2016, [22/03/2016], Null
+#1745, modocache, Null, Null, 19/03/2016, Null, 22/03/2016
+#1744, trentxintong, Apple member, Null, 19/03/2016, Null, 20/03/2016
+#1743, atrick, Apple member, Null, 19/03/2016, Null, 22/03/2016
+#1742, trentxintong, Apple member, Null, 19/03/2016, [19/03/2016], Null
+#1741, practicalswift, Null, Null, 19/03/2016, Null, 20/03/2016
+#1740, slavapestov, Apple member, Null, 19/03/2016, [21/03/2016], Null
+#1739, leogiertz, Null, Null, 19/03/2016, Null, 19/03/2016
+#1738, practicalswift, Null, Null, 18/03/2016, Null, 20/03/2016
+#1737, practicalswift, Null, Null, 18/03/2016, Null, 18/03/2016
+#1736, trentxintong, Apple member, Null, 18/03/2016, Null, 20/03/2016
+#1735, eeckstein, Apple member, Null, 18/03/2016, Null, 18/03/2016
+#1734, eeckstein, Apple member, Null, 18/03/2016, [18/03/2016], Null
+#1733, practicalswift, Null, Null, 18/03/2016, Null, 19/03/2016
+#1732, jder, Null, Null, 18/03/2016, Null, 3/04/2016
+#1731, shawnce, Null, Null, 18/03/2016, Null, 29/03/2016
+#1730, trentxintong, Apple member, Null, 18/03/2016, [4/04/2016], Null
+#1729, vedantk, Apple member, Null, 18/03/2016, [18/03/2016], Null
+#1728, trentxintong, Apple member, Null, 18/03/2016, [18/03/2016], Null
+#1727, trentxintong, Apple member, Null, 18/03/2016, [18/03/2016], Null
+#1726, compnerd, Null, Null, 18/03/2016, Null, 25/03/2016
+#1725, atrick, Apple member, Null, 17/03/2016, Null, 18/03/2016
+#1724, compnerd, Null, Null, 17/03/2016, Null, 22/03/2016
+#1723, natecook1000, Null, Null, 17/03/2016, Null, 18/03/2016
+#1722, harlanhaskins, Apple member, Null, 17/03/2016, Null, 18/03/2016
+#1721, rudkx, Apple member, Null, 17/03/2016, Null, 18/03/2016
+#1720, compnerd, Null, Null, 17/03/2016, Null, 17/03/2016
+#1719, practicalswift, Null, Null, 17/03/2016, Null, 17/03/2016
+#1718, practicalswift, Null, Null, 17/03/2016, Null, 17/03/2016
+#1717, practicalswift, Null, Null, 17/03/2016, Null, 17/03/2016
+#1716, slavapestov, Apple member, Null, 17/03/2016, [17/03/2016], Null
+#1715, rintaro, Null, Null, 17/03/2016, Null, 17/03/2016
+#1714, modocache, Null, Null, 16/03/2016, Null, Null
+#1713, practicalswift, Null, Null, 16/03/2016, Null, 17/03/2016
+#1712, practicalswift, Null, Null, 16/03/2016, Null, 17/03/2016
+#1711, practicalswift, Null, Null, 16/03/2016, [16/03/2016], Null
+#1710, slavapestov, Apple member, Null, 16/03/2016, [17/03/2016], Null
+#1709, practicalswift, Null, Null, 16/03/2016, Null, 16/03/2016
+#1708, practicalswift, Null, Null, 16/03/2016, Null, 16/03/2016
+#1707, practicalswift, Null, Null, 16/03/2016, Null, 16/03/2016
+#1706, tonisuter, Null, Null, 16/03/2016, Null, 17/03/2016
+#1705, PatrickPijnappel, Null, Null, 16/03/2016, Null, 16/03/2016
+#1704, modocache, Null, Null, 16/03/2016, Null, 16/03/2016
+#1703, milseman, Null, Null, 16/03/2016, Null, 16/03/2016
+#1702, PatrickPijnappel, Null, Null, 16/03/2016, Null, Null
+#1701, practicalswift, Null, Null, 16/03/2016, Null, 16/03/2016
+#1700, shawnce, Null, Null, 16/03/2016, [18/03/2016], Null
+#1699, gregomni, Null, Null, 16/03/2016, Null, 24/03/2016
+#1698, atrick, Apple member, Null, 15/03/2016, Null, Null
+#1697, trentxintong, Apple member, Null, 15/03/2016, [17/03/2016], Null
+#1696, eeckstein, Apple member, Null, 15/03/2016, Null, 15/03/2016
+#1695, practicalswift, Null, Null, 15/03/2016, Null, 15/03/2016
+#1694, practicalswift, Null, Null, 15/03/2016, Null, 15/03/2016
+#1693, Fawxy, Null, Null, 15/03/2016, Null, 15/03/2016
+#1692, practicalswift, Null, Null, 15/03/2016, Null, 15/03/2016
+#1691, practicalswift, Null, Null, 15/03/2016, Null, 15/03/2016
+#1690, dduan, Null, Null, 15/03/2016, Null, 15/03/2016
+#1689, gottesmm, Apple member, Null, 15/03/2016, Null, 15/03/2016
+#1688, shawnce, Null, Null, 15/03/2016, [8/04/2016], Null
+#1687, shawnce, Null, Null, 15/03/2016, Null, 15/03/2016
+#1686, regnerjr, Null, Null, 15/03/2016, Null, 21/03/2016
+#1685, slavapestov, Apple member, Null, 15/03/2016, [15/03/2016], Null
+#1684, johnno1962, Null, Null, 14/03/2016, Null, 15/03/2016
+#1683, johnno1962, Null, Null, 14/03/2016, Null, 14/03/2016
+#1682, shahmishal, Apple member, Null, 14/03/2016, Null, 22/03/2016
+#1681, practicalswift, Null, Null, 14/03/2016, Null, 14/03/2016
+#1680, practicalswift, Null, Null, 14/03/2016, Null, 15/03/2016
+#1679, modocache, Null, Null, 14/03/2016, Null, 16/03/2016
+#1678, vedantk, Apple member, Null, 14/03/2016, [18/03/2016], Null
+#1677, trentxintong, Apple member, Null, 14/03/2016, [15/03/2016], Null
+#1676, Fawxy, Null, Null, 14/03/2016, Null, 14/03/2016
+#1675, gregomni, Null, Null, 14/03/2016, Null, 14/03/2016
+#1674, practicalswift, Null, Null, 14/03/2016, [14/03/2016], Null
+#1673, practicalswift, Null, Null, 14/03/2016, Null, 14/03/2016
+#1672, slavapestov, Apple member, Null, 14/03/2016, [14/03/2016], Null
+#1671, gregomni, Null, Null, 14/03/2016, Null, 14/03/2016
+#1670, natecook1000, Null, Null, 13/03/2016, Null, 14/03/2016
+#1669, practicalswift, Null, Null, 13/03/2016, Null, 14/03/2016
+#1668, practicalswift, Null, Null, 13/03/2016, Null, 14/03/2016
+#1667, practicalswift, Null, Null, 13/03/2016, Null, 14/03/2016
+#1666, shawnce, Null, Null, 13/03/2016, [14/03/2016 - 23/03/2016], Null
+#1665, practicalswift, Null, Null, 13/03/2016, Null, 13/03/2016
+#1664, practicalswift, Null, Null, 13/03/2016, Null, 13/03/2016
+#1663, practicalswift, Null, Null, 13/03/2016, Null, 13/03/2016
+#1662, gottesmm, Apple member, Null, 13/03/2016, Null, 13/03/2016
+#1661, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1660, dduan, Null, Null, 12/03/2016, [12/03/2016], Null
+#1659, practicalswift, Null, Null, 12/03/2016, Null, 13/03/2016
+#1658, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1657, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1656, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1655, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1654, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1653, shawnce, Null, Null, 12/03/2016, Null, 14/03/2016
+#1652, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1651, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1650, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1649, practicalswift, Null, Null, 12/03/2016, [1/04/2016], Null
+#1648, practicalswift, Null, Null, 12/03/2016, Null, 12/03/2016
+#1647, johnno1962, Null, Null, 11/03/2016, Null, 12/03/2016
+#1646, practicalswift, Null, Null, 11/03/2016, Null, 12/03/2016
+#1645, practicalswift, Null, Null, 11/03/2016, Null, 11/03/2016
+#1644, practicalswift, Null, Null, 11/03/2016, Null, 11/03/2016
+#1643, practicalswift, Null, Null, 11/03/2016, Null, 12/03/2016
+#1642, ahoppen, Null, Null, 11/03/2016, Null, 14/03/2016
+#1641, johnno1962, Null, Null, 11/03/2016, Null, 12/03/2016
+#1640, rayfix, Null, Null, 11/03/2016, Null, 11/03/2016
+#1639, slavapestov, Apple member, Null, 11/03/2016, [12/03/2016], Null
+#1638, gottesmm, Apple member, Null, 11/03/2016, Null, 11/03/2016
+#1637, practicalswift, Null, Null, 11/03/2016, Null, 11/03/2016
+#1636, practicalswift, Null, Null, 11/03/2016, Null, 11/03/2016
+#1635, rudkx, Apple member, Null, 11/03/2016, Null, 11/03/2016
+#1634, compnerd, Null, Null, 11/03/2016, Null, 14/03/2016
+#1633, takecian, Null, Null, 11/03/2016, [12/03/2016], Null
+#1632, shawnce, Null, Null, 11/03/2016, [12/03/2016], Null
+#1631, froody, Null, Null, 10/03/2016, Null, 16/03/2016
+#1630, johnno1962, Null, Null, 10/03/2016, Null, 10/03/2016
+#1629, shahmishal, Apple member, Null, 10/03/2016, Null, 11/03/2016
+#1628, shawnce, Null, Null, 10/03/2016, Null, 10/03/2016
+#1627, rudkx, Apple member, Null, 10/03/2016, Null, 11/03/2016
+#1626, slavapestov, Apple member, Null, 10/03/2016, [11/03/2016], Null
+#1625, practicalswift, Null, Null, 10/03/2016, Null, 12/03/2016
+#1624, shahmishal, Apple member, Null, 10/03/2016, Null, 10/03/2016
+#1623, practicalswift, Null, Null, 10/03/2016, Null, 11/03/2016
+#1622, shawnce, Null, Null, 10/03/2016, [10/03/2016], Null
+#1621, adrian-prantl, Apple member, Null, 10/03/2016, Null, 10/03/2016
+#1620, modocache, Null, Null, 10/03/2016, Null, 12/03/2016
+#1619, practicalswift, Null, Null, 10/03/2016, [10/03/2016], Null
+#1618, practicalswift, Null, Null, 10/03/2016, Null, 10/03/2016
+#1617, seabaylea, Null, Null, 10/03/2016, Null, 17/03/2016
+#1616, shawnce, Null, Null, 10/03/2016, Null, 10/03/2016
+#1615, practicalswift, Null, Null, 10/03/2016, Null, 11/03/2016
+#1614, practicalswift, Null, Null, 10/03/2016, Null, 10/03/2016
+#1613, practicalswift, Null, Null, 10/03/2016, Null, 10/03/2016
+#1612, lammertw, Null, Null, 10/03/2016, [10/03/2016], Null
+#1611, practicalswift, Null, Null, 10/03/2016, Null, 10/03/2016
+#1610, gregomni, Null, Null, 10/03/2016, Null, 14/03/2016
+#1609, gregomni, Null, Null, 10/03/2016, Null, 10/03/2016
+#1608, johnno1962, Null, Null, 10/03/2016, [10/03/2016], Null
+#1607, moiseev, Apple member, Null, 10/03/2016, Null, 10/03/2016
+#1606, shawnce, Null, Null, 10/03/2016, Null, 10/03/2016
+#1605, aschwaighofer, Apple member, Null, 9/03/2016, Null, 10/03/2016
+#1604, jckarter, Apple member, Null, 9/03/2016, [10/03/2016], Null
+#1603, shahmishal, Apple member, Null, 9/03/2016, Null, 9/03/2016
+#1602, compnerd, Null, Null, 9/03/2016, Null, 15/03/2016
+#1601, compnerd, Null, Null, 9/03/2016, Null, 10/03/2016
+#1600, gribozavr, Apple member, Null, 9/03/2016, Null, 12/03/2016
+#1599, aschwaighofer, Apple member, Null, 9/03/2016, Null, 9/03/2016
+#1598, practicalswift, Null, Null, 9/03/2016, Null, 10/03/2016
+#1597, leogiertz, Null, Null, 9/03/2016, Null, 9/03/2016
+#1596, practicalswift, Null, Null, 9/03/2016, [9/03/2016], Null
+#1595, practicalswift, Null, Null, 9/03/2016, Null, 9/03/2016
+#1594, practicalswift, Null, Null, 9/03/2016, Null, 9/03/2016
+#1593, practicalswift, Null, Null, 9/03/2016, Null, 9/03/2016
+#1592, shawnce, Null, Null, 9/03/2016, Null, 9/03/2016
+#1591, gribozavr, Apple member, Null, 9/03/2016, Null, 11/03/2016
+#1590, jrose-apple, Apple member, Null, 9/03/2016, Null, 9/03/2016
+#1589, jasonmolenda, Null, Null, 9/03/2016, Null, 9/03/2016
+#1588, shawnce, Null, Null, 9/03/2016, Null, 9/03/2016
+#1587, aschwaighofer, Apple member, Null, 9/03/2016, Null, 9/03/2016
+#1586, harlanhaskins, Apple member, Null, 8/03/2016, Null, 8/04/2016
+#1585, gottesmm, Apple member, Null, 8/03/2016, Null, 9/03/2016
+#1584, practicalswift, Null, Null, 8/03/2016, Null, 9/03/2016
+#1583, compnerd, Null, Null, 8/03/2016, Null, 9/03/2016
+#1582, shawnce, Null, Null, 8/03/2016, Null, 9/03/2016
+#1581, compnerd, Null, Null, 8/03/2016, [9/03/2016], Null
+#1580, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1579, aschwaighofer, Apple member, Null, 8/03/2016, Null, 8/03/2016
+#1578, mike-ferris-apple, Apple member, Null, 8/03/2016, Null, 8/03/2016
+#1577, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1576, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1575, Nirma, Null, Null, 8/03/2016, [9/03/2016], Null
+#1574, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1573, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1572, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1571, practicalswift, Null, Null, 8/03/2016, Null, 8/03/2016
+#1570, shawnce, Null, Null, 8/03/2016, Null, 8/03/2016
+#1569, rintaro, Null, Null, 8/03/2016, Null, 8/03/2016
+#1568, rintaro, Null, Null, 8/03/2016, Null, 9/03/2016
+#1567, gottesmm, Apple member, Null, 8/03/2016, Null, Null
+#1566, shawnce, Null, Null, 7/03/2016, [8/03/2016], Null
+#1565, practicalswift, Null, Null, 7/03/2016, Null, 8/03/2016
+#1564, mike-ferris-apple, Apple member, Null, 7/03/2016, [8/03/2016], Null
+#1563, johnno1962, Null, Null, 7/03/2016, Null, 10/03/2016
+#1562, practicalswift, Null, Null, 7/03/2016, Null, 7/03/2016
+#1561, practicalswift, Null, Null, 7/03/2016, Null, 7/03/2016
+#1560, practicalswift, Null, Null, 7/03/2016, Null, 7/03/2016
+#1559, shawnce, Null, Null, 7/03/2016, Null, 7/03/2016
+#1558, practicalswift, Null, Null, 6/03/2016, Null, 6/03/2016
+#1557, gregomni, Null, Null, 6/03/2016, Null, 10/03/2016
+#1556, modocache, Null, Null, 6/03/2016, Null, 8/03/2016
+#1555, kevinwcyu, Null, Null, 5/03/2016, Null, 6/03/2016
+#1554, JaSpa, Null, Null, 5/03/2016, Null, 13/03/2016
+#1553, hughbe, Null, Null, 5/03/2016, Null, 5/03/2016
+#1552, hughbe, Null, Null, 5/03/2016, Null, 5/03/2016
+#1551, practicalswift, Null, Null, 5/03/2016, Null, 7/03/2016
+#1550, kballard, Null, Null, 5/03/2016, Null, 14/03/2016
+#1549, slavapestov, Apple member, Null, 5/03/2016, [7/03/2016], Null
+#1548, practicalswift, Null, Null, 5/03/2016, Null, 5/03/2016
+#1547, modocache, Null, Null, 5/03/2016, Null, 5/03/2016
+#1546, practicalswift, Null, Null, 5/03/2016, Null, 5/03/2016
+#1545, gribozavr, Apple member, Null, 5/03/2016, Null, 7/03/2016
+#1544, PatrickPijnappel, Null, Null, 5/03/2016, [16/03/2016], Null
+#1543, rintaro, Null, Null, 5/03/2016, Null, 5/03/2016
+#1542, aschwaighofer, Apple member, Null, 4/03/2016, Null, 4/03/2016
+#1541, practicalswift, Null, Null, 4/03/2016, [7/03/2016], Null
+#1540, shawnce, Null, Null, 4/03/2016, Null, 4/03/2016
+#1539, naoyashiga, Null, Null, 4/03/2016, Null, 4/03/2016
+#1538, practicalswift, Null, Null, 4/03/2016, Null, 4/03/2016
+#1537, dduan, Null, Null, 4/03/2016, Null, 12/03/2016
+#1536, slavapestov, Apple member, Null, 4/03/2016, [8/03/2016], Null
+#1535, jasonprado, Null, Null, 4/03/2016, Null, 17/03/2016
+#1534, kazzmir, Null, Null, 3/03/2016, [4/03/2016], Null
+#1533, modocache, Null, Null, 3/03/2016, Null, 4/03/2016
+#1532, practicalswift, Null, Null, 3/03/2016, Null, 4/03/2016
+#1531, practicalswift, Null, Null, 3/03/2016, Null, 4/03/2016
+#1530, lorentey, Null, Null, 3/03/2016, Null, 3/03/2016
+#1529, gottesmm, Apple member, Null, 3/03/2016, Null, 3/03/2016
+#1528, practicalswift, Null, Null, 3/03/2016, Null, 3/03/2016
+#1527, codestergit, Null, Null, 3/03/2016, Null, Null
+#1526, practicalswift, Null, Null, 3/03/2016, Null, 9/03/2016
+#1525, PatrickPijnappel, Null, Null, 3/03/2016, Null, 22/03/2016
+#1524, PatrickPijnappel, Null, Null, 3/03/2016, Null, Null
+#1523, slavapestov, Apple member, Null, 3/03/2016, [3/03/2016], Null
+#1522, kballard, Null, Null, 3/03/2016, Null, 14/03/2016
+#1521, PatrickPijnappel, Null, Null, 3/03/2016, Null, 3/03/2016
+#1520, dduan, Null, Null, 3/03/2016, Null, 3/03/2016
+#1519, kballard, Null, Null, 3/03/2016, Null, 24/03/2016
+#1518, slavapestov, Apple member, Null, 3/03/2016, [3/03/2016], Null
+#1517, JaSpa, Null, Null, 2/03/2016, Null, 3/03/2016
+#1516, tinysun212, Null, Null, 2/03/2016, Null, Null
+#1515, gottesmm, Apple member, Null, 2/03/2016, [8/03/2016], Null
+#1514, PatrickPijnappel, Null, Null, 2/03/2016, Null, 2/03/2016
+#1513, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1512, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1511, gribozavr, Apple member, Null, 2/03/2016, Null, 2/03/2016
+#1510, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1509, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1508, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1507, practicalswift, Null, Null, 2/03/2016, Null, 2/03/2016
+#1506, modocache, Null, Null, 2/03/2016, Null, 5/03/2016
+#1505, dduan, Null, Null, 2/03/2016, Null, 2/03/2016
+#1504, gregomni, Null, Null, 2/03/2016, Null, 5/03/2016
+#1503, vedantk, Apple member, Null, 2/03/2016, [14/03/2016], Null
+#1502, benlangmuir, Apple member, Null, 1/03/2016, [3/03/2016], Null
+#1501, dduan, Null, Null, 1/03/2016, Null, 2/03/2016
+#1500, dcci, Null, Null, 1/03/2016, Null, 2/03/2016
+#1499, dcci, Null, Null, 1/03/2016, Null, 1/03/2016
+#1498, ianpartridge, Null, Null, 1/03/2016, Null, 9/03/2016
+#1497, practicalswift, Null, Null, 1/03/2016, Null, 1/03/2016
+#1496, practicalswift, Null, Null, 1/03/2016, Null, 1/03/2016
+#1495, kballard, Null, Null, 1/03/2016, Null, 4/03/2016
+#1494, gregomni, Null, Null, 1/03/2016, Null, 1/03/2016
+#1493, PatrickPijnappel, Null, Null, 1/03/2016, Null, 2/03/2016
+#1492, MarcSteven, Null, Null, 1/03/2016, [1/03/2016], Null
+#1491, jckarter, Apple member, Null, 1/03/2016, [1/03/2016], Null
+#1490, kballard, Null, Null, 29/02/2016, Null, 1/03/2016
+#1489, practicalswift, Null, Null, 29/02/2016, Null, 29/02/2016
+#1488, ianpartridge, Null, Null, 29/02/2016, [29/02/2016], Null
+#1487, gottesmm, Apple member, Null, 29/02/2016, Null, 29/02/2016
+#1486, shahmishal, Apple member, Null, 29/02/2016, Null, 29/02/2016
+#1485, tkremenek, Apple member, Null, 29/02/2016, Null, 29/02/2016
+#1484, dcci, Null, Null, 29/02/2016, Null, 29/02/2016
+#1483, eeckstein, Apple member, Null, 29/02/2016, Null, 29/02/2016
+#1482, takecian, Null, Null, 29/02/2016, [11/03/2016], Null
+#1481, gregomni, Null, Null, 29/02/2016, Null, 2/03/2016
+#1480, gottesmm, Apple member, Null, 29/02/2016, Null, 29/02/2016
+#1479, JaSpa, Null, Null, 28/02/2016, Null, Null
+#1478, practicalswift, Null, Null, 28/02/2016, Null, 28/02/2016
+#1477, PatrickPijnappel, Null, Null, 28/02/2016, Null, 29/02/2016
+#1476, dduan, Null, Null, 28/02/2016, Null, 28/02/2016
+#1475, practicalswift, Null, Null, 27/02/2016, Null, 27/02/2016
+#1474, practicalswift, Null, Null, 27/02/2016, Null, 27/02/2016
+#1473, practicalswift, Null, Null, 27/02/2016, Null, 27/02/2016
+#1472, PatrickPijnappel, Null, Null, 27/02/2016, Null, 27/02/2016
+#1471, practicalswift, Null, Null, 27/02/2016, Null, 28/02/2016
+#1470, practicalswift, Null, Null, 27/02/2016, Null, 27/02/2016
+#1469, swiftix, Apple member, Null, 27/02/2016, Null, 27/02/2016
+#1468, atrick, Apple member, Null, 27/02/2016, Null, 28/02/2016
+#1467, takecian, Null, Null, 27/02/2016, [27/02/2016], Null
+#1466, tinysun212, Null, Null, 27/02/2016, Null, 15/03/2016
+#1465, slavapestov, Apple member, Null, 27/02/2016, Null, 29/02/2016
+#1464, gottesmm, Apple member, Null, 27/02/2016, Null, 27/02/2016
+#1463, gottesmm, Apple member, Null, 26/02/2016, Null, 27/02/2016
+#1462, eeckstein, Apple member, Null, 26/02/2016, Null, 27/02/2016
+#1461, tinysun212, Null, Null, 26/02/2016, Null, 26/02/2016
+#1460, practicalswift, Null, Null, 26/02/2016, Null, 26/02/2016
+#1459, dduan, Null, Null, 26/02/2016, Null, 26/02/2016
+#1458, practicalswift, Null, Null, 26/02/2016, Null, 26/02/2016
+#1457, gribozavr, Apple member, Null, 26/02/2016, Null, 26/02/2016
+#1456, dduan, Null, Null, 26/02/2016, Null, 26/02/2016
+#1455, zoul, Null, Null, 26/02/2016, [26/02/2016], Null
+#1454, glessard, Null, Null, 26/02/2016, Null, Null
+#1453, practicalswift, Null, Null, 26/02/2016, Null, 3/03/2016
+#1452, practicalswift, Null, Null, 26/02/2016, Null, 26/02/2016
+#1451, practicalswift, Null, Null, 26/02/2016, Null, 26/02/2016
+#1450, compnerd, Null, Null, 26/02/2016, [27/02/2016], Null
+#1449, jrose-apple, Apple member, Null, 26/02/2016, Null, 14/03/2016
+#1448, emish, Apple member, Null, 26/02/2016, Null, 26/02/2016
+#1447, gottesmm, Apple member, Null, 25/02/2016, Null, 26/02/2016
+#1446, eeckstein, Apple member, Null, 25/02/2016, Null, 25/02/2016
+#1445, practicalswift, Null, Null, 25/02/2016, Null, 26/02/2016
+#1444, Avinch, Null, Null, 25/02/2016, [25/02/2016], Null
+#1443, practicalswift, Null, Null, 25/02/2016, Null, 25/02/2016
+#1442, modocache, Null, Null, 25/02/2016, Null, 13/04/2016
+#1441, tinysun212, Null, Null, 25/02/2016, Null, 25/02/2016
+#1440, cwillmor, Apple member, Null, 25/02/2016, Null, 25/02/2016
+#1439, cwillmor, Apple member, Null, 25/02/2016, Null, 25/02/2016
+#1438, glessard, Null, Null, 24/02/2016, Null, 25/02/2016
+#1437, slavapestov, Apple member, Null, 24/02/2016, [9/03/2016], Null
+#1436, slavapestov, Apple member, Null, 24/02/2016, [26/02/2016], Null
+#1435, compnerd, Null, Null, 24/02/2016, Null, 26/02/2016
+#1434, AnnaZaks, Null, Null, 24/02/2016, Null, 1/03/2016
+#1433, DougGregor, Apple member, Null, 24/02/2016, [14/03/2016], Null
+#1432, practicalswift, Null, Null, 24/02/2016, Null, 24/02/2016
+#1431, practicalswift, Null, Null, 24/02/2016, Null, 1/03/2016
+#1430, ahoppen, Null, Null, 24/02/2016, Null, 25/02/2016
+#1429, swiftix, Apple member, Null, 24/02/2016, Null, 25/02/2016
+#1428, practicalswift, Null, Null, 24/02/2016, Null, 24/02/2016
+#1427, practicalswift, Null, Null, 24/02/2016, Null, 24/02/2016
+#1426, modocache, Null, Null, 24/02/2016, Null, 24/02/2016
+#1425, cwillmor, Apple member, Null, 24/02/2016, Null, 24/02/2016
+#1424, hpux735, Null, Null, 24/02/2016, Null, 24/02/2016
+#1423, cwillmor, Apple member, Null, 24/02/2016, Null, 24/02/2016
+#1422, gottesmm, Apple member, Null, 24/02/2016, Null, 24/02/2016
+#1421, slavapestov, Apple member, Null, 24/02/2016, [24/02/2016], Null
+#1420, cwillmor, Apple member, Null, 24/02/2016, Null, 24/02/2016
+#1419, Jnosh, Null, Null, 24/02/2016, Null, 24/02/2016
+#1418, shawnce, Null, Null, 24/02/2016, [2/03/2016], Null
+#1417, harlanhaskins, Apple member, Null, 24/02/2016, [11/03/2016], Null
+#1416, slavapestov, Apple member, Null, 24/02/2016, [24/02/2016], Null
+#1415, Jnosh, Null, Null, 24/02/2016, Null, 24/02/2016
+#1414, emish, Apple member, Null, 23/02/2016, Null, 23/02/2016
+#1413, shawnce, Null, Null, 23/02/2016, Null, 24/02/2016
+#1412, shawnce, Null, Null, 23/02/2016, [23/02/2016], Null
+#1411, trentxintong, Apple member, Null, 23/02/2016, [24/02/2016], Null
+#1410, modocache, Null, Null, 23/02/2016, Null, 1/03/2016
+#1409, pyrtsa, Null, Null, 23/02/2016, Null, 23/02/2016
+#1408, natecook1000, Null, Null, 23/02/2016, [23/02/2016], Null
+#1407, practicalswift, Null, Null, 23/02/2016, Null, 23/02/2016
+#1406, drewcrawford, Null, Null, 23/02/2016, Null, 18/03/2016
+#1405, practicalswift, Null, Null, 23/02/2016, Null, 23/02/2016
+#1404, practicalswift, Null, Null, 23/02/2016, Null, 23/02/2016
+#1403, practicalswift, Null, Null, 23/02/2016, Null, 23/02/2016
+#1402, practicalswift, Null, Null, 23/02/2016, Null, 7/03/2016
+#1401, practicalswift, Null, Null, 22/02/2016, Null, 23/02/2016
+#1400, practicalswift, Null, Null, 22/02/2016, Null, 23/02/2016
+#1399, practicalswift, Null, Null, 22/02/2016, Null, 29/02/2016
+#1398, froody, Null, Null, 22/02/2016, Null, Null
+#1397, gottesmm, Apple member, Null, 22/02/2016, Null, 22/02/2016
+#1396, modocache, Null, Null, 22/02/2016, Null, 3/03/2016
+#1395, modocache, Null, Null, 22/02/2016, Null, 22/02/2016
+#1394, trentxintong, Apple member, Null, 22/02/2016, Null, 22/02/2016
+#1393, gottesmm, Apple member, Null, 22/02/2016, Null, 24/02/2016
+#1392, swiftix, Apple member, Null, 21/02/2016, Null, 23/02/2016
+#1391, Nirma, Null, Null, 21/02/2016, [15/03/2016], Null
+#1390, Nirma, Null, Null, 21/02/2016, Null, Null
+#1389, shawnce, Null, Null, 21/02/2016, Null, 21/02/2016
+#1388, practicalswift, Null, Null, 21/02/2016, Null, 21/02/2016
+#1387, practicalswift, Null, Null, 21/02/2016, Null, 21/02/2016
+#1386, practicalswift, Null, Null, 21/02/2016, Null, 22/02/2016
+#1385, jckarter, Apple member, Null, 21/02/2016, [22/02/2016], Null
+#1384, Nirma, Null, Null, 21/02/2016, [24/02/2016], Null
+#1383, gregomni, Null, Null, 21/02/2016, Null, 25/02/2016
+#1382, Nirma, Null, Null, 20/02/2016, Null, 20/02/2016
+#1381, Nirma, Null, Null, 20/02/2016, Null, 20/02/2016
+#1380, practicalswift, Null, Null, 20/02/2016, Null, 20/02/2016
+#1379, practicalswift, Null, Null, 20/02/2016, Null, 20/02/2016
+#1378, practicalswift, Null, Null, 20/02/2016, [20/02/2016], Null
+#1377, WorldDownTown, Null, Null, 20/02/2016, Null, 20/02/2016
+#1376, gribozavr, Apple member, Null, 20/02/2016, Null, 20/02/2016
+#1375, slavapestov, Apple member, Null, 20/02/2016, Null, 20/02/2016
+#1374, practicalswift, Null, Null, 20/02/2016, Null, 22/02/2016
+#1373, practicalswift, Null, Null, 20/02/2016, Null, 20/02/2016
+#1372, slavapestov, Apple member, Null, 20/02/2016, [20/02/2016], Null
+#1371, hpux735, Null, Null, 20/02/2016, Null, 9/03/2016
+#1370, compnerd, Null, Null, 19/02/2016, Null, Null
+#1369, practicalswift, Null, Null, 19/02/2016, Null, 19/02/2016
+#1368, practicalswift, Null, Null, 19/02/2016, Null, 19/02/2016
+#1367, practicalswift, Null, Null, 19/02/2016, Null, 20/02/2016
+#1366, froody, Null, Null, 19/02/2016, Null, 22/02/2016
+#1365, Nirma, Null, Null, 19/02/2016, Null, 19/02/2016
+#1364, Nirma, Null, Null, 19/02/2016, Null, 19/02/2016
+#1363, nadavrot, Apple member, Null, 19/02/2016, [20/02/2016], Null
+#1362, arnav-gudibande, Null, Null, 19/02/2016, [19/02/2016], Null
+#1361, gribozavr, Apple member, Null, 19/02/2016, Null, 19/02/2016
+#1360, shahmishal, Apple member, Null, 19/02/2016, Null, 26/02/2016
+#1359, slavapestov, Apple member, Null, 18/02/2016, Null, 19/02/2016
+#1358, natecook1000, Null, Null, 18/02/2016, Null, 18/02/2016
+#1357, swiftix, Apple member, Null, 18/02/2016, Null, 2/03/2016
+#1356, dgrove-oss, Null, Null, 18/02/2016, Null, 19/02/2016
+#1355, jckarter, Apple member, Null, 18/02/2016, Null, 18/02/2016
+#1354, johnantoni, Null, Null, 18/02/2016, Null, 20/02/2016
+#1353, hpux735, Null, Null, 18/02/2016, Null, 18/02/2016
+#1352, practicalswift, Null, Null, 18/02/2016, Null, 18/02/2016
+#1351, practicalswift, Null, Null, 18/02/2016, Null, 18/02/2016
+#1350, practicalswift, Null, Null, 18/02/2016, Null, 19/02/2016
+#1349, Jnosh, Null, Null, 18/02/2016, Null, 24/02/2016
+#1348, Nirma, Null, Null, 18/02/2016, Null, 18/02/2016
+#1347, gottesmm, Apple member, Null, 18/02/2016, Null, 18/02/2016
+#1346, Nirma, Null, Null, 18/02/2016, Null, 19/02/2016
+#1345, gottesmm, Apple member, Null, 18/02/2016, Null, 18/02/2016
+#1344, dduan, Null, Null, 18/02/2016, Null, 18/02/2016
+#1343, gottesmm, Apple member, Null, 18/02/2016, Null, 18/02/2016
+#1342, gottesmm, Apple member, Null, 18/02/2016, Null, 18/02/2016
+#1341, compnerd, Null, Null, 17/02/2016, Null, 18/02/2016
+#1340, practicalswift, Null, Null, 17/02/2016, Null, 18/02/2016
+#1339, compnerd, Null, Null, 17/02/2016, Null, 17/02/2016
+#1338, gottesmm, Apple member, Null, 17/02/2016, Null, 18/02/2016
+#1337, practicalswift, Null, Null, 17/02/2016, Null, 17/02/2016
+#1336, practicalswift, Null, Null, 17/02/2016, Null, 17/02/2016
+#1335, practicalswift, Null, Null, 17/02/2016, Null, 17/02/2016
+#1334, modocache, Null, Null, 17/02/2016, Null, 17/02/2016
+#1333, dduan, Null, Null, 17/02/2016, Null, 26/02/2016
+#1332, dabrahams, Apple member, Null, 16/02/2016, Null, 16/02/2016
+#1331, compnerd, Null, Null, 16/02/2016, Null, 17/02/2016
+#1330, DougGregor, Apple member, Null, 16/02/2016, Null, 17/02/2016
+#1329, practicalswift, Null, Null, 16/02/2016, Null, 17/02/2016
+#1328, practicalswift, Null, Null, 16/02/2016, Null, 16/02/2016
+#1327, natecook1000, Null, Null, 16/02/2016, Null, 16/02/2016
+#1326, practicalswift, Null, Null, 16/02/2016, Null, 16/02/2016
+#1325, odnoletkov, Null, Null, 16/02/2016, Null, 16/02/2016
+#1324, modocache, Null, Null, 16/02/2016, Null, 16/02/2016
+#1323, neilkimmett, Null, Null, 16/02/2016, Null, 25/03/2016
+#1322, practicalswift, Null, Null, 16/02/2016, Null, 16/02/2016
+#1321, gottesmm, Apple member, Null, 15/02/2016, Null, 16/02/2016
+#1320, slavapestov, Apple member, Null, 15/02/2016, Null, 15/02/2016
+#1319, gregomni, Null, Null, 15/02/2016, Null, 16/02/2016
+#1318, practicalswift, Null, Null, 15/02/2016, Null, 15/02/2016
+#1317, modocache, Null, Null, 15/02/2016, Null, 18/02/2016
+#1316, modocache, Null, Null, 15/02/2016, Null, 24/02/2016
+#1315, practicalswift, Null, Null, 15/02/2016, Null, 15/02/2016
+#1314, practicalswift, Null, Null, 15/02/2016, Null, 15/02/2016
+#1313, gottesmm, Apple member, Null, 15/02/2016, Null, Null
+#1312, dduan, Null, Null, 14/02/2016, [15/02/2016], Null
+#1311, hpux735, Null, Null, 14/02/2016, [18/02/2016], Null
+#1310, practicalswift, Null, Null, 14/02/2016, Null, 14/02/2016
+#1309, practicalswift, Null, Null, 14/02/2016, Null, 14/02/2016
+#1308, JaSpa, Null, Null, 14/02/2016, Null, 15/02/2016
+#1307, practicalswift, Null, Null, 14/02/2016, Null, 14/02/2016
+#1306, practicalswift, Null, Null, 14/02/2016, Null, 14/02/2016
+#1305, Nirma, Null, Null, 14/02/2016, [18/02/2016], Null
+#1304, practicalswift, Null, Null, 14/02/2016, Null, 14/02/2016
+#1303, dduan, Null, Null, 14/02/2016, [14/02/2016], Null
+#1302, JaSpa, Null, Null, 14/02/2016, Null, 15/02/2016
+#1301, gribozavr, Apple member, Null, 13/02/2016, Null, 13/02/2016
+#1300, peterfriese, Null, Null, 13/02/2016, Null, 13/02/2016
+#1299, practicalswift, Null, Null, 13/02/2016, Null, 13/02/2016
+#1298, gribozavr, Apple member, Null, 13/02/2016, Null, 13/02/2016
+#1297, jckarter, Apple member, Null, 13/02/2016, [21/02/2016], Null
+#1296, gottesmm, Apple member, Null, 13/02/2016, Null, 15/02/2016
+#1295, rudkx, Apple member, Null, 12/02/2016, Null, 13/02/2016
+#1294, dgrove-oss, Null, Null, 12/02/2016, Null, 13/02/2016
+#1293, practicalswift, Null, Null, 12/02/2016, Null, 12/02/2016
+#1292, practicalswift, Null, Null, 12/02/2016, Null, 12/02/2016
+#1291, bitjammer, Apple member, Null, 12/02/2016, Null, 12/02/2016
+#1290, practicalswift, Null, Null, 12/02/2016, Null, 13/02/2016
+#1289, jrose-apple, Apple member, Null, 12/02/2016, Null, 12/02/2016
+#1288, natecook1000, Null, Null, 12/02/2016, Null, 12/02/2016
+#1287, practicalswift, Null, Null, 12/02/2016, Null, 12/02/2016
+#1286, natecook1000, Null, Null, 12/02/2016, Null, 12/02/2016
+#1285, natecook1000, Null, Null, 12/02/2016, Null, 12/02/2016
+#1284, slavapestov, Apple member, Null, 12/02/2016, Null, 15/02/2016
+#1283, practicalswift, Null, Null, 12/02/2016, Null, 12/02/2016
+#1282, dduan, Null, Null, 12/02/2016, Null, 22/02/2016
+#1281, slavapestov, Apple member, Null, 12/02/2016, [12/02/2016], Null
+#1280, kballard, Null, Null, 12/02/2016, Null, 2/03/2016
+#1279, dduan, Null, Null, 11/02/2016, Null, 12/02/2016
+#1278, practicalswift, Null, Null, 11/02/2016, Null, 11/02/2016
+#1277, practicalswift, Null, Null, 11/02/2016, Null, 11/02/2016
+#1276, dduan, Null, Null, 11/02/2016, [12/02/2016], Null
+#1275, natecook1000, Null, Null, 11/02/2016, Null, 11/02/2016
+#1274, practicalswift, Null, Null, 11/02/2016, Null, 11/02/2016
+#1273, natecook1000, Null, Null, 11/02/2016, Null, 11/02/2016
+#1272, natecook1000, Null, Null, 11/02/2016, Null, 11/02/2016
+#1271, hpux735, Null, Null, 11/02/2016, Null, 12/02/2016
+#1270, modocache, Null, Null, 11/02/2016, Null, 11/02/2016
+#1269, practicalswift, Null, Null, 11/02/2016, Null, 11/02/2016
+#1268, peterfriese, Null, Null, 11/02/2016, [11/02/2016], Null
+#1267, modocache, Null, Null, 11/02/2016, Null, 16/02/2016
+#1266, dduan, Null, Null, 11/02/2016, Null, 11/02/2016
+#1265, dduan, Null, Null, 11/02/2016, Null, 11/02/2016
+#1264, takebayashi, Null, Null, 11/02/2016, Null, 16/02/2016
+#1263, slavapestov, Apple member, Null, 11/02/2016, [12/02/2016], Null
+#1262, gergelyorosz, Null, Null, 10/02/2016, Null, 11/02/2016
+#1261, hpux735, Null, Null, 10/02/2016, Null, 11/02/2016
+#1260, practicalswift, Null, Null, 10/02/2016, Null, 10/02/2016
+#1259, practicalswift, Null, Null, 10/02/2016, Null, 11/02/2016
+#1258, jckarter, Apple member, Null, 10/02/2016, Null, 10/02/2016
+#1257, jckarter, Apple member, Null, 10/02/2016, Null, 10/02/2016
+#1256, gottesmm, Apple member, Null, 10/02/2016, [13/02/2016], Null
+#1255, modocache, Null, Null, 10/02/2016, Null, 10/02/2016
+#1254, jrose-apple, Apple member, Null, 10/02/2016, Null, 11/02/2016
+#1253, dduan, Null, Null, 10/02/2016, Null, 11/02/2016
+#1252, dduan, Null, Null, 10/02/2016, Null, 10/02/2016
+#1251, hpux735, Null, Null, 10/02/2016, Null, 10/02/2016
+#1250, hpux735, Null, Null, 10/02/2016, Null, 10/02/2016
+#1249, ole, Null, Null, 9/02/2016, Null, Null
+#1248, DougGregor, Apple member, Null, 9/02/2016, Null, 9/02/2016
+#1247, practicalswift, Null, Null, 9/02/2016, Null, 9/02/2016
+#1246, kballard, Null, Null, 9/02/2016, Null, 9/02/2016
+#1245, jckarter, Apple member, Null, 9/02/2016, [9/02/2016], Null
+#1244, vedantk, Apple member, Null, 9/02/2016, [9/02/2016], Null
+#1243, pra85, Null, Null, 9/02/2016, Null, 9/02/2016
+#1242, practicalswift, Null, Null, 9/02/2016, [9/02/2016], Null
+#1241, kballard, Null, Null, 9/02/2016, Null, 9/02/2016
+#1240, milseman, Null, Null, 9/02/2016, Null, 9/02/2016
+#1239, vedantk, Apple member, Null, 8/02/2016, [15/02/2016], Null
+#1238, vedantk, Apple member, Null, 8/02/2016, Null, Null
+#1237, practicalswift, Null, Null, 8/02/2016, Null, 9/02/2016
+#1236, practicalswift, Null, Null, 8/02/2016, Null, 8/02/2016
+#1235, gottesmm, Apple member, Null, 8/02/2016, Null, 8/02/2016
+#1234, practicalswift, Null, Null, 8/02/2016, Null, 10/02/2016
+#1233, practicalswift, Null, Null, 8/02/2016, Null, 8/02/2016
+#1232, jckarter, Apple member, Null, 8/02/2016, [8/02/2016], Null
+#1231, practicalswift, Null, Null, 7/02/2016, Null, 7/02/2016
+#1230, practicalswift, Null, Null, 7/02/2016, Null, 7/02/2016
+#1229, gregomni, Null, Null, 7/02/2016, Null, 15/02/2016
+#1228, AlexDenisov, Null, Null, 7/02/2016, Null, 7/02/2016
+#1227, practicalswift, Null, Null, 7/02/2016, Null, 7/02/2016
+#1226, practicalswift, Null, Null, 7/02/2016, Null, 7/02/2016
+#1225, gribozavr, Apple member, Null, 7/02/2016, Null, 7/02/2016
+#1224, practicalswift, Null, Null, 6/02/2016, Null, 7/02/2016
+#1223, jeschot, Null, Null, 6/02/2016, [7/02/2016], Null
+#1222, practicalswift, Null, Null, 6/02/2016, Null, 7/02/2016
+#1221, practicalswift, Null, Null, 6/02/2016, Null, 6/02/2016
+#1220, practicalswift, Null, Null, 6/02/2016, Null, 6/02/2016
+#1219, tkremenek, Apple member, Null, 6/02/2016, Null, 6/02/2016
+#1218, tkremenek, Apple member, Null, 6/02/2016, Null, 6/02/2016
+#1217, jckarter, Apple member, Null, 5/02/2016, [8/02/2016], Null
+#1216, practicalswift, Null, Null, 5/02/2016, Null, 15/02/2016
+#1215, gribozavr, Apple member, Null, 5/02/2016, [11/03/2016], Null
+#1214, kballard, Null, Null, 5/02/2016, Null, 23/02/2016
+#1213, practicalswift, Null, Null, 5/02/2016, Null, 5/02/2016
+#1212, dgrove-oss, Null, Null, 5/02/2016, Null, 11/02/2016
+#1211, natecook1000, Null, Null, 5/02/2016, Null, 8/02/2016
+#1210, glessard, Null, Null, 5/02/2016, Null, 6/02/2016
+#1209, johnno1962, Null, Null, 5/02/2016, Null, 6/02/2016
+#1208, practicalswift, Null, Null, 5/02/2016, Null, 5/02/2016
+#1207, practicalswift, Null, Null, 5/02/2016, Null, 5/02/2016
+#1206, practicalswift, Null, Null, 5/02/2016, Null, 5/02/2016
+#1205, robinkunde, Null, Null, 5/02/2016, Null, 11/02/2016
+#1204, jrose-apple, Apple member, Null, 5/02/2016, Null, 9/02/2016
+#1203, gribozavr, Apple member, Null, 5/02/2016, Null, 5/02/2016
+#1202, harlanhaskins, Apple member, Null, 5/02/2016, Null, 5/02/2016
+#1201, paulofaria, Null, Null, 5/02/2016, Null, Null
+#1200, gregomni, Null, Null, 4/02/2016, Null, 5/02/2016
+#1199, practicalswift, Null, Null, 4/02/2016, Null, 4/02/2016
+#1198, practicalswift, Null, Null, 4/02/2016, Null, 4/02/2016
+#1197, SquaredTiki, Null, Null, 4/02/2016, Null, Null
+#1196, milseman, Null, Null, 4/02/2016, Null, 5/02/2016
+#1195, tkremenek, Apple member, Null, 3/02/2016, Null, 4/02/2016
+#1194, lorentey, Null, Null, 3/02/2016, Null, Null
+#1193, johnno1962, Null, Null, 3/02/2016, Null, 5/02/2016
+#1192, milseman, Null, Null, 3/02/2016, [4/02/2016], Null
+#1191, practicalswift, Null, Null, 3/02/2016, Null, 4/02/2016
+#1190, practicalswift, Null, Null, 3/02/2016, Null, 3/02/2016
+#1189, practicalswift, Null, Null, 3/02/2016, Null, 3/02/2016
+#1188, DougGregor, Apple member, Null, 3/02/2016, Null, 4/02/2016
+#1187, glessard, Null, Null, 3/02/2016, Null, 3/02/2016
+#1186, glessard, Null, Null, 3/02/2016, Null, 3/02/2016
+#1185, DougGregor, Apple member, Null, 3/02/2016, Null, 3/02/2016
+#1184, DougGregor, Apple member, Null, 3/02/2016, [3/02/2016], Null
+#1183, jtbandes, Null, Null, 3/02/2016, Null, 3/02/2016
+#1182, slavapestov, Apple member, Null, 3/02/2016, [15/02/2016], Null
+#1181, vedantk, Apple member, Null, 3/02/2016, [8/02/2016], Null
+#1180, vedantk, Apple member, Null, 3/02/2016, [8/02/2016], Null
+#1179, kashyappanda, Null, Null, 3/02/2016, Null, 3/02/2016
+#1178, kashyappanda, Null, Null, 3/02/2016, [3/02/2016], Null
+#1177, shahmishal, Apple member, Null, 3/02/2016, Null, 3/02/2016
+#1176, harlanhaskins, Apple member, Null, 3/02/2016, Null, Null
+#1175, gribozavr, Apple member, Null, 2/02/2016, Null, 3/02/2016
+#1174, harlanhaskins, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1173, gottesmm, Apple member, Null, 2/02/2016, [2/02/2016 - 2/02/2016], Null
+#1172, practicalswift, Null, Null, 2/02/2016, [3/02/2016], Null
+#1171, shahmishal, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1170, tkremenek, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1169, shahmishal, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1168, practicalswift, Null, Null, 2/02/2016, Null, 2/02/2016
+#1167, tkremenek, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1166, modocache, Null, Null, 2/02/2016, [2/02/2016], Null
+#1165, practicalswift, Null, Null, 2/02/2016, Null, 3/02/2016
+#1164, practicalswift, Null, Null, 2/02/2016, Null, 2/02/2016
+#1163, practicalswift, Null, Null, 2/02/2016, Null, 2/02/2016
+#1162, shahmishal, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1161, kashyappanda, Null, Null, 2/02/2016, [2/02/2016], Null
+#1160, gregomni, Null, Null, 2/02/2016, Null, 4/02/2016
+#1159, aschwaighofer, Apple member, Null, 2/02/2016, Null, 3/02/2016
+#1158, shahmishal, Apple member, Null, 2/02/2016, Null, 2/02/2016
+#1157, hpux735, Null, Null, 2/02/2016, Null, 18/02/2016
+#1156, tkremenek, Apple member, Null, 2/02/2016, Null, 3/02/2016
+#1155, practicalswift, Null, Null, 1/02/2016, Null, 1/02/2016
+#1154, jckarter, Apple member, Null, 1/02/2016, [9/02/2016], Null
+#1153, practicalswift, Null, Null, 1/02/2016, Null, 1/02/2016
+#1152, ahoppen, Null, Null, 1/02/2016, Null, 2/02/2016
+#1151, slavapestov, Apple member, Null, 1/02/2016, Null, 2/02/2016
+#1150, gregomni, Null, Null, 31/01/2016, Null, 16/02/2016
+#1149, uraimo, Null, Null, 31/01/2016, Null, 1/02/2016
+#1148, practicalswift, Null, Null, 31/01/2016, Null, 31/01/2016
+#1147, Saisi, Null, Null, 30/01/2016, Null, 30/01/2016
+#1146, practicalswift, Null, Null, 30/01/2016, Null, 30/01/2016
+#1145, practicalswift, Null, Null, 30/01/2016, Null, 30/01/2016
+#1144, Saisi, Null, Null, 30/01/2016, Null, 30/01/2016
+#1143, aleksandrshoshiashvili, Null, Null, 30/01/2016, [1/02/2016], Null
+#1142, Saisi, Null, Null, 30/01/2016, Null, 30/01/2016
+#1141, Saisi, Null, Null, 30/01/2016, Null, 30/01/2016
+#1140, zbeach, Null, Null, 30/01/2016, [30/01/2016], Null
+#1139, jrose-apple, Apple member, Null, 30/01/2016, [11/04/2016], Null
+#1138, nadavrot, Apple member, Null, 29/01/2016, Null, 30/01/2016
+#1137, ahoppen, Null, Null, 29/01/2016, Null, 4/02/2016
+#1136, practicalswift, Null, Null, 29/01/2016, Null, 29/01/2016
+#1135, practicalswift, Null, Null, 29/01/2016, Null, 29/01/2016
+#1134, gregomni, Null, Null, 29/01/2016, Null, 30/01/2016
+#1133, glessard, Null, Null, 29/01/2016, Null, 29/01/2016
+#1132, modocache, Null, Null, 29/01/2016, [29/01/2016], Null
+#1131, glessard, Null, Null, 29/01/2016, Null, 4/02/2016
+#1130, glessard, Null, Null, 29/01/2016, Null, 29/01/2016
+#1129, practicalswift, Null, Null, 28/01/2016, Null, 28/01/2016
+#1128, practicalswift, Null, Null, 28/01/2016, Null, 28/01/2016
+#1127, gregomni, Null, Null, 28/01/2016, Null, 28/01/2016
+#1126, harlanhaskins, Apple member, Null, 28/01/2016, Null, 3/02/2016
+#1125, practicalswift, Null, Null, 28/01/2016, Null, 28/01/2016
+#1124, practicalswift, Null, Null, 28/01/2016, Null, 28/01/2016
+#1123, austinzheng, Null, Null, 28/01/2016, Null, 28/01/2016
+#1122, harlanhaskins, Apple member, Null, 27/01/2016, Null, 30/01/2016
+#1121, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1120, shahmishal, Apple member, Null, 27/01/2016, Null, 2/02/2016
+#1119, modocache, Null, Null, 27/01/2016, Null, 27/01/2016
+#1118, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1117, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1116, vedantk, Apple member, Null, 27/01/2016, [27/01/2016], Null
+#1115, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1114, rtreffer, Null, Null, 27/01/2016, Null, 27/01/2016
+#1113, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1112, practicalswift, Null, Null, 27/01/2016, Null, 27/01/2016
+#1111, glessard, Null, Null, 27/01/2016, Null, 27/01/2016
+#1110, shahmishal, Apple member, Null, 26/01/2016, Null, 27/01/2016
+#1109, zwaldowski, Null, Null, 26/01/2016, [23/02/2016], Null
+#1108, tinysun212, Null, Null, 26/01/2016, Null, 23/02/2016
+#1107, ahoppen, Null, Null, 26/01/2016, Null, 27/01/2016
+#1106, modocache, Null, Null, 26/01/2016, Null, 26/01/2016
+#1105, practicalswift, Null, Null, 26/01/2016, Null, 26/01/2016
+#1104, shobanamaran, Null, Null, 26/01/2016, [26/01/2016], Null
+#1103, modocache, Null, Null, 26/01/2016, [26/01/2016], Null
+#1102, practicalswift, Null, Null, 26/01/2016, Null, 26/01/2016
+#1101, sryze, Null, Null, 26/01/2016, Null, 26/01/2016
+#1100, tanadeau, Null, Null, 26/01/2016, Null, 26/01/2016
+#1099, gribozavr, Apple member, Null, 26/01/2016, Null, 26/01/2016
+#1098, gribozavr, Apple member, Null, 26/01/2016, Null, 26/01/2016
+#1097, denisvnukov, Apple member, Null, 26/01/2016, [2/02/2016], Null
+#1096, mattrajca, Null, Null, 25/01/2016, Null, 17/02/2016
+#1095, practicalswift, Null, Null, 25/01/2016, Null, 25/01/2016
+#1094, practicalswift, Null, Null, 25/01/2016, Null, 25/01/2016
+#1093, practicalswift, Null, Null, 25/01/2016, Null, 25/01/2016
+#1092, practicalswift, Null, Null, 25/01/2016, Null, 25/01/2016
+#1091, practicalswift, Null, Null, 25/01/2016, Null, 25/01/2016
+#1090, modocache, Null, Null, 25/01/2016, Null, 25/01/2016
+#1089, gregomni, Null, Null, 24/01/2016, Null, 27/01/2016
+#1088, SquaredTiki, Null, Null, 24/01/2016, Null, 26/01/2016
+#1087, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1086, tanadeau, Null, Null, 24/01/2016, Null, 25/01/2016
+#1085, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1084, lorentey, Null, Null, 24/01/2016, Null, 26/01/2016
+#1083, JaSpa, Null, Null, 24/01/2016, Null, 25/01/2016
+#1082, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1081, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1080, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1079, practicalswift, Null, Null, 24/01/2016, Null, 25/01/2016
+#1078, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1077, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1076, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1075, dduan, Null, Null, 24/01/2016, Null, 8/02/2016
+#1074, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1073, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1072, practicalswift, Null, Null, 24/01/2016, Null, 24/01/2016
+#1071, practicalswift, Null, Null, 23/01/2016, Null, 24/01/2016
+#1070, JaSpa, Null, Null, 23/01/2016, Null, 24/01/2016
+#1069, gregomni, Null, Null, 23/01/2016, Null, 28/01/2016
+#1068, m4rr, Null, Null, 23/01/2016, Null, 23/01/2016
+#1067, practicalswift, Null, Null, 23/01/2016, Null, 23/01/2016
+#1066, practicalswift, Null, Null, 23/01/2016, Null, 23/01/2016
+#1065, practicalswift, Null, Null, 23/01/2016, Null, 24/01/2016
+#1064, practicalswift, Null, Null, 23/01/2016, Null, 23/01/2016
+#1063, natecook1000, Null, Null, 23/01/2016, [6/03/2016], Null
+#1062, practicalswift, Null, Null, 23/01/2016, Null, 23/01/2016
+#1061, jrose-apple, Apple member, Null, 23/01/2016, [1/02/2016], Null
+#1060, practicalswift, Null, Null, 23/01/2016, Null, 23/01/2016
+#1059, m4rr, Null, Null, 23/01/2016, Null, 23/01/2016
+#1058, austinzheng, Null, Null, 23/01/2016, Null, 27/01/2016
+#1057, tanadeau, Null, Null, 22/01/2016, Null, 24/01/2016
+#1056, practicalswift, Null, Null, 22/01/2016, Null, 23/01/2016
+#1055, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1054, adrfer, Null, Null, 22/01/2016, Null, 23/01/2016
+#1053, vedantk, Apple member, Null, 22/01/2016, [1/02/2016], Null
+#1052, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1051, vedantk, Apple member, Null, 22/01/2016, [25/01/2016], Null
+#1050, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1049, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1048, dcci, Null, Null, 22/01/2016, [1/03/2016], Null
+#1047, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1046, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1045, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1044, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1043, practicalswift, Null, Null, 22/01/2016, Null, 22/01/2016
+#1042, gregomni, Null, Null, 22/01/2016, Null, 22/01/2016
+#1041, practicalswift, Null, Null, 21/01/2016, Null, 22/01/2016
+#1040, practicalswift, Null, Null, 21/01/2016, Null, 22/01/2016
+#1039, practicalswift, Null, Null, 21/01/2016, Null, 22/01/2016
+#1038, vedantk, Apple member, Null, 21/01/2016, [22/01/2016], Null
+#1037, vedantk, Apple member, Null, 21/01/2016, [21/01/2016], Null
+#1036, practicalswift, Null, Null, 21/01/2016, Null, 21/01/2016
+#1035, practicalswift, Null, Null, 21/01/2016, Null, 21/01/2016
+#1034, practicalswift, Null, Null, 21/01/2016, Null, 21/01/2016
+#1033, glessard, Null, Null, 21/01/2016, Null, 21/01/2016
+#1032, modocache, Null, Null, 21/01/2016, Null, 21/01/2016
+#1031, glessard, Null, Null, 21/01/2016, [24/01/2016], Null
+#1030, dgrove-oss, Null, Null, 20/01/2016, Null, 21/01/2016
+#1029, practicalswift, Null, Null, 20/01/2016, Null, 20/01/2016
+#1028, mteper, Null, Null, 20/01/2016, Null, 20/01/2016
+#1027, jaythaceo, Null, Null, 20/01/2016, [20/01/2016], Null
+#1026, modocache, Null, Null, 20/01/2016, Null, 20/01/2016
+#1025, glessard, Null, Null, 20/01/2016, Null, 20/01/2016
+#1024, glessard, Null, Null, 20/01/2016, Null, 20/01/2016
+#1023, practicalswift, Null, Null, 20/01/2016, Null, 20/01/2016
+#1022, practicalswift, Null, Null, 20/01/2016, Null, 20/01/2016
+#1021, practicalswift, Null, Null, 20/01/2016, Null, 20/01/2016
+#1020, gregomni, Null, Null, 20/01/2016, Null, 20/01/2016
+#1019, bitjammer, Apple member, Null, 20/01/2016, Null, 20/01/2016
+#1018, shahmishal, Apple member, Null, 20/01/2016, Null, 20/01/2016
+#1017, mteper, Null, Null, 19/01/2016, Null, 20/01/2016
+#1016, gregomni, Null, Null, 19/01/2016, Null, 20/01/2016
+#1015, mteper, Null, Null, 19/01/2016, Null, 20/01/2016
+#1014, practicalswift, Null, Null, 19/01/2016, Null, 20/01/2016
+#1013, practicalswift, Null, Null, 19/01/2016, Null, 19/01/2016
+#1012, practicalswift, Null, Null, 19/01/2016, Null, 19/01/2016
+#1011, dduan, Null, Null, 19/01/2016, [21/01/2016], Null
+#1010, tinysun212, Null, Null, 18/01/2016, [27/01/2016], Null
+#1009, gregomni, Null, Null, 18/01/2016, Null, 2/02/2016
+#1008, modocache, Null, Null, 18/01/2016, Null, 20/01/2016
+#1007, tkremenek, Apple member, Null, 18/01/2016, Null, 18/01/2016
+#1006, practicalswift, Null, Null, 18/01/2016, Null, 18/01/2016
+#1005, practicalswift, Null, Null, 18/01/2016, Null, 18/01/2016
+#1004, antonblanchard, Null, Null, 18/01/2016, Null, 18/01/2016
+#1003, practicalswift, Null, Null, 17/01/2016, Null, 24/01/2016
+#1002, practicalswift, Null, Null, 17/01/2016, Null, 18/01/2016
+#1001, practicalswift, Null, Null, 17/01/2016, Null, 17/01/2016
+#1000, practicalswift, Null, Null, 17/01/2016, Null, 17/01/2016
+#999, practicalswift, Null, Null, 17/01/2016, Null, 17/01/2016
+#998, lhoward, Null, Null, 17/01/2016, Null, 18/01/2016
+#997, lplarson, Apple member, Null, 16/01/2016, Null, 20/01/2016
+#996, practicalswift, Null, Null, 16/01/2016, Null, 17/01/2016
+#995, practicalswift, Null, Null, 16/01/2016, Null, 18/01/2016
+#994, practicalswift, Null, Null, 16/01/2016, Null, 16/01/2016
+#993, practicalswift, Null, Null, 16/01/2016, Null, 16/01/2016
+#992, lhoward, Null, Null, 16/01/2016, Null, 16/01/2016
+#991, lhoward, Null, Null, 16/01/2016, [16/01/2016], Null
+#990, lhoward, Null, Null, 16/01/2016, Null, 16/01/2016
+#989, practicalswift, Null, Null, 16/01/2016, Null, 21/01/2016
+#988, practicalswift, Null, Null, 15/01/2016, Null, 16/01/2016
+#987, dduan, Null, Null, 15/01/2016, Null, 26/01/2016
+#986, practicalswift, Null, Null, 15/01/2016, Null, 15/01/2016
+#985, practicalswift, Null, Null, 15/01/2016, Null, 15/01/2016
+#984, RLovelett, Null, Null, 15/01/2016, [15/01/2016], Null
+#983, andrewconlan, Null, Null, 15/01/2016, [15/01/2016], Null
+#982, practicalswift, Null, Null, 15/01/2016, Null, 16/01/2016
+#981, dduan, Null, Null, 15/01/2016, Null, 15/01/2016
+#980, milseman, Null, Null, 14/01/2016, Null, 15/01/2016
+#979, antonblanchard, Null, Null, 14/01/2016, Null, 16/01/2016
+#978, ezephir, Null, Null, 14/01/2016, Null, 15/01/2016
+#977, ezephir, Null, Null, 14/01/2016, [31/03/2016], Null
+#976, gregomni, Null, Null, 14/01/2016, Null, 17/01/2016
+#975, gregomni, Null, Null, 14/01/2016, [16/01/2016], Null
+#974, seabaylea, Null, Null, 14/01/2016, [24/01/2016], Null
+#973, practicalswift, Null, Null, 14/01/2016, Null, 15/01/2016
+#972, ezephir, Null, Null, 14/01/2016, [31/03/2016], Null
+#971, dduan, Null, Null, 14/01/2016, [15/01/2016 - 15/01/2016], Null
+#970, ezephir, Null, Null, 14/01/2016, [31/03/2016], Null
+#969, ezephir, Null, Null, 14/01/2016, [31/03/2016], Null
+#968, ezephir, Null, Null, 14/01/2016, Null, 5/03/2016
+#967, AbelSu131, Null, Null, 14/01/2016, [14/01/2016], Null
+#966, modocache, Null, Null, 14/01/2016, Null, 19/01/2016
+#965, modocache, Null, Null, 13/01/2016, Null, 14/01/2016
+#964, gregomni, Null, Null, 13/01/2016, Null, 14/01/2016
+#963, JaSpa, Null, Null, 13/01/2016, [14/01/2016], Null
+#962, practicalswift, Null, Null, 13/01/2016, Null, 14/01/2016
+#961, practicalswift, Null, Null, 13/01/2016, Null, 13/01/2016
+#960, practicalswift, Null, Null, 13/01/2016, Null, 13/01/2016
+#959, lhoward, Null, Null, 13/01/2016, Null, Null
+#958, gregomni, Null, Null, 13/01/2016, Null, 15/01/2016
+#957, robinkunde, Null, Null, 13/01/2016, Null, 14/01/2016
+#956, practicalswift, Null, Null, 13/01/2016, Null, 14/01/2016
+#955, dduan, Null, Null, 13/01/2016, Null, 15/01/2016
+#954, gribozavr, Apple member, Null, 13/01/2016, Null, 13/01/2016
+#953, practicalswift, Null, Null, 13/01/2016, Null, 13/01/2016
+#952, practicalswift, Null, Null, 13/01/2016, Null, 13/01/2016
+#951, tanadeau, Null, Null, 13/01/2016, Null, 14/01/2016
+#950, RLovelett, Null, Null, 13/01/2016, Null, 13/01/2016
+#949, gribozavr, Apple member, Null, 13/01/2016, Null, 13/01/2016
+#948, modocache, Null, Null, 12/01/2016, Null, 25/01/2016
+#947, modocache, Null, Null, 12/01/2016, Null, 13/01/2016
+#946, practicalswift, Null, Null, 12/01/2016, Null, 16/01/2016
+#945, EZ-NET, Null, Null, 12/01/2016, Null, 12/01/2016
+#944, practicalswift, Null, Null, 12/01/2016, Null, 12/01/2016
+#943, practicalswift, Null, Null, 12/01/2016, Null, 12/01/2016
+#942, practicalswift, Null, Null, 12/01/2016, Null, 12/01/2016
+#941, DougGregor, Apple member, Null, 12/01/2016, Null, 12/01/2016
+#940, practicalswift, Null, Null, 11/01/2016, Null, 11/01/2016
+#939, practicalswift, Null, Null, 11/01/2016, Null, 11/01/2016
+#938, milseman, Null, Null, 11/01/2016, Null, 12/01/2016
+#937, smikes, Null, Null, 11/01/2016, Null, 12/01/2016
+#936, EZ-NET, Null, Null, 11/01/2016, Null, 12/01/2016
+#935, EZ-NET, Null, Null, 11/01/2016, Null, 11/01/2016
+#934, jder, Null, Null, 11/01/2016, [11/01/2016], Null
+#933, ezephir, Null, Null, 10/01/2016, Null, 10/01/2016
+#932, practicalswift, Null, Null, 10/01/2016, Null, 12/01/2016
+#931, dduan, Null, Null, 10/01/2016, [11/01/2016], Null
+#930, dcci, Null, Null, 10/01/2016, Null, 10/01/2016
+#929, kballard, Null, Null, 9/01/2016, Null, 4/02/2016
+#928, practicalswift, Null, Null, 9/01/2016, Null, 9/01/2016
+#927, practicalswift, Null, Null, 9/01/2016, Null, 10/01/2016
+#926, jtbandes, Null, Null, 9/01/2016, Null, 10/01/2016
+#925, jtbandes, Null, Null, 9/01/2016, Null, 10/01/2016
+#924, jtbandes, Null, Null, 9/01/2016, Null, 9/01/2016
+#923, johnlui, Null, Null, 9/01/2016, Null, 12/01/2016
+#922, practicalswift, Null, Null, 9/01/2016, [9/01/2016], Null
+#921, practicalswift, Null, Null, 9/01/2016, Null, 9/01/2016
+#920, practicalswift, Null, Null, 9/01/2016, Null, 12/01/2016
+#919, practicalswift, Null, Null, 9/01/2016, Null, 9/01/2016
+#918, dcci, Null, Null, 8/01/2016, Null, 8/01/2016
+#917, practicalswift, Null, Null, 8/01/2016, Null, 8/01/2016
+#916, practicalswift, Null, Null, 8/01/2016, Null, 8/01/2016
+#915, practicalswift, Null, Null, 8/01/2016, Null, 8/01/2016
+#914, ezephir, Null, Null, 8/01/2016, Null, 8/01/2016
+#913, kovpas, Null, Null, 8/01/2016, Null, 8/01/2016
+#912, practicalswift, Null, Null, 8/01/2016, Null, 8/01/2016
+#911, practicalswift, Null, Null, 8/01/2016, Null, 8/01/2016
+#910, jtbandes, Null, Null, 8/01/2016, Null, 10/01/2016
+#909, dcci, Null, Null, 8/01/2016, Null, 8/01/2016
+#908, dcci, Null, Null, 8/01/2016, Null, 8/01/2016
+#907, practicalswift, Null, Null, 7/01/2016, [7/01/2016], Null
+#906, practicalswift, Null, Null, 7/01/2016, Null, 7/01/2016
+#905, ezephir, Null, Null, 7/01/2016, Null, 8/01/2016
+#904, practicalswift, Null, Null, 7/01/2016, Null, 7/01/2016
+#903, zachpanz88, Null, Null, 7/01/2016, Null, 7/01/2016
+#902, dcci, Null, Null, 7/01/2016, Null, 7/01/2016
+#901, hpux735, Null, Null, 7/01/2016, Null, 30/01/2016
+#900, kballard, Null, Null, 6/01/2016, Null, 6/01/2016
+#899, gregomni, Null, Null, 6/01/2016, Null, 12/01/2016
+#898, practicalswift, Null, Null, 6/01/2016, Null, 8/01/2016
+#897, practicalswift, Null, Null, 6/01/2016, Null, 8/01/2016
+#896, practicalswift, Null, Null, 6/01/2016, Null, 7/01/2016
+#895, moiseev, Apple member, Null, 6/01/2016, Null, 6/01/2016
+#894, nonsensery, Null, Null, 6/01/2016, Null, 9/01/2016
+#893, practicalswift, Null, Null, 6/01/2016, Null, 6/01/2016
+#892, practicalswift, Null, Null, 6/01/2016, Null, 6/01/2016
+#891, practicalswift, Null, Null, 6/01/2016, Null, 6/01/2016
+#890, practicalswift, Null, Null, 6/01/2016, Null, 8/01/2016
+#889, johnlui, Null, Null, 6/01/2016, [9/01/2016], Null
+#888, briancroom, Null, Null, 6/01/2016, Null, 8/01/2016
+#887, RLovelett, Null, Null, 6/01/2016, Null, 6/01/2016
+#886, nonsensery, Null, Null, 6/01/2016, Null, 6/01/2016
+#885, practicalswift, Null, Null, 5/01/2016, Null, 6/01/2016
+#884, practicalswift, Null, Null, 5/01/2016, Null, 12/01/2016
+#883, tom-gall, Null, Null, 5/01/2016, Null, 6/01/2016
+#882, tom-gall, Null, Null, 5/01/2016, [5/01/2016], Null
+#881, LEOYoon-Tsaw, Null, Null, 5/01/2016, [18/01/2016], Null
+#880, practicalswift, Null, Null, 5/01/2016, Null, 6/01/2016
+#879, practicalswift, Null, Null, 5/01/2016, Null, 5/01/2016
+#878, practicalswift, Null, Null, 5/01/2016, Null, 5/01/2016
+#877, practicalswift, Null, Null, 5/01/2016, Null, 5/01/2016
+#876, practicalswift, Null, Null, 4/01/2016, Null, 6/01/2016
+#875, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#874, practicalswift, Null, Null, 4/01/2016, Null, 6/01/2016
+#873, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#872, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#871, modocache, Null, Null, 4/01/2016, Null, 5/01/2016
+#870, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#869, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#868, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#867, ACheer, Null, Null, 4/01/2016, [4/01/2016], Null
+#866, practicalswift, Null, Null, 4/01/2016, Null, 6/01/2016
+#865, practicalswift, Null, Null, 4/01/2016, Null, 4/01/2016
+#864, antonvmironov, Null, Null, 4/01/2016, [4/01/2016], Null
+#863, practicalswift, Null, Null, 3/01/2016, Null, 3/01/2016
+#862, ezephir, Null, Null, 3/01/2016, Null, 8/01/2016
+#861, jder, Null, Null, 3/01/2016, Null, 9/01/2016
+#860, kballard, Null, Null, 3/01/2016, Null, 4/01/2016
+#859, practicalswift, Null, Null, 3/01/2016, Null, 6/01/2016
+#858, jder, Null, Null, 2/01/2016, Null, 6/01/2016
+#857, jder, Null, Null, 2/01/2016, Null, 8/01/2016
+#856, practicalswift, Null, Null, 2/01/2016, Null, 2/01/2016
+#855, ezephir, Null, Null, 2/01/2016, Null, 8/01/2016
+#854, an0, Null, Null, 2/01/2016, Null, 29/01/2016
+#853, an0, Null, Null, 2/01/2016, [2/01/2016], Null
+#852, ezephir, Null, Null, 1/01/2016, Null, 8/01/2016
+#851, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#850, practicalswift, Null, Null, 1/01/2016, [1/01/2016], Null
+#849, practicalswift, Null, Null, 1/01/2016, [1/01/2016], Null
+#848, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#847, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#846, practicalswift, Null, Null, 1/01/2016, [1/01/2016], Null
+#845, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#844, ezephir, Null, Null, 1/01/2016, Null, 5/01/2016
+#843, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#842, ezephir, Null, Null, 1/01/2016, Null, 6/01/2016
+#841, practicalswift, Null, Null, 1/01/2016, Null, 5/01/2016
+#840, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#839, ezephir, Null, Null, 1/01/2016, Null, 1/01/2016
+#838, austinzheng, Null, Null, 1/01/2016, Null, 22/01/2016
+#837, practicalswift, Null, Null, 1/01/2016, Null, 1/01/2016
+#836, zachpanz88, Null, Null, 31/12/2015, Null, 1/01/2016
+#835, ezephir, Null, Null, 31/12/2015, Null, 4/01/2016
+#834, lhoward, Null, Null, 31/12/2015, [16/01/2016], Null
+#833, zachpanz88, Null, Null, 31/12/2015, [31/12/2015], Null
+#832, ezephir, Null, Null, 31/12/2015, Null, 31/12/2015
+#831, ezephir, Null, Null, 31/12/2015, Null, 2/01/2016
+#830, RLovelett, Null, Null, 31/12/2015, Null, 8/01/2016
+#829, kballard, Null, Null, 31/12/2015, Null, 31/12/2015
+#828, practicalswift, Null, Null, 31/12/2015, Null, 31/12/2015
+#827, practicalswift, Null, Null, 31/12/2015, Null, 1/01/2016
+#826, johnlui, Null, Null, 31/12/2015, [6/01/2016], Null
+#825, kballard, Null, Null, 31/12/2015, Null, 1/01/2016
+#824, kballard, Null, Null, 31/12/2015, [31/12/2015], Null
+#823, ezephir, Null, Null, 30/12/2015, Null, 30/12/2015
+#822, practicalswift, Null, Null, 30/12/2015, Null, 1/01/2016
+#821, johnlinvc, Null, Null, 30/12/2015, Null, Null
+#820, practicalswift, Null, Null, 30/12/2015, Null, 30/12/2015
+#819, ezephir, Null, Null, 30/12/2015, Null, 30/12/2015
+#818, therealbnut, Null, Null, 30/12/2015, Null, Null
+#817, kballard, Null, Null, 30/12/2015, Null, 30/12/2015
+#816, practicalswift, Null, Null, 29/12/2015, Null, 29/12/2015
+#815, practicalswift, Null, Null, 29/12/2015, Null, 30/12/2015
+#814, practicalswift, Null, Null, 29/12/2015, Null, 29/12/2015
+#813, practicalswift, Null, Null, 29/12/2015, Null, 29/12/2015
+#812, practicalswift, Null, Null, 29/12/2015, Null, 29/12/2015
+#811, practicalswift, Null, Null, 29/12/2015, Null, 29/12/2015
+#810, modocache, Null, Null, 29/12/2015, Null, 29/12/2015
+#809, aaronraimist, Null, Null, 29/12/2015, Null, 29/12/2015
+#808, modocache, Null, Null, 29/12/2015, Null, 29/12/2015
+#807, practicalswift, Null, Null, 28/12/2015, [29/12/2015], Null
+#806, RLovelett, Null, Null, 28/12/2015, Null, 31/12/2015
+#805, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#804, raylillywhite, Null, Null, 28/12/2015, Null, 30/12/2015
+#803, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#802, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#801, RLovelett, Null, Null, 28/12/2015, Null, Null
+#800, frootloops, Null, Null, 28/12/2015, Null, 28/12/2015
+#799, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#798, mayurkr, Null, Null, 28/12/2015, Null, 28/12/2015
+#797, kballard, Null, Null, 28/12/2015, Null, 6/01/2016
+#796, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#795, practicalswift, Null, Null, 28/12/2015, Null, 28/12/2015
+#794, modocache, Null, Null, 27/12/2015, Null, 28/12/2015
+#793, modocache, Null, Null, 27/12/2015, Null, 28/12/2015
+#792, modocache, Null, Null, 27/12/2015, Null, 28/12/2015
+#791, practicalswift, Null, Null, 27/12/2015, [28/12/2015], Null
+#790, practicalswift, Null, Null, 27/12/2015, Null, 27/12/2015
+#789, rpinz, Null, Null, 27/12/2015, Null, 28/12/2015
+#788, practicalswift, Null, Null, 27/12/2015, Null, 27/12/2015
+#787, practicalswift, Null, Null, 27/12/2015, Null, 27/12/2015
+#786, ezephir, Null, Null, 26/12/2015, Null, 8/01/2016
+#785, modocache, Null, Null, 26/12/2015, Null, 16/01/2016
+#784, practicalswift, Null, Null, 26/12/2015, Null, 27/12/2015
+#783, practicalswift, Null, Null, 26/12/2015, Null, 26/12/2015
+#782, practicalswift, Null, Null, 26/12/2015, Null, 26/12/2015
+#781, JaSpa, Null, Null, 26/12/2015, Null, 12/01/2016
+#780, gribozavr, Apple member, Null, 26/12/2015, Null, 26/12/2015
+#779, practicalswift, Null, Null, 26/12/2015, Null, 26/12/2015
+#778, modocache, Null, Null, 26/12/2015, Null, 27/12/2015
+#777, PatrickPijnappel, Null, Null, 26/12/2015, Null, 26/12/2015
+#776, practicalswift, Null, Null, 25/12/2015, Null, 25/12/2015
+#775, practicalswift, Null, Null, 25/12/2015, Null, 25/12/2015
+#774, practicalswift, Null, Null, 25/12/2015, Null, 25/12/2015
+#773, practicalswift, Null, Null, 25/12/2015, [25/12/2015], Null
+#772, practicalswift, Null, Null, 25/12/2015, Null, 26/12/2015
+#771, practicalswift, Null, Null, 25/12/2015, Null, 25/12/2015
+#770, SemperIdem, Null, Null, 25/12/2015, Null, 26/12/2015
+#769, PatrickPijnappel, Null, Null, 24/12/2015, Null, 24/12/2015
+#768, gregomni, Null, Null, 24/12/2015, Null, 25/12/2015
+#767, frootloops, Null, Null, 24/12/2015, Null, 24/12/2015
+#766, practicalswift, Null, Null, 24/12/2015, Null, 24/12/2015
+#765, SemperIdem, Null, Null, 24/12/2015, Null, 24/12/2015
+#764, frootloops, Null, Null, 24/12/2015, [24/12/2015], Null
+#763, frootloops, Null, Null, 24/12/2015, Null, 24/12/2015
+#762, modocache, Null, Null, 24/12/2015, Null, 24/12/2015
+#761, modocache, Null, Null, 24/12/2015, Null, 27/12/2015
+#760, modocache, Null, Null, 24/12/2015, Null, 24/12/2015
+#759, practicalswift, Null, Null, 23/12/2015, Null, 24/12/2015
+#758, practicalswift, Null, Null, 23/12/2015, Null, 24/12/2015
+#757, eeckstein, Apple member, Null, 23/12/2015, Null, 23/12/2015
+#756, frootloops, Null, Null, 23/12/2015, [23/12/2015], Null
+#755, frootloops, Null, Null, 23/12/2015, Null, 24/12/2015
+#754, gregomni, Null, Null, 23/12/2015, Null, 16/01/2016
+#753, modocache, Null, Null, 23/12/2015, [23/12/2015], Null
+#752, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#751, modocache, Null, Null, 23/12/2015, Null, 23/12/2015
+#750, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#749, gregomni, Null, Null, 23/12/2015, Null, Null
+#748, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#747, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#746, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#745, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#744, practicalswift, Null, Null, 23/12/2015, Null, 23/12/2015
+#743, kballard, Null, Null, 23/12/2015, Null, 23/12/2015
+#742, nielsandriesse, Null, Null, 23/12/2015, [8/01/2016], Null
+#741, nielsandriesse, Null, Null, 23/12/2015, Null, 26/01/2016
+#740, RLovelett, Null, Null, 23/12/2015, Null, 23/12/2015
+#739, dcci, Null, Null, 23/12/2015, Null, 23/12/2015
+#738, practicalswift, Null, Null, 22/12/2015, Null, 22/12/2015
+#737, alblue, Null, Null, 22/12/2015, [23/12/2015], Null
+#736, nielsandriesse, Null, Null, 22/12/2015, Null, 23/12/2015
+#735, alexwlchan, Null, Null, 22/12/2015, Null, 23/12/2015
+#734, practicalswift, Null, Null, 22/12/2015, Null, 22/12/2015
+#733, practicalswift, Null, Null, 22/12/2015, Null, 23/12/2015
+#732, amackworth, Null, Null, 22/12/2015, Null, Null
+#731, ken0nek, Null, Null, 22/12/2015, Null, 23/12/2015
+#730, ken0nek, Null, Null, 22/12/2015, Null, 22/12/2015
+#729, ken0nek, Null, Null, 22/12/2015, Null, 23/12/2015
+#728, practicalswift, Null, Null, 22/12/2015, Null, 22/12/2015
+#727, dcci, Null, Null, 22/12/2015, [22/12/2015], Null
+#726, nielsandriesse, Null, Null, 22/12/2015, Null, Null
+#725, jasonnoahchoi, Null, Null, 22/12/2015, [30/12/2015], Null
+#724, jasonnoahchoi, Null, Null, 22/12/2015, [30/12/2015], Null
+#723, sgr-ksmt, Null, Null, 22/12/2015, Null, 22/12/2015
+#722, jasonnoahchoi, Null, Null, 22/12/2015, Null, 22/12/2015
+#721, jasonnoahchoi, Null, Null, 22/12/2015, Null, 22/12/2015
+#720, practicalswift, Null, Null, 22/12/2015, Null, 22/12/2015
+#719, Minal91, Null, Null, 22/12/2015, [22/12/2015], Null
+#718, sgr-ksmt, Null, Null, 22/12/2015, Null, 22/12/2015
+#717, ezephir, Null, Null, 21/12/2015, Null, 22/12/2015
+#716, ezephir, Null, Null, 21/12/2015, Null, 22/12/2015
+#715, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#714, ezephir, Null, Null, 21/12/2015, Null, 10/03/2016
+#713, dcci, Null, Null, 21/12/2015, Null, 25/12/2015
+#712, practicalswift, Null, Null, 21/12/2015, Null, 22/12/2015
+#711, glessard, Null, Null, 21/12/2015, Null, 21/12/2015
+#710, wpegg-dev, Null, Null, 21/12/2015, Null, 22/12/2015
+#709, wpegg-dev, Null, Null, 21/12/2015, Null, 22/12/2015
+#708, Minal91, Null, Null, 21/12/2015, [22/12/2015], Null
+#707, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#706, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#705, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#704, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#703, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#702, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#701, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#700, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#699, gribozavr, Apple member, Null, 21/12/2015, Null, 21/12/2015
+#698, gribozavr, Apple member, Null, 21/12/2015, Null, 21/12/2015
+#697, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#696, practicalswift, Null, Null, 21/12/2015, Null, 21/12/2015
+#695, ken0nek, Null, Null, 21/12/2015, Null, 21/12/2015
+#694, dduan, Null, Null, 21/12/2015, Null, 21/12/2015
+#693, PatrickPijnappel, Null, Null, 21/12/2015, [26/12/2015], Null
+#692, practicalswift, Null, Null, 20/12/2015, Null, 21/12/2015
+#691, dduan, Null, Null, 20/12/2015, Null, 20/12/2015
+#690, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#689, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#688, practicalswift, Null, Null, 20/12/2015, Null, 21/12/2015
+#687, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#686, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#685, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#684, gribozavr, Apple member, Null, 20/12/2015, Null, 20/12/2015
+#683, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#682, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#681, PatrickPijnappel, Null, Null, 20/12/2015, [3/01/2016], Null
+#680, PatrickPijnappel, Null, Null, 20/12/2015, Null, 21/12/2015
+#679, dduan, Null, Null, 20/12/2015, [20/12/2015], Null
+#678, PatrickPijnappel, Null, Null, 20/12/2015, Null, 20/12/2015
+#677, dduan, Null, Null, 20/12/2015, [20/12/2015], Null
+#676, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#675, practicalswift, Null, Null, 20/12/2015, Null, 20/12/2015
+#674, gregomni, Null, Null, 19/12/2015, Null, 23/12/2015
+#673, SquaredTiki, Null, Null, 19/12/2015, Null, 13/01/2016
+#672, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#671, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#670, practicalswift, Null, Null, 19/12/2015, Null, 20/12/2015
+#669, practicalswift, Null, Null, 19/12/2015, Null, 12/01/2016
+#668, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#667, davezarzycki, Null, Null, 19/12/2015, Null, 19/12/2015
+#666, practicalswift, Null, Null, 19/12/2015, Null, 20/12/2015
+#665, practicalswift, Null, Null, 19/12/2015, Null, 20/12/2015
+#664, dcci, Null, Null, 19/12/2015, [21/12/2015], Null
+#663, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#662, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#661, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#660, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#659, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#658, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#657, PatrickPijnappel, Null, Null, 19/12/2015, Null, 19/12/2015
+#656, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#655, practicalswift, Null, Null, 19/12/2015, Null, 21/12/2015
+#654, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#653, kovpas, Null, Null, 19/12/2015, Null, 19/12/2015
+#652, practicalswift, Null, Null, 19/12/2015, Null, 19/12/2015
+#651, modocache, Null, Null, 19/12/2015, Null, 26/02/2016
+#650, nielsandriesse, Null, Null, 19/12/2015, [22/12/2015 - 22/12/2015], Null
+#649, ezephir, Null, Null, 19/12/2015, Null, 19/12/2015
+#648, DougGregor, Apple member, Null, 18/12/2015, Null, 18/12/2015
+#647, practicalswift, Null, Null, 18/12/2015, [30/12/2015], Null
+#646, practicalswift, Null, Null, 18/12/2015, Null, 19/12/2015
+#645, xtravar, Null, Null, 18/12/2015, [21/12/2015], Null
+#644, kovpas, Null, Null, 18/12/2015, [27/01/2016], Null
+#643, practicalswift, Null, Null, 18/12/2015, Null, 18/12/2015
+#642, practicalswift, Null, Null, 18/12/2015, Null, 19/12/2015
+#641, practicalswift, Null, Null, 18/12/2015, [19/12/2015], Null
+#640, frootloops, Null, Null, 18/12/2015, Null, 22/12/2015
+#639, alexwlchan, Null, Null, 18/12/2015, Null, 20/12/2015
+#638, modocache, Null, Null, 18/12/2015, Null, Null
+#637, practicalswift, Null, Null, 18/12/2015, Null, 18/12/2015
+#636, modocache, Null, Null, 18/12/2015, Null, Null
+#635, practicalswift, Null, Null, 18/12/2015, Null, 19/12/2015
+#634, ezephir, Null, Null, 18/12/2015, Null, 19/12/2015
+#633, PatrickPijnappel, Null, Null, 18/12/2015, Null, 18/12/2015
+#632, kashyappanda, Null, Null, 17/12/2015, [18/12/2015], Null
+#631, practicalswift, Null, Null, 17/12/2015, Null, 18/12/2015
+#630, frootloops, Null, Null, 17/12/2015, [24/12/2015], Null
+#629, glessard, Null, Null, 17/12/2015, Null, Null
+#628, practicalswift, Null, Null, 17/12/2015, Null, 18/12/2015
+#627, swiftix, Apple member, Null, 17/12/2015, Null, 18/12/2015
+#626, practicalswift, Null, Null, 17/12/2015, Null, 17/12/2015
+#625, frootloops, Null, Null, 17/12/2015, Null, 17/12/2015
+#624, joemasilotti, Null, Null, 17/12/2015, Null, 17/12/2015
+#623, practicalswift, Null, Null, 17/12/2015, Null, 19/12/2015
+#622, zachpanz88, Null, Null, 17/12/2015, [17/12/2015], Null
+#621, frootloops, Null, Null, 17/12/2015, [17/12/2015], Null
+#620, jtbandes, Null, Null, 17/12/2015, Null, 18/12/2015
+#619, jtbandes, Null, Null, 17/12/2015, Null, 18/12/2015
+#618, kballard, Null, Null, 17/12/2015, Null, 24/12/2015
+#617, practicalswift, Null, Null, 17/12/2015, Null, 19/12/2015
+#616, dduan, Null, Null, 17/12/2015, Null, 18/12/2015
+#615, PatrickPijnappel, Null, Null, 17/12/2015, Null, 18/12/2015
+#614, tracicot, Null, Null, 17/12/2015, Null, 17/12/2015
+#613, PatrickPijnappel, Null, Null, 17/12/2015, Null, 21/12/2015
+#612, xtravar, Null, Null, 17/12/2015, Null, 18/12/2015
+#611, practicalswift, Null, Null, 16/12/2015, Null, 22/12/2015
+#610, frootloops, Null, Null, 16/12/2015, Null, 17/12/2015
+#609, pahmed, Null, Null, 16/12/2015, Null, 16/12/2015
+#608, tienex, Null, Null, 16/12/2015, [2/02/2016], Null
+#607, practicalswift, Null, Null, 16/12/2015, Null, 20/12/2015
+#606, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#605, dcci, Null, Null, 16/12/2015, [8/01/2016], Null
+#604, xtravar, Null, Null, 16/12/2015, Null, 16/12/2015
+#603, xtravar, Null, Null, 16/12/2015, Null, 16/12/2015
+#602, xtravar, Null, Null, 16/12/2015, [16/12/2015], Null
+#601, dcci, Null, Null, 16/12/2015, Null, 20/12/2015
+#600, xtravar, Null, Null, 16/12/2015, [16/12/2015], Null
+#599, shahmishal, Apple member, Null, 16/12/2015, Null, 16/12/2015
+#598, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#597, xtravar, Null, Null, 16/12/2015, [16/12/2015], Null
+#596, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#595, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#594, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#593, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#592, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#591, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#590, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#589, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#588, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#587, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#586, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#585, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#584, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#583, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#582, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#581, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#580, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#579, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#578, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#577, practicalswift, Null, Null, 16/12/2015, Null, 16/12/2015
+#576, dduan, Null, Null, 16/12/2015, Null, 20/12/2015
+#575, nielsandriesse, Null, Null, 16/12/2015, Null, 16/12/2015
+#574, nielsandriesse, Null, Null, 16/12/2015, [18/12/2015], Null
+#573, zachpanz88, Null, Null, 16/12/2015, [21/12/2015], Null
+#572, patters, Null, Null, 16/12/2015, Null, 22/12/2015
+#571, nassersala, Null, Null, 16/12/2015, Null, 16/12/2015
+#570, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#569, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#568, frootloops, Null, Null, 15/12/2015, Null, 16/12/2015
+#567, terhechte, Null, Null, 15/12/2015, Null, 15/12/2015
+#566, frootloops, Null, Null, 15/12/2015, Null, 16/12/2015
+#565, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#564, dcci, Null, Null, 15/12/2015, Null, 16/12/2015
+#563, shahmishal, Apple member, Null, 15/12/2015, Null, 15/12/2015
+#562, thel3l, Null, Null, 15/12/2015, Null, 25/12/2015
+#561, practicalswift, Null, Null, 15/12/2015, Null, 18/12/2015
+#560, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#559, pahmed, Null, Null, 15/12/2015, Null, 15/12/2015
+#558, nielsandriesse, Null, Null, 15/12/2015, [16/12/2015], Null
+#557, thel3l, Null, Null, 15/12/2015, Null, 15/12/2015
+#556, dduan, Null, Null, 15/12/2015, Null, 16/12/2015
+#555, practicalswift, Null, Null, 15/12/2015, Null, 22/12/2015
+#554, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#553, modocache, Null, Null, 15/12/2015, Null, 17/12/2015
+#552, gregomni, Null, Null, 15/12/2015, Null, 18/12/2015
+#551, practicalswift, Null, Null, 15/12/2015, Null, 15/12/2015
+#550, nafehshoaib, Null, Null, 15/12/2015, [15/12/2015], Null
+#549, zerotypos-found, Null, Null, 15/12/2015, Null, 18/12/2015
+#548, modocache, Null, Null, 15/12/2015, [17/12/2015], Null
+#547, nielsandriesse, Null, Null, 15/12/2015, Null, 15/12/2015
+#546, zachpanz88, Null, Null, 15/12/2015, [7/01/2016], Null
+#545, nielsandriesse, Null, Null, 15/12/2015, Null, 15/12/2015
+#544, nielsandriesse, Null, Null, 15/12/2015, Null, 15/12/2015
+#543, dcci, Null, Null, 14/12/2015, Null, 14/12/2015
+#542, practicalswift, Null, Null, 14/12/2015, Null, 15/12/2015
+#541, practicalswift, Null, Null, 14/12/2015, [29/12/2015], Null
+#540, practicalswift, Null, Null, 14/12/2015, Null, 15/12/2015
+#539, zachpanz88, Null, Null, 14/12/2015, [15/12/2015], Null
+#538, practicalswift, Null, Null, 14/12/2015, Null, 15/12/2015
+#537, practicalswift, Null, Null, 14/12/2015, Null, 14/12/2015
+#536, modocache, Null, Null, 14/12/2015, [14/03/2016], Null
+#535, emlai, Null, Null, 14/12/2015, Null, 14/12/2015
+#534, ultramiraculous, Null, Null, 14/12/2015, [14/12/2015], Null
+#533, practicalswift, Null, Null, 14/12/2015, Null, 14/12/2015
+#532, emlai, Null, Null, 14/12/2015, [14/12/2015], Null
+#531, dabrahams, Apple member, Null, 14/12/2015, Null, 14/12/2015
+#530, gregomni, Null, Null, 14/12/2015, [22/12/2015], Null
+#529, modocache, Null, Null, 14/12/2015, Null, 14/12/2015
+#528, djnguyen, Null, Null, 14/12/2015, [14/12/2015], Null
+#527, NachoSoto, Null, Null, 14/12/2015, Null, 25/01/2016
+#526, practicalswift, Null, Null, 13/12/2015, Null, 15/12/2015
+#525, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#524, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#523, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#522, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#521, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#520, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#519, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#518, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#517, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#516, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#515, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#514, practicalswift, Null, Null, 13/12/2015, [15/12/2015], Null
+#513, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#512, practicalswift, Null, Null, 13/12/2015, [14/12/2015], Null
+#511, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#510, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#509, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#508, practicalswift, Null, Null, 13/12/2015, [14/12/2015], Null
+#507, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#506, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#505, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#504, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#503, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#502, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#501, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#500, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#499, practicalswift, Null, Null, 13/12/2015, Null, 14/12/2015
+#498, practicalswift, Null, Null, 13/12/2015, Null, 13/12/2015
+#497, kballard, Null, Null, 13/12/2015, [27/12/2015], Null
+#496, practicalswift, Null, Null, 13/12/2015, [13/12/2015], Null
+#495, practicalswift, Null, Null, 13/12/2015, [13/12/2015], Null
+#494, practicalswift, Null, Null, 13/12/2015, [13/12/2015], Null
+#493, practicalswift, Null, Null, 13/12/2015, [13/12/2015], Null
+#492, practicalswift, Null, Null, 13/12/2015, Null, 13/12/2015
+#491, practicalswift, Null, Null, 13/12/2015, [13/12/2015], Null
+#490, kballard, Null, Null, 13/12/2015, Null, 14/12/2015
+#489, mr-woot, Null, Null, 13/12/2015, Null, 13/12/2015
+#488, practicalswift, Null, Null, 13/12/2015, Null, 16/12/2015
+#487, frootloops, Null, Null, 13/12/2015, Null, 24/12/2015
+#486, him229, Null, Null, 13/12/2015, Null, 13/12/2015
+#485, frootloops, Null, Null, 13/12/2015, Null, 13/12/2015
+#484, nielsandriesse, Null, Null, 13/12/2015, Null, 13/12/2015
+#483, practicalswift, Null, Null, 13/12/2015, Null, 13/12/2015
+#482, JaSpa, Null, Null, 13/12/2015, [13/12/2015], Null
+#481, frootloops, Null, Null, 13/12/2015, [13/12/2015], Null
+#480, dcci, Null, Null, 13/12/2015, Null, 13/12/2015
+#479, PatrickPijnappel, Null, Null, 13/12/2015, Null, 15/12/2015
+#478, jtbandes, Null, Null, 13/12/2015, [8/01/2016], Null
+#477, dduan, Null, Null, 13/12/2015, [16/12/2015], Null
+#476, jtbandes, Null, Null, 13/12/2015, Null, 13/12/2015
+#475, practicalswift, Null, Null, 13/12/2015, Null, 13/12/2015
+#474, PatrickPijnappel, Null, Null, 13/12/2015, Null, 14/12/2015
+#473, frootloops, Null, Null, 13/12/2015, Null, 13/12/2015
+#472, dayitv89, Null, Null, 13/12/2015, Null, 13/12/2015
+#471, tommypacker, Null, Null, 13/12/2015, Null, 15/12/2015
+#470, PatrickPijnappel, Null, Null, 13/12/2015, Null, 13/12/2015
+#469, nielsandriesse, Null, Null, 13/12/2015, Null, 13/12/2015
+#468, JadenGeller, Null, Null, 12/12/2015, Null, 12/12/2015
+#467, nielsandriesse, Null, Null, 12/12/2015, Null, 12/12/2015
+#466, PatrickPijnappel, Null, Null, 12/12/2015, Null, 13/12/2015
+#465, nielsandriesse, Null, Null, 12/12/2015, Null, 12/12/2015
+#464, nielsandriesse, Null, Null, 12/12/2015, Null, 26/12/2015
+#463, dayitv89, Null, Null, 12/12/2015, [13/12/2015], Null
+#462, practicalswift, Null, Null, 12/12/2015, Null, 12/12/2015
+#461, PatrickPijnappel, Null, Null, 12/12/2015, Null, 12/12/2015
+#460, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#459, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#458, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#457, mesmerizingr, Null, Null, 12/12/2015, [12/12/2015], Null
+#456, djwbrown, Null, Null, 12/12/2015, Null, 13/12/2015
+#455, frootloops, Null, Null, 12/12/2015, Null, 22/12/2015
+#454, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#453, timbodeit, Null, Null, 12/12/2015, Null, 15/01/2016
+#452, dayitv89, Null, Null, 12/12/2015, Null, 14/12/2015
+#451, nuts23, Null, Null, 12/12/2015, Null, 12/12/2015
+#450, EliaCereda, Null, Null, 12/12/2015, Null, 18/12/2015
+#449, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#448, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#447, dayitv89, Null, Null, 12/12/2015, [12/12/2015], Null
+#446, dayitv89, Null, Null, 12/12/2015, Null, 12/12/2015
+#445, nielsandriesse, Null, Null, 12/12/2015, Null, 12/12/2015
+#444, nielsandriesse, Null, Null, 12/12/2015, Null, 12/12/2015
+#443, nielsandriesse, Null, Null, 12/12/2015, Null, 12/12/2015
+#442, kashyappanda, Null, Null, 12/12/2015, Null, 12/12/2015
+#441, kashyappanda, Null, Null, 12/12/2015, [12/12/2015], Null
+#440, glessard, Null, Null, 11/12/2015, Null, Null
+#439, hpux735, Null, Null, 11/12/2015, Null, 13/12/2015
+#438, practicalswift, Null, Null, 11/12/2015, Null, 11/12/2015
+#437, k8stone, Apple member, Null, 11/12/2015, [15/12/2015], Null
+#436, dcci, Null, Null, 11/12/2015, Null, 11/12/2015
+#435, RLovelett, Null, Null, 11/12/2015, [13/12/2015 - 6/01/2016], Null
+#434, gwk, Null, Null, 11/12/2015, [11/12/2015], Null
+#433, nuts23, Null, Null, 11/12/2015, Null, 11/12/2015
+#432, gregomni, Null, Null, 11/12/2015, Null, 18/12/2015
+#431, swiftix, Apple member, Null, 11/12/2015, Null, 11/12/2015
+#430, swiftix, Apple member, Null, 11/12/2015, Null, 11/12/2015
+#429, garriguv, Null, Null, 11/12/2015, Null, 11/12/2015
+#428, bolshedvorsky, Null, Null, 11/12/2015, [26/12/2015], Null
+#427, djwbrown, Null, Null, 11/12/2015, Null, 11/12/2015
+#426, gpz500, Null, Null, 11/12/2015, [11/12/2015], Null
+#425, djwbrown, Null, Null, 11/12/2015, [11/12/2015], Null
+#424, gabrielPeart, Null, Null, 11/12/2015, Null, 11/12/2015
+#423, frootloops, Null, Null, 11/12/2015, Null, 11/12/2015
+#422, halfnelson, Null, Null, 11/12/2015, Null, 11/12/2015
+#421, practicalswift, Null, Null, 11/12/2015, Null, 12/12/2015
+#420, gabrielPeart, Null, Null, 11/12/2015, Null, 11/12/2015
+#419, dduan, Null, Null, 11/12/2015, [16/12/2015], Null
+#418, gregomni, Null, Null, 11/12/2015, Null, 11/12/2015
+#417, nielsandriesse, Null, Null, 11/12/2015, Null, 11/12/2015
+#416, radarhere, Null, Null, 11/12/2015, Null, 11/12/2015
+#415, hvy, Null, Null, 11/12/2015, [11/12/2015], Null
+#414, modocache, Null, Null, 11/12/2015, [11/12/2015], Null
+#413, billabt, Null, Null, 11/12/2015, Null, 12/12/2015
+#412, mfwass, Null, Null, 11/12/2015, [11/12/2015], Null
+#411, hvy, Null, Null, 11/12/2015, Null, 11/12/2015
+#410, modocache, Null, Null, 11/12/2015, Null, 11/12/2015
+#409, nielsandriesse, Null, Null, 11/12/2015, Null, 11/12/2015
+#408, kballard, Null, Null, 10/12/2015, Null, 24/12/2015
+#407, frootloops, Null, Null, 10/12/2015, Null, 10/12/2015
+#406, frootloops, Null, Null, 10/12/2015, Null, 10/12/2015
+#405, practicalswift, Null, Null, 10/12/2015, Null, 10/12/2015
+#404, frootloops, Null, Null, 10/12/2015, Null, 10/12/2015
+#403, eosrei, Null, Null, 10/12/2015, Null, 10/12/2015
+#402, gabrielPeart, Null, Null, 10/12/2015, [11/12/2015], Null
+#401, swiftix, Apple member, Null, 10/12/2015, Null, 10/12/2015
+#400, dduan, Null, Null, 10/12/2015, Null, 10/12/2015
+#399, practicalswift, Null, Null, 10/12/2015, Null, 10/12/2015
+#398, practicalswift, Null, Null, 10/12/2015, Null, 10/12/2015
+#397, hodgeswt, Null, Null, 10/12/2015, Null, 10/12/2015
+#396, practicalswift, Null, Null, 10/12/2015, Null, 10/12/2015
+#395, frootloops, Null, Null, 10/12/2015, [12/12/2015], Null
+#394, StevenMaude, Null, Null, 10/12/2015, Null, 10/12/2015
+#393, nuts23, Null, Null, 10/12/2015, Null, 10/12/2015
+#392, jutaz, Null, Null, 10/12/2015, Null, 10/12/2015
+#391, jpsim, Null, Null, 10/12/2015, Null, 10/12/2015
+#390, dduan, Null, Null, 10/12/2015, [10/12/2015], Null
+#389, gregomni, Null, Null, 10/12/2015, Null, 11/12/2015
+#388, wxxsw, Null, Null, 10/12/2015, Null, 10/12/2015
+#387, vicky002, Null, Null, 10/12/2015, Null, 10/12/2015
+#386, gregomni, Null, Null, 10/12/2015, Null, Null
+#385, rohitverma007, Null, Null, 10/12/2015, Null, 10/12/2015
+#384, vicky002, Null, Null, 10/12/2015, Null, 10/12/2015
+#383, gregomni, Null, Null, 10/12/2015, [10/12/2015], Null
+#382, tysun, Null, Null, 9/12/2015, Null, 9/12/2015
+#381, tysun, Null, Null, 9/12/2015, [10/12/2015], Null
+#380, jutaz, Null, Null, 9/12/2015, Null, 11/12/2015
+#379, vicky002, Null, Null, 9/12/2015, [10/12/2015], Null
+#378, CodaFi, Null, Null, 9/12/2015, [9/12/2015], Null
+#377, vicky002, Null, Null, 9/12/2015, [9/12/2015], Null
+#376, harlanhaskins, Apple member, Null, 9/12/2015, [27/01/2016], Null
+#375, nuts23, Null, Null, 9/12/2015, Null, 9/12/2015
+#374, jutaz, Null, Null, 9/12/2015, Null, 9/12/2015
+#373, monicasoni, Null, Null, 9/12/2015, [9/12/2015], Null
+#372, tysun, Null, Null, 9/12/2015, Null, 9/12/2015
+#371, Lewion, Null, Null, 9/12/2015, Null, 9/12/2015
+#370, pramodsharma403, Null, Null, 9/12/2015, Null, 9/12/2015
+#369, paulyoung, Null, Null, 9/12/2015, Null, 11/12/2015
+#368, PatrickPijnappel, Null, Null, 9/12/2015, Null, 12/12/2015
+#367, paulyoung, Null, Null, 9/12/2015, Null, 9/12/2015
+#366, PatrickPijnappel, Null, Null, 9/12/2015, Null, 12/12/2015
+#365, glyph, Null, Null, 9/12/2015, Null, Null
+#364, paulyoung, Null, Null, 9/12/2015, [9/12/2015], Null
+#363, paulyoung, Null, Null, 9/12/2015, [9/12/2015], Null
+#362, niuqihong, Null, Null, 9/12/2015, [9/12/2015], Null
+#361, dcci, Null, Null, 9/12/2015, Null, 10/12/2015
+#360, PatrickPijnappel, Null, Null, 9/12/2015, Null, 10/12/2015
+#359, Viewtiful, Null, Null, 8/12/2015, Null, 8/12/2015
+#358, chriseidhof, Null, Null, 8/12/2015, Null, 9/12/2015
+#357, gabrielPeart, Null, Null, 8/12/2015, [10/12/2015], Null
+#356, hodgeswt, Null, Null, 8/12/2015, [9/12/2015], Null
+#355, hodgeswt, Null, Null, 8/12/2015, [10/12/2015], Null
+#354, krez13, Null, Null, 8/12/2015, [8/12/2015], Null
+#353, jutaz, Null, Null, 8/12/2015, [8/12/2015], Null
+#352, ZuymantO, Null, Null, 8/12/2015, [8/12/2015], Null
+#350, NickCalabs, Null, Null, 8/12/2015, Null, 8/12/2015
+#349, nuts23, Null, Null, 8/12/2015, Null, 8/12/2015
+#348, wokalski, Null, Null, 8/12/2015, Null, 15/12/2015
+#347, punchharpit, Null, Null, 8/12/2015, Null, 8/12/2015
+#346, Minal91, Null, Null, 8/12/2015, [8/12/2015], Null
+#345, wiruzx, Null, Null, 8/12/2015, Null, 17/12/2015
+#344, monicasoni, Null, Null, 8/12/2015, Null, 8/12/2015
+#343, pramodsharma403, Null, Null, 8/12/2015, [9/12/2015], Null
+#342, gauravds, Null, Null, 8/12/2015, Null, 8/12/2015
+#341, RajkumarPunchh, Null, Null, 8/12/2015, Null, 8/12/2015
+#340, RajkumarPunchh, Null, Null, 8/12/2015, [8/12/2015], Null
+#339, cielavenir, Null, Null, 8/12/2015, Null, 12/12/2015
+#338, gauravds, Null, Null, 8/12/2015, Null, 8/12/2015
+#337, gabrielPeart, Null, Null, 8/12/2015, [8/12/2015], Null
+#336, vicky002, Null, Null, 8/12/2015, [9/12/2015], Null
+#335, JrGoodle, Null, Null, 8/12/2015, Null, 8/12/2015
+#334, Joshua-Anderson, Null, Null, 8/12/2015, Null, 8/12/2015
+#333, brentdax, Null, Null, 8/12/2015, Null, 8/12/2015
+#332, kashyappanda, Null, Null, 8/12/2015, Null, 8/12/2015
+#331, estan, Null, Null, 8/12/2015, [8/12/2015], Null
+#330, KrishMunot, Null, Null, 8/12/2015, [11/04/2016], Null
+#329, kashyappanda, Null, Null, 8/12/2015, [8/12/2015], Null
+#328, manavgabhawala, Null, Null, 7/12/2015, Null, 8/12/2015
+#327, erg, Null, Null, 7/12/2015, Null, 8/12/2015
+#326, nadavrot, Apple member, Null, 7/12/2015, Null, 7/12/2015
+#325, dcci, Null, Null, 7/12/2015, Null, 8/12/2015
+#324, xenyal, Null, Null, 7/12/2015, [9/12/2015], Null
+#323, codestergit, Null, Null, 7/12/2015, [7/12/2015], Null
+#322, estan, Null, Null, 7/12/2015, [7/12/2015], Null
+#321, gabrielPeart, Null, Null, 7/12/2015, [8/12/2015], Null
+#320, chriseidhof, Null, Null, 7/12/2015, [7/12/2015], Null
+#319, nickvdp, Null, Null, 7/12/2015, Null, 7/12/2015
+#318, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#317, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#316, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#315, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#314, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#313, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#312, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#311, jutaz, Null, Null, 7/12/2015, Null, 7/12/2015
+#310, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#309, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#308, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#307, dissimiral, Null, Null, 7/12/2015, Null, 7/12/2015
+#306, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#305, Zmiecer, Null, Null, 7/12/2015, Null, 7/12/2015
+#304, nuts23, Null, Null, 7/12/2015, Null, 7/12/2015
+#303, natemann, Null, Null, 7/12/2015, [7/12/2015], Null
+#302, Zmiecer, Null, Null, 7/12/2015, [7/12/2015], Null
+#301, nvkiet, Null, Null, 7/12/2015, Null, 7/12/2015
+#300, florianreinhart, Null, Null, 7/12/2015, [7/12/2015], Null
+#299, danielphillips, Null, Null, 7/12/2015, Null, 7/12/2015
+#298, florianreinhart, Null, Null, 7/12/2015, Null, 7/12/2015
+#297, yhisamatsu, Null, Null, 7/12/2015, Null, 17/12/2015
+#296, jtbandes, Null, Null, 7/12/2015, Null, 7/12/2015
+#295, AlexDenisov, Null, Null, 7/12/2015, [15/12/2015], Null
+#294, practicalswift, Null, Null, 7/12/2015, [10/12/2015], Null
+#293, manavgabhawala, Null, Null, 7/12/2015, Null, 7/12/2015
+#292, dcci, Null, Null, 7/12/2015, [16/12/2015], Null
+#291, manavgabhawala, Null, Null, 7/12/2015, [7/12/2015], Null
+#290, hiragram, Null, Null, 7/12/2015, [7/12/2015], Null
+#289, gregheo, Null, Null, 6/12/2015, Null, 6/12/2015
+#288, mrecachinas, Null, Null, 6/12/2015, Null, Null
+#287, kirankunigiri, Null, Null, 6/12/2015, Null, 7/12/2015
+#286, nuts23, Null, Null, 6/12/2015, Null, 6/12/2015
+#285, nuts23, Null, Null, 6/12/2015, Null, 6/12/2015
+#284, nuts23, Null, Null, 6/12/2015, [6/12/2015], Null
+#283, kashyappanda, Null, Null, 6/12/2015, Null, 6/12/2015
+#282, orobio, Null, Null, 6/12/2015, Null, 10/12/2015
+#281, divadretlaw, Null, Null, 6/12/2015, Null, 26/12/2015
+#280, practicalswift, Null, Null, 6/12/2015, Null, 6/12/2015
+#279, radex, Null, Null, 6/12/2015, Null, 6/12/2015
+#278, amosavian, Null, Null, 6/12/2015, [6/12/2015], Null
+#277, kballard, Null, Null, 6/12/2015, [26/02/2016], Null
+#276, colemancda, Null, Null, 6/12/2015, [6/12/2015], Null
+#275, AndrewSB, Null, Null, 6/12/2015, [6/12/2015], Null
+#274, gregomni, Null, Null, 6/12/2015, Null, 10/12/2015
+#273, CodaFi, Null, Null, 6/12/2015, Null, 6/12/2015
+#272, jtbandes, Null, Null, 6/12/2015, Null, 11/12/2015
+#271, MrWaknis, Null, Null, 6/12/2015, [10/12/2015], Null
+#270, hamin, Null, Null, 6/12/2015, Null, 6/12/2015
+#269, MrWaknis, Null, Null, 6/12/2015, [6/12/2015 - 6/12/2015], Null
+#268, MrWaknis, Null, Null, 6/12/2015, Null, 6/12/2015
+#267, MrWaknis, Null, Null, 6/12/2015, [10/12/2015], Null
+#266, jtbandes, Null, Null, 6/12/2015, Null, 7/12/2015
+#265, Huntrr, Null, Null, 6/12/2015, Null, 6/12/2015
+#264, kashyappanda, Null, Null, 6/12/2015, [6/12/2015], Null
+#263, kashyappanda, Null, Null, 6/12/2015, Null, 6/12/2015
+#262, Undo1, Null, Null, 6/12/2015, Null, 6/12/2015
+#261, stevex86, Null, Null, 6/12/2015, [6/12/2015], Null
+#260, kballard, Null, Null, 6/12/2015, Null, 7/12/2015
+#259, Huntrr, Null, Null, 6/12/2015, Null, 6/12/2015
+#258, Jumhyn, Null, Null, 6/12/2015, Null, 10/12/2015
+#257, KrishMunot, Null, Null, 6/12/2015, [8/12/2015], Null
+#256, JrGoodle, Null, Null, 6/12/2015, Null, 6/12/2015
+#255, keonkim, Null, Null, 5/12/2015, [6/12/2015], Null
+#254, eosrei, Null, Null, 5/12/2015, Null, 6/12/2015
+#253, jtbandes, Null, Null, 5/12/2015, Null, 11/12/2015
+#252, binkdotli, Null, Null, 5/12/2015, Null, 5/12/2015
+#251, zachpanz88, Null, Null, 5/12/2015, [11/12/2015], Null
+#250, Wilsonchong888, Null, Null, 5/12/2015, [5/12/2015], Null
+#249, diejmon, Null, Null, 5/12/2015, Null, 6/12/2015
+#248, RLovelett, Null, Null, 5/12/2015, Null, 10/12/2015
+#247, noremac, Null, Null, 5/12/2015, Null, 5/12/2015
+#246, paulyoung, Null, Null, 5/12/2015, [9/12/2015], Null
+#245, jawwad, Null, Null, 5/12/2015, [22/12/2015], Null
+#244, mohammadg, Null, Null, 5/12/2015, Null, 12/01/2016
+#243, ide-an, Null, Null, 5/12/2015, Null, 5/12/2015
+#242, adellibovi, Null, Null, 5/12/2015, Null, 5/12/2015
+#241, codestergit, Null, Null, 5/12/2015, Null, 6/12/2015
+#240, Viewtiful, Null, Null, 5/12/2015, Null, 7/12/2015
+#239, sukolsak, Null, Null, 5/12/2015, Null, 8/12/2015
+#238, manavgabhawala, Null, Null, 5/12/2015, [7/12/2015], Null
+#237, neko, Null, Null, 5/12/2015, [5/12/2015], Null
+#236, codestergit, Null, Null, 5/12/2015, Null, 5/12/2015
+#235, SiarheiBarysenka, Null, Null, 5/12/2015, [5/12/2015], Null
+#234, MathiasLuo, Null, Null, 5/12/2015, [5/12/2015], Null
+#233, yyx290799684, Null, Null, 5/12/2015, Null, 5/12/2015
+#232, yyx290799684, Null, Null, 5/12/2015, [5/12/2015], Null
+#231, yyx290799684, Null, Null, 5/12/2015, Null, 5/12/2015
+#230, wxxsw, Null, Null, 5/12/2015, Null, 5/12/2015
+#229, zachpanz88, Null, Null, 5/12/2015, [5/12/2015], Null
+#228, robtimp, Null, Null, 5/12/2015, Null, 5/12/2015
+#227, LeoShimonaka, Null, Null, 5/12/2015, Null, 5/12/2015
+#226, wxxsw, Null, Null, 5/12/2015, Null, 5/12/2015
+#225, indrora, Null, Null, 5/12/2015, [6/12/2015], Null
+#224, wxxsw, Null, Null, 5/12/2015, Null, 5/12/2015
+#223, weaksauce, Null, Null, 5/12/2015, Null, 5/12/2015
+#222, ken0nek, Null, Null, 5/12/2015, Null, 5/12/2015
+#221, melvinbeemer, Null, Null, 5/12/2015, [5/12/2015], Null
+#220, moiseev, Apple member, Null, 5/12/2015, [6/01/2016], Null
+#219, kashyappanda, Null, Null, 5/12/2015, [5/12/2015 - 6/12/2015], Null
+#218, Inari-Whitebear, Null, Null, 5/12/2015, Null, 6/12/2015
+#217, richardxyx, Null, Null, 4/12/2015, Null, 5/12/2015
+#215, ladekar, Null, Null, 4/12/2015, [5/12/2015], Null
+#214, stevenschmatz, Null, Null, 4/12/2015, Null, 4/12/2015
+#213, stevenschmatz, Null, Null, 4/12/2015, [5/12/2015], Null
+#212, stevenschmatz, Null, Null, 4/12/2015, Null, 4/12/2015
+#211, johnno1962, Null, Null, 4/12/2015, [5/12/2015], Null
+#210, zachpanz88, Null, Null, 4/12/2015, [6/12/2015], Null
+#209, nwellnhof, Null, Null, 4/12/2015, Null, 5/12/2015
+#208, meadori, Null, Null, 4/12/2015, Null, 4/12/2015
+#207, mrecachinas, Null, Null, 4/12/2015, Null, 4/12/2015
+#206, KrishMunot, Null, Null, 4/12/2015, [8/12/2015], Null
+#205, Viewtiful, Null, Null, 4/12/2015, Null, 4/12/2015
+#204, atrick, Apple member, Null, 4/12/2015, Null, 10/12/2015
+#203, landonf, Null, Null, 4/12/2015, Null, 5/12/2015
+#202, valzevul, Null, Null, 4/12/2015, [17/12/2015], Null
+#201, Fawxy, Null, Null, 4/12/2015, Null, 4/12/2015
+#200, KrishMunot, Null, Null, 4/12/2015, [4/12/2015], Null
+#199, KrishMunot, Null, Null, 4/12/2015, [4/12/2015], Null
+#198, zachpanz88, Null, Null, 4/12/2015, Null, 4/12/2015
+#197, joshbalfour, Null, Null, 4/12/2015, [4/12/2015], Null
+#196, billabt, Null, Null, 4/12/2015, [10/12/2015], Null
+#195, cbrentharris, Null, Null, 4/12/2015, Null, 4/12/2015
+#194, SwiftLover, Null, Null, 4/12/2015, [4/12/2015], Null
+#193, chriseidhof, Null, Null, 4/12/2015, Null, 4/12/2015
+#192, KrishMunot, Null, Null, 4/12/2015, [6/12/2015], Null
+#191, KrishMunot, Null, Null, 4/12/2015, Null, 4/12/2015
+#190, KrishMunot, Null, Null, 4/12/2015, [4/12/2015], Null
+#189, KrishMunot, Null, Null, 4/12/2015, [5/12/2015], Null
+#188, mmkg, Null, Null, 4/12/2015, [16/12/2015], Null
+#187, azimin, Null, Null, 4/12/2015, Null, 5/12/2015
+#186, mightydeveloper, Null, Null, 4/12/2015, Null, 4/12/2015
+#185, cbrentharris, Null, Null, 4/12/2015, Null, 18/12/2015
+#184, meadori, Null, Null, 4/12/2015, Null, 4/12/2015
+#183, shimesaba9, Null, Null, 4/12/2015, [4/12/2015], Null
+#182, mightydeveloper, Null, Null, 4/12/2015, Null, 4/12/2015
+#181, ken0nek, Null, Null, 4/12/2015, Null, 4/12/2015
+#180, zachpanz88, Null, Null, 4/12/2015, [11/12/2015], Null
+#179, OskarStark, Null, Null, 4/12/2015, [29/02/2016], Null
+#178, wide-aze, Null, Null, 4/12/2015, Null, 4/12/2015
+#177, mightydeveloper, Null, Null, 4/12/2015, [4/12/2015], Null
+#176, jgavinray, Null, Null, 4/12/2015, Null, 4/12/2015
+#175, lowell, Null, Null, 4/12/2015, Null, 4/12/2015
+#174, wxxsw, Null, Null, 4/12/2015, Null, 4/12/2015
+#173, DaKnOb, Null, Null, 4/12/2015, Null, 3/02/2016
+#172, ohkawa, Null, Null, 4/12/2015, Null, 4/12/2015
+#171, ken0nek, Null, Null, 4/12/2015, Null, 4/12/2015
+#170, ken0nek, Null, Null, 4/12/2015, [4/12/2015], Null
+#169, GuillaumeBibaut, Null, Null, 4/12/2015, Null, 11/12/2015
+#168, shwhl, Null, Null, 4/12/2015, Null, 4/12/2015
+#167, pramodsharma403, Null, Null, 4/12/2015, [4/12/2015 - 5/12/2015], Null
+#166, przybylski, Null, Null, 4/12/2015, Null, 6/12/2015
+#165, pcbro, Null, Null, 4/12/2015, Null, 4/12/2015
+#164, jawwad, Null, Null, 4/12/2015, Null, 5/12/2015
+#163, jtbandes, Null, Null, 4/12/2015, Null, 4/12/2015
+#162, pcbro, Null, Null, 4/12/2015, [4/12/2015], Null
+#161, frootloops, Null, Null, 4/12/2015, [5/12/2015], Null
+#160, justin999, Null, Null, 4/12/2015, Null, 4/12/2015
+#159, moiling, Null, Null, 4/12/2015, Null, 4/12/2015
+#158, TroutZen, Null, Null, 4/12/2015, Null, 4/12/2015
+#157, dbworku, Null, Null, 4/12/2015, [5/12/2015], Null
+#156, ken0nek, Null, Null, 4/12/2015, [4/12/2015], Null
+#155, bqueue, Null, Null, 4/12/2015, Null, 4/12/2015
+#154, jontelang, Null, Null, 4/12/2015, Null, 4/12/2015
+#153, bqueue, Null, Null, 4/12/2015, Null, 4/12/2015
+#152, jontelang, Null, Null, 4/12/2015, Null, 4/12/2015
+#151, ashishwt, Null, Null, 4/12/2015, Null, 4/12/2015
+#150, kballard, Null, Null, 4/12/2015, Null, 4/12/2015
+#149, ken0nek, Null, Null, 4/12/2015, Null, 4/12/2015
+#148, sdulal, Null, Null, 4/12/2015, [29/02/2016], Null
+#147, bqueue, Null, Null, 4/12/2015, Null, 4/12/2015
+#146, sanjeetsuhag, Null, Null, 4/12/2015, [6/12/2015], Null
+#145, mrmrs, Null, Null, 4/12/2015, Null, Null
+#144, royxue, Null, Null, 4/12/2015, Null, 4/12/2015
+#143, larryv, Null, Null, 4/12/2015, Null, 4/12/2015
+#142, LCcccccc, Null, Null, 4/12/2015, [4/12/2015], Null
+#141, marshallewhite, Null, Null, 4/12/2015, Null, 4/12/2015
+#140, thomasjeans, Null, Null, 4/12/2015, Null, 4/12/2015
+#139, kabayan55, Null, Null, 4/12/2015, Null, 4/12/2015
+#138, CodaFi, Null, Null, 4/12/2015, Null, 7/12/2015
+#137, T-Pham, Null, Null, 4/12/2015, [16/12/2015], Null
+#136, zachpanz88, Null, Null, 4/12/2015, Null, 9/12/2015
+#135, larryv, Null, Null, 4/12/2015, Null, 4/12/2015
+#134, snatchev, Null, Null, 4/12/2015, Null, 4/12/2015
+#133, jandrewstre, Null, Null, 4/12/2015, Null, 4/12/2015
+#132, AbelSu131, Null, Null, 4/12/2015, [4/12/2015], Null
+#131, neuhq, Null, Null, 4/12/2015, [4/12/2015], Null
+#130, jandrewstre, Null, Null, 4/12/2015, Null, 4/12/2015
+#129, zachpanz88, Null, Null, 4/12/2015, Null, 4/12/2015
+#128, jandrewstre, Null, Null, 4/12/2015, Null, 4/12/2015
+#127, Nirma, Null, Null, 4/12/2015, Null, 5/12/2015
+#126, to4iki, Null, Null, 4/12/2015, Null, 4/12/2015
+#125, jordanhubbard, Null, Null, 4/12/2015, [4/12/2015], Null
+#124, zachpanz88, Null, Null, 4/12/2015, [6/12/2015], Null
+#123, Haroenv, Null, Null, 4/12/2015, [4/12/2015], Null
+#122, kentya6, Null, Null, 4/12/2015, Null, 5/12/2015
+#121, noahfradin, Null, Null, 4/12/2015, Null, 4/12/2015
+#120, fabriziodemaria, Null, Null, 4/12/2015, Null, 4/12/2015
+#119, jonnyla, Null, Null, 4/12/2015, Null, 4/12/2015
+#118, mattdelves, Null, Null, 4/12/2015, [4/12/2015], Null
+#117, katzenbaer, Null, Null, 4/12/2015, Null, 4/12/2015
+#116, bdunlay, Null, Null, 3/12/2015, Null, 4/12/2015
+#115, katsumeshi, Null, Null, 3/12/2015, Null, 3/12/2015
+#114, balajipandian, Null, Null, 3/12/2015, Null, 4/12/2015
+#113, emilstahl, Null, Null, 3/12/2015, [11/12/2015], Null
+#112, joesavage, Null, Null, 3/12/2015, Null, 3/12/2015
+#111, codestergit, Null, Null, 3/12/2015, Null, 4/12/2015
+#110, ergenekonyigit, Null, Null, 3/12/2015, Null, 3/12/2015
+#109, rogergzou, Null, Null, 3/12/2015, Null, 3/12/2015
+#108, manyoso, Null, Null, 3/12/2015, Null, 3/12/2015
+#107, maartenbode, Null, Null, 3/12/2015, Null, 3/12/2015
+#106, JHoloboski, Null, Null, 3/12/2015, Null, 22/12/2015
+#105, spencerking, Null, Null, 3/12/2015, Null, 3/12/2015
+#104, rogergzou, Null, Null, 3/12/2015, Null, 3/12/2015
+#103, ergenekonyigit, Null, Null, 3/12/2015, [3/12/2015], Null
+#102, udp, Null, Null, 3/12/2015, Null, 3/12/2015
+#101, manyoso, Null, Null, 3/12/2015, Null, 3/12/2015
+#100, udp, Null, Null, 3/12/2015, Null, 3/12/2015
+#99, rogergzou, Null, Null, 3/12/2015, Null, 3/12/2015
+#98, DougGregor, Apple member, Null, 3/12/2015, Null, 3/12/2015
+#97, rogergzou, Null, Null, 3/12/2015, Null, 3/12/2015
+#96, jyap808, Null, Null, 3/12/2015, Null, 3/12/2015
+#95, regexident, Null, Null, 3/12/2015, Null, 3/12/2015
+#94, Goles, Null, Null, 3/12/2015, Null, 3/12/2015
+#93, grachyov, Null, Null, 3/12/2015, Null, 3/12/2015
+#92, jyap808, Null, Null, 3/12/2015, [3/12/2015], Null
+#91, manyoso, Null, Null, 3/12/2015, [3/12/2015 - 3/12/2015], Null
+#90, alexwlchan, Null, Null, 3/12/2015, [20/12/2015], Null
+#89, sferrini, Null, Null, 3/12/2015, Null, 3/12/2015
+#88, grachyov, Null, Null, 3/12/2015, Null, 3/12/2015
+#87, nico, Null, Null, 3/12/2015, Null, 3/12/2015
+#86, DaKnOb, Null, Null, 3/12/2015, [4/12/2015], Null
+#85, Tricertops, Null, Null, 3/12/2015, Null, 3/12/2015
+#84, Mitame, Null, Null, 3/12/2015, Null, 3/12/2015
+#83, Mitame, Null, Null, 3/12/2015, Null, Null
+#82, AndreasPrang, Null, Null, 3/12/2015, [4/12/2015], Null
+#81, jordanekay, Null, Null, 3/12/2015, Null, 3/12/2015
+#80, AndreasPrang, Null, Null, 3/12/2015, [4/12/2015], Null
+#79, Mitame, Null, Null, 3/12/2015, [3/12/2015], Null
+#78, mike-u, Null, Null, 3/12/2015, Null, 3/12/2015
+#77, joanna-chen, Null, Null, 3/12/2015, Null, 3/12/2015
+#76, serejahh, Null, Null, 3/12/2015, Null, 3/12/2015
+#75, johankj, Null, Null, 3/12/2015, Null, 3/12/2015
+#74, KevinPayravi, Null, Null, 3/12/2015, Null, 3/12/2015
+#73, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#72, frootloops, Null, Null, 3/12/2015, Null, 3/12/2015
+#71, larssmit, Null, Null, 3/12/2015, Null, 3/12/2015
+#70, shrx, Null, Null, 3/12/2015, Null, 3/12/2015
+#69, jandrewstre, Null, Null, 3/12/2015, Null, 3/12/2015
+#68, iKevinY, Null, Null, 3/12/2015, Null, 3/12/2015
+#67, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#66, johankj, Null, Null, 3/12/2015, Null, 3/12/2015
+#65, frootloops, Null, Null, 3/12/2015, [3/12/2015], Null
+#64, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#63, thelastjedi, Null, Null, 3/12/2015, Null, 3/12/2015
+#62, deafgoat, Null, Null, 3/12/2015, Null, 3/12/2015
+#61, d-soni, Null, Null, 3/12/2015, Null, 3/12/2015
+#60, xeoneux, Null, Null, 3/12/2015, Null, 3/12/2015
+#59, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#58, return, Null, Null, 3/12/2015, Null, 3/12/2015
+#57, uraimo, Null, Null, 3/12/2015, Null, 3/12/2015
+#56, Goles, Null, Null, 3/12/2015, Null, 3/12/2015
+#55, Goles, Null, Null, 3/12/2015, [3/12/2015], Null
+#54, ksaldana1, Null, Null, 3/12/2015, Null, 3/12/2015
+#53, rsmoz, Null, Null, 3/12/2015, Null, 3/12/2015
+#52, sdulal, Null, Null, 3/12/2015, [6/03/2016], Null
+#51, BrandonMathis, Null, Null, 3/12/2015, Null, 9/03/2016
+#50, OEASLAN, Null, Null, 3/12/2015, Null, 3/12/2015
+#49, sdulal, Null, Null, 3/12/2015, Null, 3/12/2015
+#48, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#47, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#46, mike-u, Null, Null, 3/12/2015, Null, 3/12/2015
+#45, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#44, ericholscher, Null, Null, 3/12/2015, Null, Null
+#43, lzwjava, Null, Null, 3/12/2015, Null, 3/12/2015
+#42, marlonandrade, Null, Null, 3/12/2015, [3/12/2015], Null
+#41, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#40, stevemoser, Null, Null, 3/12/2015, Null, 3/12/2015
+#39, jeremybarr, Null, Null, 3/12/2015, Null, 3/12/2015
+#38, sdulal, Null, Null, 3/12/2015, [6/12/2015], Null
+#37, ksaldana1, Null, Null, 3/12/2015, Null, 3/12/2015
+#36, beneggett, Null, Null, 3/12/2015, Null, 3/12/2015
+#35, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#34, kaneshin, Null, Null, 3/12/2015, Null, 3/12/2015
+#33, trel, Null, Null, 3/12/2015, Null, 3/12/2015
+#32, ravron, Null, Null, 3/12/2015, Null, 3/12/2015
+#31, BrandonMathis, Null, Null, 3/12/2015, Null, 11/12/2015
+#30, franzejr, Null, Null, 3/12/2015, Null, 3/12/2015
+#29, kylef, Null, Null, 3/12/2015, [4/12/2015], Null
+#28, ArtSabintsev, Null, Null, 3/12/2015, Null, 3/12/2015
+#27, kaneshin, Null, Null, 3/12/2015, Null, 3/12/2015
+#26, steveklabnik, Null, Null, 3/12/2015, Null, 3/12/2015
+#25, palfrey, Null, Null, 3/12/2015, Null, 3/12/2015
+#24, codestergit, Null, Null, 3/12/2015, Null, 3/12/2015
+#23, nstanke, Null, Null, 3/12/2015, Null, 3/12/2015
+#22, steveklabnik, Null, Null, 3/12/2015, Null, 3/12/2015
+#21, passsy, Null, Null, 3/12/2015, Null, 3/12/2015
+#20, jhersh, Null, Null, 3/12/2015, [3/12/2015], Null
+#19, alexwlchan, Null, Null, 3/12/2015, Null, 3/12/2015
+#18, mdiep, Null, Null, 3/12/2015, Null, 3/12/2015
+#17, mooman219, Null, Null, 3/12/2015, [4/12/2015], Null
+#16, filipw, Null, Null, 3/12/2015, Null, 3/12/2015
+#15, gribozavr, Apple member, Null, 1/12/2015, Null, 1/12/2015
+#14, swiftix, Apple member, Null, 30/11/2015, [10/12/2015], Null
+#13, jckarter, Apple member, Null, 30/11/2015, [4/12/2015], Null
+#12, shahmishal, Apple member, Null, 23/11/2015, Null, 24/11/2015
+#11, nadavrot, Apple member, Null, 23/11/2015, Null, 23/11/2015
+#10, nadavrot, Apple member, Null, 23/11/2015, Null, 23/11/2015
+#9, phausler, Apple member, Null, 20/11/2015, Null, 20/11/2015
+#8, phausler, Apple member, Null, 20/11/2015, Null, 21/11/2015
+#7, aschwaighofer, Apple member, Null, 20/11/2015, Null, 20/11/2015
+#6, adrian-prantl, Apple member, Null, 20/11/2015, Null, 22/11/2015
+#5, shahmishal, Apple member, Null, 20/11/2015, Null, 20/11/2015
+#4, phausler, Apple member, Null, 18/11/2015, Null, 19/11/2015
+#3, jckarter, Apple member, Null, 18/11/2015, [10/03/2016], Null
+#2, moiseev, Apple member, Null, 10/11/2015, [10/11/2015], Null
+#1, trentxintong, Apple member, Null, 3/11/2015, [10/11/2015], Null
