@@ -1,6 +1,10 @@
 # About
 
-This document presents the steps needed in order to reproduce the data used in our EMSE study. Read on for the guidelines.
+This document presents the steps needed in order to reproduce the data used in our EMSE study. Read on for the guidelines
+
+## Data
+
+All data and scripts can be found at the [folder](https://github.com/gustavopinto/migration-to-oss/tree/master/data)
 
 ## Survey
 
