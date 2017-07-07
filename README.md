@@ -10,9 +10,9 @@ Projects that became open-source.
 |-------|-------|---------|
 |[atom](https://discuss.atom.io/t/studying-the-evolution-of-atoms-project/29581) | :thumbsup: | :thumbsup: |
 |[hhvm](https://github.com/facebook/hhvm/issues/7122) | :thumbsup: | :thumbsup: |
-|[swift](http://permalink.gmane.org/gmane.comp.lang.swift.evolution/19859) | :thumbsdown: | --- |
+|[swift](http://permalink.gmane.org/gmane.comp.lang.swift.evolution/19859) | :thumbsdown: | :thumbsdown: |
 |[roslyn](https://github.com/dotnet/roslyn/issues/11714) | :thumbsup: | :thumbsup: |
-|[storm](https://mail-archives.apache.org/mod_mbox/storm-user/201606.mbox/browser) | :thumbsdown: | --- |
+|[storm](https://mail-archives.apache.org/mod_mbox/storm-user/201606.mbox/browser) | :thumbsdown: | :thumbsdown: |
 |[plotly](https://github.com/plotly/plotly.js/issues/712) | :thumbsup: | :thumbsup: |
 |[hubot](https://github.com/github/hubot/issues/1244) | :thumbsup: | :thumbsup: |
 |[zulip](https://github.com/zulip/zulip/issues/1968) | :thumbsup: | :thumbsup: |
@@ -28,7 +28,7 @@ Projects that did not keep the software history.
 |[ResearchKit](https://github.com/ResearchKit/ResearchKit/issues/682) | Apple | :thumbsdown: | :thumbsdown: |
 |[CareKit](https://github.com/carekit-apple/CareKit/issues/45) | Apple | :thumbsdown: | :thumbsdown: |
 |[flockdb](https://github.com/twitter/flockdb/issues/103) | Twitter | :thumbsup: | :thumbsdown: |
-|[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | --- |
+|[flight](https://github.com/flightjs/flight/issues/375) | Twitter | :thumbsdown: | :thumbsdown: |
 |[heron](https://github.com/twitter/heron/issues/1018) | Twitter | :thumbsup: | :thumbsup: |
 |[AnomalyDetection](https://github.com/twitter/AnomalyDetection/issues/71) | Twitter | :thumbsdown: | :thumbsdown: |
 |[caravel](https://github.com/airbnb/caravel/issues/470) | Airbnb | :thumbsup: | :thumbsup: |
@@ -48,7 +48,7 @@ Projects that did not keep the software history.
 |[warp-ctc](https://github.com/baidu-research/warp-ctc/issues/42) | baidu-research | :thumbsup: | :thumbsup: |
 |[codecombat](https://github.com/codecombat/codecombat/issues/3775) | codecombat | :thumbsup:  | :thumbsup: |
 |[djinni](https://github.com/dropbox/djinni/issues/253) | dropbox | :thumbsup:  | :thumbsup: |
-|[acat](https://github.com/01org/acat/issues/33) | Itel labs | :thumbsdown: | --- |
+|[acat](https://github.com/01org/acat/issues/33) | Itel labs | :thumbsdown: | :thumbsdown: |
 |[superpowers-core](https://github.com/superpowers/superpowers-core/issues/143) | SuperPowers | :thumbsup: | :thumbsup: |
 |[GameMaker](https://github.com/gandrewstone/GameMaker/issues/2) | GameMaker | :thumbsup: | :thumbsup: |
 |[opentoonz](https://github.com/opentoonz/opentoonz/issues/640) | opentoonz | :thumbsup: | :thumbsup: |
